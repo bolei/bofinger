@@ -1,4 +1,4 @@
 bofinger
 ========
 
-A finite-state french morphological analyzer
+A finite-state French morphological analyzer
