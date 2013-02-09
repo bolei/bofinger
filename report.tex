@@ -94,6 +94,77 @@ Morphalou:\\
 \indent Mentioned above, Morphalou contains a LMF defined lexicon that is almost available for being used as the fundalment of our software.\\
 
 \section{Survey of Phenomena in French}
+French verbs:\\
+Similar to English, French verbs are conjugated according to the sentence information by adding different suffix after the word stem.\\
+\\
+Following sentence information may affect how a verb is conjugated:\\
+\\
+\indent Mood: There are almost seven different moods in French. However some of them are almost not used in comtemporary French. For the first round development, I'll focus only on the four most important moods: indicative, subjunctive, conditional and imperative.\\
+\\
+\indent Tense: Depending on the mood, verbs are conjugated by the tense of the sentence. For indicative, there are eight tenses: present, present perfect, imperfect, pluperfect, simple past, past perfect, simple future and future perfect. For subjunctive, there are four tenses: present, past, imperfect and pluperfect. For imperative, two kinds of tenses exist: present and past. Conditional is special, it has only one type of conjugation regardless the tense.\\
+\\
+\indent Person: Based on the person, verbs adops different forms in many cases.\\
+\\
+French verbs are categarized into three groups. Each group has a different spelling rule. Here lists the spelling rule for each of the group:\\
+\\
+\indent The first group verbs ends with "er". The spelling rule is defined by replacing "er" with the following letters:\\
+\indent past participle: -\'e
+\indent present participle: -ant
+\indent - indicative\\
+\indent\indent present: -e, -es, -e, -ons, -ez, -ent\\
+\indent\indent simple past: -ai, -as, -a, -\^ames, -\^ates, -\`erent\\
+\indent\indent imperfect: -ais, -ais, -ait, -ions, -iez, -aient\\
+\indent\indent simple future: -erai, -eras, -era, -erons, -erez, -eront\\
+\\
+\indent - subjunctive\\
+\indent\indent present: -e, -es, -e, -ions, -iez, -ent\\
+\indent\indent imperfect: -asse, -asses, -\^at, -assions, -assiez, -assent\\
+\\
+\indent - imperative\\
+\indent\indent present: N/A, -e, -e, -ons, -ez, -ent\\
+\\
+\indent - conditional\\
+\indent\indent -erais, -erais, -erait, -erions, -eriez, -eraient\\
+\\
+\indent The second group verbs are those with the ending "ir":\\
+\indent past participle: -i
+\indent present participle: -ant
+\indent - indicative\\
+\indent\indent present: -e, -es, -e, -ons, -ez, -ent\\
+\indent\indent simple past: -is, -is, -it, -\^imes, -\^ites, -irent
+\indent\indent imperfect: -ais, -ais, -ait, -ions, -iez, -aient\\
+\indent\indent simple future: -irai, -iras, -ira, -irons, -irez, -iront\\
+\\
+\indent - subjunctive\\
+\indent\indent present: -e, -es, -e, -ions, -iez, -ent\\
+\indent\indent imperfect: -isse, -isses, -ît, -issions, -issiez, -issent\\
+\\
+\indent - imperative\\
+\indent\indent present: N/A, -is, -isse, -issons, -issez, -issent\\
+\\
+\indent - conditional\\
+\indent\indent -irais, -irais, -irait, -irions, -iriez, -iraient\\
+\\
+\indent The theird group verbs are special cases which do not have a common spelling rule. Fortunately there are not many verbs falling into this group. We can treat them case by case.\\
+\\
+French nouns:\\
+Each french noun has a gender (masculin or feminine). Most of the time, different genders of a same word are of differnt spelling. Most of the feminine forms of a nouns adds a "e" at the end of its masculin form. Like English, some French nouns are countable and some are uncountable. Generally, the plural form of a countable noun adds a "s" at the end. But sometimes "x", "eux" may be added. There are also irregular plural forms such as "yeux" as the plural form of "\oe il" (the word "eye" in English).\\
+\\
+French adjectives:\\
+Adjectives in French also need to comform the gender of the sentence.\\
+\\
+French articles and determiners:\\
+\indent definite article:\\
+\indent\indent Sigular: le (masculin), la (feminine)\\
+\indent\indent plural: les\\
+\indent indefinite article:\\
+\indent\indent Sigular: un (masculin), une (feminine)\\
+\indent\indent plural: des\\
+\indent partitive article:\\
+\indent\indent Sigular: du (masculin), de la (feminine)\\
+\indent\indent plural: des\\
+\\
+There are also types of words in French such as Pronoun, adverbs, Prepositions, Negation words which do not have complex spelling rules. Our program will treat them in a lower priority.
 
 \section{Initial Design}
 
