@@ -9,3 +9,6 @@ src/french.foma~
 src/french.lexc~
 src/runfoma.sh~
 src/runfoma.sh
+src/*~
+*~
+test*
