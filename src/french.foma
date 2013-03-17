@@ -1,7 +1,19 @@
 define C [b|c|d|f|g|h|j|k|l|m|n|p|q|r|s|t|v|w|x|z];
 define V [a|e|i|o|u|y];
 
-read lexc french.lexc
+read lexc verbs/group-1-verbs.lexc
+define	Group1Verbs;
+
+read lexc verbs/group-2-verbs.lexc
+define	Group2Verbs;
+
+read lexc verbs/group-3-verbs.lexc
+define	Group3Verbs;
+
+regex	Group1Verbs | Group2Verbs | Group3Verbs;
+define	Verbs;
+
+regex	Verbs;
 define	Grammar;
 
 define	Cleanup "^" -> 0;
