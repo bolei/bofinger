@@ -12,3 +12,4 @@ src/runfoma.sh
 src/*~
 *~
 test*
+data/
