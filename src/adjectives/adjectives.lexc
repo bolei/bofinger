@@ -1,3 +1,4 @@
+Multichar_Symbols +Adj +Adv +Mas +Fem +Sg +Pl
 
 LEXICON Root
 Ajectives;
@@ -9501,3 +9502,12 @@ LEXICON AjectivesInf
 +Adj+Fem+Sg:^e	#;
 +Adj+Mas+Pl:^s	#;
 +Adj+Mas+Pl:^es	#;
+
++Adv:0	AdverbInf;
+
+LEXICON AdverbInf
++Mas+Sg:^ment	#;
++Fem+Sg:^ement	#;
++Mas+Pl:^sment	#;
++Mas+Pl:^esment #;
+
