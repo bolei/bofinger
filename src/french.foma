@@ -1,6 +1,7 @@
 define C [b|c|d|f|g|h|j|k|l|m|n|p|q|r|s|t|v|w|x|z];
 define V [a|e|i|o|u|y];
 
+# verbs ================
 read lexc verbs/group-1-verbs.lexc
 define	Group1Verbs;
 
@@ -12,8 +13,36 @@ define	Group3Verbs;
 
 regex	Group1Verbs | Group2Verbs | Group3Verbs;
 define	Verbs;
+# verbs ================
 
-regex	Verbs;
+# nouns ================
+read lexc nouns/nouns-masc.lexc
+define	MasNouns;
+
+read lexc nouns/nouns-femi.lexc
+define	FemNouns;
+
+regex	MasNouns | FemNouns;
+define	Nouns;
+# nouns ================
+
+# adjectives ================
+read lexc adjectives/adjectives.lexc
+define	Adjectives;
+# adjectives ================
+
+
+# articles ================
+read lexc articles/articles.lexc
+define	Articles;
+# articles ================
+
+# determiners ================
+read lexc determiners/determiners.lexc
+define	Determiners;
+# determiners ================
+
+regex	Verbs | Nouns | Adjectives | Articles | Determiners;
 define	Grammar;
 
 define	Cleanup "^" -> 0;

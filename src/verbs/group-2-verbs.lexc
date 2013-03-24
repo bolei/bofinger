@@ -7,13 +7,14 @@
 !+Pre	present
 !+PSim	Simple past
 !+Fut	Simple future
-!+P1	1st person
-!+P2	2nd person
-!+P3	3rd person
-!+Sg	singular
-!+Pl	plural
+!+PP1S	1st person singular
+!+PP2S	2nd person singular
+!+PP3S	3rd person singular
+!+PP1P	1st person plural
+!+PP2P	2nd person plural
+!+PP3P	3rd person plural
 
-Multichar_Symbols +Ver +Inf +PPre +PPas +Ind +Sub +Con +Impr +Pre +PSim +Fut +P1 +P2 +P3 +Sg +Pl
+Multichar_Symbols +Ver +Inf +PPre +PPas +Ind +Sub +Con +Impr +Pre +PSim +Fut +PP1S +PP2S +PP3S +PP1P +PP2P +PP3P
 
 LEXICON Root
 Verb;
@@ -308,65 +309,65 @@ LEXICON Group2_Vinf
 
 LEXICON Group2_Indicative
 ! Présent
-+Pre+P1+Sg:^is				#;
-+Pre+P2+Sg:^is				#;
-+Pre+P3+Sg:^it				#;
-+Pre+P1+Pl:^issons			#;
-+Pre+P2+Pl:^issez			#;
-+Pre+P3+Pl:^issent			#;
++Pre+PP1S:^is				#;
++Pre+PP2S:^is				#;
++Pre+PP3S:^it				#;
++Pre+PP1P:^issons			#;
++Pre+PP2P:^issez			#;
++Pre+PP3P:^issent			#;
 
 ! Imparfait
-+Imp+P1+Sg:^issais			#;
-+Imp+P2+Sg:^issais			#;
-+Imp+P3+Sg:^issait			#;
-+Imp+P1+Pl:^issions			#;
-+Imp+P2+Pl:^issiez			#;
-+Imp+P3+Pl:^issaient		#;
++Imp+PP1S:^issais			#;
++Imp+PP2S:^issais			#;
++Imp+PP3S:^issait			#;
++Imp+PP1P:^issions			#;
++Imp+PP2P:^issiez			#;
++Imp+PP3P:^issaient		#;
 
 ! Passé Simple
-+PSim+P1+Sg:^is				#;
-+PSim+P2+Sg:^is				#;
-+PSim+P3+Sg:^it				#;
-+PSim+P1+Pl:^îmes			#;
-+PSim+P2+Pl:^îtes			#;
-+PSim+P3+Pl:^irent			#;
++PSim+PP1S:^is				#;
++PSim+PP2S:^is				#;
++PSim+PP3S:^it				#;
++PSim+PP1P:^îmes			#;
++PSim+PP2P:^îtes			#;
++PSim+PP3P:^irent			#;
 
 ! Future Simple
-+Fut+P1+Sg:^irai			#;
-+Fut+P2+Sg:^iras			#;
-+Fut+P3+Sg:^ira				#;
-+Fut+P1+Pl:^irons			#;
-+Fut+P2+Pl:^irez			#;
-+Fut+P3+Pl:^iront			#;
++Fut+PP1S:^irai			#;
++Fut+PP2S:^iras			#;
++Fut+PP3S:^ira				#;
++Fut+PP1P:^irons			#;
++Fut+PP2P:^irez			#;
++Fut+PP3P:^iront			#;
 
 LEXICON Group2_Subjunctive
 ! Présent
-+Pre+P1+Sg:^isse			#;
-+Pre+P2+Sg:^isses			#;
-+Pre+P3+Sg:^isse			#;
-+Pre+P1+Pl:^issions			#;
-+Pre+P2+Pl:^issiez			#;
-+Pre+P3+Pl:^issent			#;
++Pre+PP1S:^isse			#;
++Pre+PP2S:^isses			#;
++Pre+PP3S:^isse			#;
++Pre+PP1P:^issions			#;
++Pre+PP2P:^issiez			#;
++Pre+PP3P:^issent			#;
 
 ! Imparfait
-+Imp+P1+Sg:^isse			#;
-+Imp+P2+Sg:^isses			#;
-+Imp+P3+Sg:^ît				#;
-+Imp+P1+Pl:^issions			#;
-+Imp+P2+Pl:^issiez			#;
-+Imp+P3+Pl:^issent			#;
++Imp+PP1S:^isse			#;
++Imp+PP2S:^isses			#;
++Imp+PP3S:^ît				#;
++Imp+PP1P:^issions			#;
++Imp+PP2P:^issiez			#;
++Imp+PP3P:^issent			#;
 
 LEXICON Group2_Conditional
 ! Présent
-+Pre+P1+Sg:^irais			#;
-+Pre+P2+Sg:^irais			#;
-+Pre+P3+Sg:^irait			#;
-+Pre+P1+Pl:^irions			#;
-+Pre+P2+Pl:^iriez			#;
-+Pre+P3+Pl:^iraient			#;
++Pre+PP1S:^irais			#;
++Pre+PP2S:^irais			#;
++Pre+PP3S:^irait			#;
++Pre+PP1P:^irions			#;
++Pre+PP2P:^iriez			#;
++Pre+PP3P:^iraient			#;
 
 LEXICON Group2_Imperative
 ! Présent
-+Pre+P2+Sg:^is				#;
-+Pre+P1+Pl:^issons			#;
-+Pre+P2+Pl:^issez			#;
++Pre+PP2S:^is				#;
++Pre+PP1P:^issons			#;
++Pre+PP2P:^issez			#;

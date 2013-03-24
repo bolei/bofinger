@@ -7,13 +7,14 @@
 !+Pre	present
 !+PSim	Simple past
 !+Fut	Simple future
-!+P1	1st person
-!+P2	2nd person
-!+P3	3rd person
-!+Sg	singular
-!+Pl	plural
+!+PP1S	1st person singular
+!+PP2S	2nd person singular
+!+PP3S	3rd person singular
+!+PP1P	1st person plural
+!+PP2P	2nd person plural
+!+PP3P	3rd person plural
 
-Multichar_Symbols +Ver +Inf +PPre +PPas +Ind +Sub +Con +Impr +Pre +PSim +Fut +P1 +P2 +P3 +Sg +Pl
+Multichar_Symbols +Ver +Inf +PPre +PPas +Ind +Sub +Con +Impr +Pre +PSim +Fut +PP1S +PP2S +PP3S +PP1P +PP2P +PP3P
 
 LEXICON Root
 Verb;
@@ -4568,65 +4569,65 @@ LEXICON Group1_Vinf
 
 LEXICON Group1_Indicative
 ! Présent
-+Pre+P1+Sg:^e				#;
-+Pre+P2+Sg:^es				#;
-+Pre+P3+Sg:^e				#;
-+Pre+P1+Pl:^ons				#;
-+Pre+P2+Pl:^ez				#;
-+Pre+P3+Pl:^ent				#;
++Pre+PP1S:^e				#;
++Pre+PP2S:^es				#;
++Pre+PP3S:^e				#;
++Pre+PP1P:^ons				#;
++Pre+PP2P:^ez				#;
++Pre+PP3P:^ent				#;
 
 ! Imparfait
-+Imp+P1+Sg:^eais			#;
-+Imp+P2+Sg:^eais			#;
-+Imp+P3+Sg:^eait			#;
-+Imp+P1+Pl:^ions			#;
-+Imp+P2+Pl:^iez				#;
-+Imp+P3+Pl:^eaient			#;
++Imp+PP1S:^eais			#;
++Imp+PP2S:^eais			#;
++Imp+PP3S:^eait			#;
++Imp+PP1P:^ions			#;
++Imp+PP2P:^iez				#;
++Imp+PP3P:^eaient			#;
 
 ! Passé Simple
-+PSim+P1+Sg:^eai			#;
-+PSim+P2+Sg:^eas			#;
-+PSim+P3+Sg:^ea				#;
-+PSim+P1+Pl:^eâmes			#;
-+PSim+P2+Pl:^eâtes			#;
-+PSim+P3+Pl:^èrent			#;
++PSim+PP1S:^eai			#;
++PSim+PP2S:^eas			#;
++PSim+PP3S:^ea				#;
++PSim+PP1P:^eâmes			#;
++PSim+PP2P:^eâtes			#;
++PSim+PP3P:^èrent			#;
 
 ! Future Simple
-+Fut+P1+Sg:^erai			#;
-+Fut+P2+Sg:^eras			#;
-+Fut+P3+Sg:^era				#;
-+Fut+P1+Pl:^erons			#;
-+Fut+P2+Pl:^erez			#;
-+Fut+P3+Pl:^eront			#;
++Fut+PP1S:^erai			#;
++Fut+PP2S:^eras			#;
++Fut+PP3S:^era				#;
++Fut+PP1P:^erons			#;
++Fut+PP2P:^erez			#;
++Fut+PP3P:^eront			#;
 
 LEXICON Group1_Subjunctive
 ! Présent
-+Pre+P1+Sg:^e				#;
-+Pre+P2+Sg:^es				#;
-+Pre+P3+Sg:^e				#;
-+Pre+P1+Pl:^ions			#;
-+Pre+P2+Pl:^iez				#;
-+Pre+P3+Pl:^ent				#;
++Pre+PP1S:^e				#;
++Pre+PP2S:^es				#;
++Pre+PP3S:^e				#;
++Pre+PP1P:^ions			#;
++Pre+PP2P:^iez				#;
++Pre+PP3P:^ent				#;
 
 ! Imparfait
-+Imp+P1+Sg:^easse			#;
-+Imp+P2+Sg:^easses			#;
-+Imp+P3+Sg:^eât				#;
-+Imp+P1+Pl:^eassions		#;
-+Imp+P2+Pl:^eassiez			#;
-+Imp+P3+Pl:^eassent			#;
++Imp+PP1S:^easse			#;
++Imp+PP2S:^easses			#;
++Imp+PP3S:^eât				#;
++Imp+PP1P:^eassions		#;
++Imp+PP2P:^eassiez			#;
++Imp+PP3P:^eassent			#;
 
 LEXICON Group1_Conditional
 ! Présent
-+Pre+P1+Sg:^erais			#;
-+Pre+P2+Sg:^erais			#;
-+Pre+P3+Sg:^erait			#;
-+Pre+P1+Pl:^erions			#;
-+Pre+P2+Pl:^eriez			#;
-+Pre+P3+Pl:^eraient			#;
++Pre+PP1S:^erais			#;
++Pre+PP2S:^erais			#;
++Pre+PP3S:^erait			#;
++Pre+PP1P:^erions			#;
++Pre+PP2P:^eriez			#;
++Pre+PP3P:^eraient			#;
 
 LEXICON Group1_Imperative
 ! Présent
-+Pre+P2+Sg:^e				#;
-+Pre+P1+Pl:^eons			#;
-+Pre+P2+Pl:^ez				#;
++Pre+PP2S:^e				#;
++Pre+PP1P:^eons			#;
++Pre+PP2P:^ez				#;
