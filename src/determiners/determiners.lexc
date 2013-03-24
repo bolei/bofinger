@@ -1,0 +1,44 @@
+Multichar_Symbols +PossDet +DemDet +InterrDet +PP1S +PP2S +PP3S +PP1P +PP2P +PP3P +Mas +Fem +Sg +Pl
+
+LEXICON Root
+
+mon+PossDet+PP1S+Mas+Sg:mon	#;
+mon+PossDet+PP1S+Fem+Sg:ma	#;
+mon+PossDet+PP1S+Mas+Pl:mes	#;
+mon+PossDet+PP1S+Fem+Pl:mes	#;
+
+notre+PossDet+PP1P+Mas+Sg:notre	#;
+notre+PossDet+PP1P+Fem+Sg:notre	#;
+notre+PossDet+PP1P+Mas+Pl:nos	#;
+notre+PossDet+PP1P+Fem+Pl:nos	#;
+
+ton+PossDet+PP2S+Mas+Sg:ton	#;
+ton+PossDet+PP2S+Fem+Sg:ta	#;
+ton+PossDet+PP2S+Mas+Pl:tes	#;
+ton+PossDet+PP2S+Fem+Pl:tes	#;
+
+votre+PossDet+PP2P+Mas+Sg:votre	#;
+votre+PossDet+PP2P+Fem+Sg:votre	#;
+votre+PossDet+PP2P+Mas+Pl:vos	#;
+votre+PossDet+PP2P+Fem+Pl:vos	#;
+
+son+PossDet+PP3S+Mas+Sg:son	#;
+son+PossDet+PP3S+Fem+Sg:sa	#;
+son+PossDet+PP3S+Mas+Pl:ses	#;
+son+PossDet+PP3S+Fem+Pl:ses	#;
+
+leur+PossDet+PP3P+Mas+Sg:leur	#;
+leur+PossDet+PP3P+Fem+Sg:leur	#;
+leur+PossDet+PP3P+Mas+Pl:leurs	#;
+leur+PossDet+PP3P+Fem+Pl:leurs	#;
+
+ce+DemDet+Mas+Sg:ce		#;
+ce+DemDet+Mas+Sg:cet	#;
+ce+DemDet+Fem+Sg:cette	#;
+ce+DemDet+Mas+Pl:ces	#;
+ce+DemDet+Fem+Pl:ces	#;
+
+quel+InterrDet+Mas+Sg:quel		#;
+quel+InterrDet+Fem+Sg:quelle	#;
+quel+InterrDet+Mas+Pl:quels		#;
+quel+InterrDet+Fem+Pl:quelles	#;
