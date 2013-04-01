@@ -13,3 +13,6 @@ src/*~
 *~
 test*
 data/
+*.bin
+temp/
+src/runflookup.sh

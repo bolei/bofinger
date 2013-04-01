@@ -1,0 +1,2893 @@
+Les	+?
+
+Trois	+?
+
+Mousquetaires	+?
+
+Alexandre	+?
+
+Dumas	+?
+
+Il	+?
+
+y	+?
+
+a	+?
+
+un	un+Nom+Mas+Sg
+un	un+IndefArt+Mas+Sg
+
+an	an+Nom+Mas+Sg
+
+à	+?
+
+peu	peu+Nom+Mas+Sg
+
+près	+?
+
+,	,
+
+qu'	+?
+
+en	+?
+
+faisant	faire+Ver+PPre
+
+à	+?
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+Bibliothèque	+?
+
+royale	royal+Adj+Fem+Sg
+
+des	du+PartArt+Mas+Pl
+des	du+PartArt+Fem+Pl
+des	un+IndefArt+Mas+Pl
+des	un+IndefArt+Fem+Pl
+
+recherches	rechercher+Ver+Sub+Pre+PP2S
+recherches	rechercher+Ver+Ind+Pre+PP2S
+recherches	recherche+Nom+Fem+Pl
+
+pour	+?
+
+mon	mon+Nom+Mas+Sg
+mon	mon+PossDet+PP1S+Mas+Sg
+
+histoire	histoire+Nom+Fem+Sg
+
+de	+?
+
+Louis	+?
+
+XIV	+?
+
+,	,
+
+je	+?
+
+tombai	+?
+
+par	par+Nom+Mas+Sg
+
+hasard	hasard+Nom+Mas+Sg
+
+sur	sur+Adj+Mas+Sg
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+_	_
+
+Mémoires	+?
+
+de	+?
+
+M	+?
+
+.	.
+
+d'	+?
+
+Artagnan	+?
+
+_	_
+
+,	,
+
+imprimés	+?
+
+,	,
+
+-	-
+
+comme	+?
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+plus	plus+Nom+Mas+Sg
+
+grande	grand+Adj+Fem+Sg
+
+partie	partie+Nom+Fem+Sg
+
+des	du+PartArt+Mas+Pl
+des	du+PartArt+Fem+Pl
+des	un+IndefArt+Mas+Pl
+des	un+IndefArt+Fem+Pl
+
+ouvrages	ouvrage+Nom+Mas+Pl
+
+de	+?
+
+cette	ce+DemDet+Fem+Sg
+
+époque	époque+Nom+Fem+Sg
+
+,	,
+
+où	+?
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+auteurs	auteur+Nom+Mas+Pl
+
+tenaient	tenir+Ver+Ind+Imp+PP3P
+
+à	+?
+
+dire	dire+Ver+Inf
+dire	dire+Nom+Mas+Sg
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+vérité	vérité+Nom+Fem+Sg
+
+sans	san+Nom+Mas+Pl
+
+aller	aller+Nom+Mas+Sg
+aller	aller+Inf
+
+faire	faire+Ver+Inf
+
+un	un+Nom+Mas+Sg
+un	un+IndefArt+Mas+Sg
+
+tour	tour+Nom+Mas+Sg
+tour	tour+Nom+Fem+Sg
+
+plus	plus+Nom+Mas+Sg
+
+ou	+?
+
+moins	moins+Nom+Mas+Sg
+
+long	long+Adj+Mas+Sg
+
+à	+?
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+Bastille	+?
+
+,	,
+
+-	-
+
+à	+?
+
+Amsterdam	+?
+
+,	,
+
+chez	+?
+
+Pierre	+?
+
+Rouge	+?
+
+.	.
+
+Le	+?
+
+titre	titrer+Ver+Sub+Pre+PP3S
+titre	titrer+Ver+Sub+Pre+PP1S
+titre	titrer+Ver+Ind+Pre+PP3S
+titre	titrer+Ver+Ind+Pre+PP1S
+titre	titrer+Ver+Impr+Pre+PP2S
+titre	titre+Nom+Mas+Sg
+
+me	+?
+
+séduisit	séduire+Ver+Ind+PSim+PP3S
+
+:	:
+
+je	+?
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+emportai	+?
+
+chez	+?
+
+moi	moi+Nom+Mas+Sg
+
+,	,
+
+avec	+?
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+permission	+?
+
+de	+?
+
+M	+?
+
+.	.
+
+le	le+DefArt+Mas+Sg
+
+conservateur	conservateur+Nom+Mas+Sg
+conservateur	conservateur+Adj+Mas+Sg
+
+,	,
+
+bien	bien+Nom+Mas+Sg
+
+entendu	entendre+Ver+PPas
+entendu	entendu+Adj+Mas+Sg
+
+,	,
+
+je	+?
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+dévorai	+?
+
+.	.
+
+Mon	+?
+
+intention	intention+Nom+Fem+Sg
+
+n'	+?
+
+est	est+Nom+Mas+Sg
+est	est+Adj+Mas+Sg
+
+pas	pas+Nom+Mas+Sg
+
+de	+?
+
+faire	faire+Ver+Inf
+
+ici	+?
+
+une	une+Nom+Fem+Sg
+une	un+IndefArt+Fem+Sg
+
+analyse	analyser+Ver+Sub+Pre+PP3S
+analyse	analyser+Ver+Sub+Pre+PP1S
+analyse	analyser+Ver+Ind+Pre+PP3S
+analyse	analyser+Ver+Ind+Pre+PP1S
+analyse	analyser+Ver+Impr+Pre+PP2S
+analyse	analyse+Nom+Fem+Sg
+
+de	+?
+
+ce	ce+DemDet+Mas+Sg
+
+curieux	curieux+Nom+Mas+Sg
+curieux	curieux+Adj+Mas+Sg
+
+ouvrage	ouvrage+Nom+Mas+Sg
+
+,	,
+
+et	+?
+
+je	+?
+
+me	+?
+
+contenterai	contenter+Ver+Ind+Fut+PP1S
+
+d'	+?
+
+y	+?
+
+renvoyer	renvoyer+Inf
+
+ceux	+?
+
+de	+?
+
+mes	mon+PossDet+PP1S+Mas+Pl
+mes	mon+PossDet+PP1S+Fem+Pl
+
+lecteurs	lecteur+Nom+Mas+Pl
+
+qui	+?
+
+apprécient	apprécier+Ver+Sub+Pre+PP3P
+apprécient	apprécier+Ver+Ind+Pre+PP3P
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+tableaux	+?
+
+d'	+?
+
+époques	époque+Nom+Fem+Pl
+
+.	.
+
+Ils	+?
+
+y	+?
+
+trouveront	trouver+Ver+Ind+Fut+PP3P
+
+des	du+PartArt+Mas+Pl
+des	du+PartArt+Fem+Pl
+des	un+IndefArt+Mas+Pl
+des	un+IndefArt+Fem+Pl
+
+portraits	portrait+Nom+Mas+Pl
+
+crayonnés	+?
+
+de	+?
+
+main	main+Nom+Fem+Sg
+
+de	+?
+
+maître	maître+Nom+Mas+Sg
+
+;	;
+
+et	+?
+
+,	,
+
+quoique	+?
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+esquisses	esquisser+Ver+Sub+Pre+PP2S
+esquisses	esquisser+Ver+Ind+Pre+PP2S
+esquisses	esquisse+Nom+Fem+Pl
+
+soient	être+Sub+Pre+PP3P
+
+,	,
+
+pour	+?
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+plupart	+?
+
+du	du+PartArt+Mas+Sg
+
+temps	temps+Nom+Mas+Sg
+
+,	,
+
+tracées	+?
+
+sur	sur+Adj+Mas+Sg
+
+des	du+PartArt+Mas+Pl
+des	du+PartArt+Fem+Pl
+des	un+IndefArt+Mas+Pl
+des	un+IndefArt+Fem+Pl
+
+portes	porter+Ver+Sub+Pre+PP2S
+portes	porter+Ver+Ind+Pre+PP2S
+portes	porte+Nom+Fem+Pl
+
+de	+?
+
+caserne	caserner+Ver+Sub+Pre+PP3S
+caserne	caserner+Ver+Sub+Pre+PP1S
+caserne	caserner+Ver+Ind+Pre+PP3S
+caserne	caserner+Ver+Ind+Pre+PP1S
+caserne	caserner+Ver+Impr+Pre+PP2S
+caserne	caserne+Nom+Fem+Sg
+
+et	+?
+
+sur	sur+Adj+Mas+Sg
+
+des	du+PartArt+Mas+Pl
+des	du+PartArt+Fem+Pl
+des	un+IndefArt+Mas+Pl
+des	un+IndefArt+Fem+Pl
+
+murs	mur+Nom+Mas+Pl
+
+de	+?
+
+cabaret	cabaret+Nom+Mas+Sg
+
+,	,
+
+ils	+?
+
+n'	+?
+
+y	+?
+
+reconnaîtront	reconnaître+Ver+Ind+Fut+PP3P
+
+pas	pas+Nom+Mas+Sg
+
+moins	moins+Nom+Mas+Sg
+
+,	,
+
+aussi	+?
+
+ressemblantes	ressemblant+Adj+Mas+Pl
+
+que	+?
+
+dans	dan+Nom+Mas+Pl
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+
+histoire	histoire+Nom+Fem+Sg
+
+de	+?
+
+M	+?
+
+.	.
+
+Anquetil	+?
+
+,	,
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+images	image+Nom+Fem+Pl
+
+de	+?
+
+Louis	+?
+
+XIII	+?
+
+,	,
+
+d'	+?
+
+Anne	+?
+
+d'	+?
+
+Autriche	+?
+
+,	,
+
+de	+?
+
+Richelieu	Richelieu+Nom+Mas+Sg
+
+,	,
+
+de	+?
+
+Mazarin	+?
+
+et	+?
+
+de	+?
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+plupart	+?
+
+des	du+PartArt+Mas+Pl
+des	du+PartArt+Fem+Pl
+des	un+IndefArt+Mas+Pl
+des	un+IndefArt+Fem+Pl
+
+courtisans	courtisan+Nom+Mas+Pl
+
+de	+?
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+
+époque	époque+Nom+Fem+Sg
+
+.	.
+
+Mais	+?
+
+,	,
+
+comme	+?
+
+on	+?
+
+le	le+DefArt+Mas+Sg
+
+sait	+?
+
+,	,
+
+ce	ce+DemDet+Mas+Sg
+
+qui	+?
+
+frappe	frapper+Ver+Sub+Pre+PP3S
+frappe	frapper+Ver+Sub+Pre+PP1S
+frappe	frapper+Ver+Ind+Pre+PP3S
+frappe	frapper+Ver+Ind+Pre+PP1S
+frappe	frapper+Ver+Impr+Pre+PP2S
+frappe	frappe+Nom+Fem+Sg
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+
+esprit	esprit+Nom+Mas+Sg
+
+capricieux	capricieux+Adj+Mas+Sg
+
+du	du+PartArt+Mas+Sg
+
+poète	poète+Nom+Mas+Sg
+
+n'	+?
+
+est	est+Nom+Mas+Sg
+est	est+Adj+Mas+Sg
+
+pas	pas+Nom+Mas+Sg
+
+toujours	+?
+
+ce	ce+DemDet+Mas+Sg
+
+qui	+?
+
+impressionne	impressionner+Ver+Sub+Pre+PP3S
+impressionne	impressionner+Ver+Sub+Pre+PP1S
+impressionne	impressionner+Ver+Ind+Pre+PP3S
+impressionne	impressionner+Ver+Ind+Pre+PP1S
+impressionne	impressionner+Ver+Impr+Pre+PP2S
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+masse	masser+Ver+Sub+Pre+PP3S
+masse	masser+Ver+Sub+Pre+PP1S
+masse	masser+Ver+Ind+Pre+PP3S
+masse	masser+Ver+Ind+Pre+PP1S
+masse	masser+Ver+Impr+Pre+PP2S
+masse	masse+Nom+Fem+Sg
+
+des	du+PartArt+Mas+Pl
+des	du+PartArt+Fem+Pl
+des	un+IndefArt+Mas+Pl
+des	un+IndefArt+Fem+Pl
+
+lecteurs	lecteur+Nom+Mas+Pl
+
+.	.
+
+Or	+?
+
+,	,
+
+tout	tout+Adj+Mas+Sg
+
+en	+?
+
+admirant	+?
+
+,	,
+
+comme	+?
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+autres	autre+Adj+Mas+Pl
+
+admireront	admirer+Ver+Ind+Fut+PP3P
+
+sans	san+Nom+Mas+Pl
+
+doute	douter+Ver+Sub+Pre+PP3S
+doute	douter+Ver+Sub+Pre+PP1S
+doute	douter+Ver+Ind+Pre+PP3S
+doute	douter+Ver+Ind+Pre+PP1S
+doute	douter+Ver+Impr+Pre+PP2S
+doute	doute+Nom+Mas+Sg
+
+,	,
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+détails	détail+Nom+Mas+Pl
+
+que	+?
+
+nous	nous+Nom+Mas+Sg
+
+avons	+?
+
+signalés	+?
+
+,	,
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+chose	chose+Nom+Fem+Sg
+
+qui	+?
+
+nous	nous+Nom+Mas+Sg
+
+préoccupa	+?
+
+le	le+DefArt+Mas+Sg
+
+plus	plus+Nom+Mas+Sg
+
+est	est+Nom+Mas+Sg
+est	est+Adj+Mas+Sg
+
+une	une+Nom+Fem+Sg
+une	un+IndefArt+Fem+Sg
+
+chose	chose+Nom+Fem+Sg
+
+à	+?
+
+laquelle	+?
+
+bien	bien+Nom+Mas+Sg
+
+certainement	certain+Adv+Fem+Sg
+
+personne	personne+Nom+Fem+Sg
+
+avant	avant+Nom+Mas+Sg
+
+nous	nous+Nom+Mas+Sg
+
+n'	+?
+
+avait	+?
+
+fait	faire+Ver+Ind+Pre+PP3S
+fait	faire+Ver+PPas
+fait	fait+Nom+Mas+Sg
+fait	fait+Adj+Mas+Sg
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+moindre	moindre+Adj+Mas+Sg
+
+attention	attention+Nom+Fem+Sg
+
+.	.
+
+D'	+?
+
+Artagnan	+?
+
+raconte	raconter+Ver+Sub+Pre+PP3S
+raconte	raconter+Ver+Sub+Pre+PP1S
+raconte	raconter+Ver+Ind+Pre+PP3S
+raconte	raconter+Ver+Ind+Pre+PP1S
+raconte	raconter+Ver+Impr+Pre+PP2S
+
+qu'	+?
+
+à	+?
+
+sa	son+PossDet+PP3S+Fem+Sg
+
+première	première+Nom+Fem+Sg
+
+visite	visiter+Ver+Sub+Pre+PP3S
+visite	visiter+Ver+Sub+Pre+PP1S
+visite	visiter+Ver+Ind+Pre+PP3S
+visite	visiter+Ver+Ind+Pre+PP1S
+visite	visiter+Ver+Impr+Pre+PP2S
+visite	visite+Nom+Fem+Sg
+
+à	+?
+
+M	+?
+
+.	.
+
+de	+?
+
+Tréville	+?
+
+,	,
+
+le	le+DefArt+Mas+Sg
+
+capitaine	capitaine+Nom+Mas+Sg
+
+des	du+PartArt+Mas+Pl
+des	du+PartArt+Fem+Pl
+des	un+IndefArt+Mas+Pl
+des	un+IndefArt+Fem+Pl
+
+mousquetaires	mousquetaire+Nom+Mas+Pl
+
+du	du+PartArt+Mas+Sg
+
+roi	roi+Nom+Mas+Sg
+
+,	,
+
+il	+?
+
+rencontra	+?
+
+dans	dan+Nom+Mas+Pl
+
+son	son+Nom+Mas+Sg
+son	son+PossDet+PP3S+Mas+Sg
+
+antichambre	antichambre+Nom+Fem+Sg
+
+trois	+?
+
+jeunes	jeuner+Ver+Sub+Pre+PP2S
+jeunes	jeuner+Ver+Ind+Pre+PP2S
+jeunes	jeune+Nom+Mas+Pl
+jeunes	jeune+Nom+Fem+Pl
+jeunes	jeune+Adj+Mas+Pl
+
+gens	gens+Nom+Mas+Sg
+
+servant	servant+Nom+Mas+Sg
+servant	servir+PPre
+
+dans	dan+Nom+Mas+Pl
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+
+illustre	illustrer+Ver+Sub+Pre+PP3S
+illustre	illustrer+Ver+Sub+Pre+PP1S
+illustre	illustrer+Ver+Ind+Pre+PP3S
+illustre	illustrer+Ver+Ind+Pre+PP1S
+illustre	illustrer+Ver+Impr+Pre+PP2S
+illustre	illustre+Adj+Mas+Sg
+
+corps	corps+Nom+Mas+Sg
+
+où	+?
+
+il	+?
+
+sollicitait	+?
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+
+honneur	honneur+Nom+Mas+Sg
+
+d'	+?
+
+être	être+Nom+Mas+Sg
+être	être+Inf
+
+reçu	recevoir+Ver+PPas
+reçu	reçu+Nom+Mas+Sg
+reçu	reçu+Adj+Mas+Sg
+
+,	,
+
+et	+?
+
+ayant	ayant+Nom+Mas+Sg
+ayant	avoir+PPre
+
+nom	nom+Nom+Mas+Sg
+
+Athos	+?
+
+,	,
+
+Porthos	+?
+
+et	+?
+
+Aramis	+?
+
+.	.
+
+Nous	+?
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+
+avouons	avouer+Ver+Ind+Pre+PP1P
+
+,	,
+
+ces	ce+DemDet+Mas+Pl
+ces	ce+DemDet+Fem+Pl
+
+trois	+?
+
+noms	nom+Nom+Mas+Pl
+
+étrangers	étranger+Nom+Mas+Pl
+étrangers	étranger+Adj+Mas+Pl
+
+nous	nous+Nom+Mas+Sg
+
+frappèrent	frapper+Ver+Ind+PSim+PP3P
+
+,	,
+
+et	+?
+
+il	+?
+
+nous	nous+Nom+Mas+Sg
+
+vint	venir+Ver+Ind+PSim+PP3S
+
+aussitôt	+?
+
+à	+?
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+
+esprit	esprit+Nom+Mas+Sg
+
+qu'	+?
+
+ils	+?
+
+n'	+?
+
+étaient	être+Ind+Imp+PP3P
+
+que	+?
+
+des	du+PartArt+Mas+Pl
+des	du+PartArt+Fem+Pl
+des	un+IndefArt+Mas+Pl
+des	un+IndefArt+Fem+Pl
+
+pseudonymes	pseudonyme+Nom+Mas+Pl
+pseudonymes	pseudonyme+Adj+Mas+Pl
+
+à	+?
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+
+aide	aider+Ver+Sub+Pre+PP3S
+aide	aider+Ver+Sub+Pre+PP1S
+aide	aider+Ver+Ind+Pre+PP3S
+aide	aider+Ver+Ind+Pre+PP1S
+aide	aider+Ver+Impr+Pre+PP2S
+aide	aide+Nom+Fem+Sg
+
+desquels	+?
+
+d'	+?
+
+Artagnan	+?
+
+avait	+?
+
+déguisé	déguiser+Ver+PPas
+
+des	du+PartArt+Mas+Pl
+des	du+PartArt+Fem+Pl
+des	un+IndefArt+Mas+Pl
+des	un+IndefArt+Fem+Pl
+
+noms	nom+Nom+Mas+Pl
+
+peut-être	+?
+
+illustres	illustrer+Ver+Sub+Pre+PP2S
+illustres	illustrer+Ver+Ind+Pre+PP2S
+illustres	illustre+Adj+Mas+Pl
+
+,	,
+
+si	si+Nom+Mas+Sg
+
+toutefois	+?
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+porteurs	porteur+Nom+Mas+Pl
+porteurs	porteur+Adj+Mas+Pl
+
+de	+?
+
+ces	ce+DemDet+Mas+Pl
+ces	ce+DemDet+Fem+Pl
+
+noms	nom+Nom+Mas+Pl
+
+d'	+?
+
+emprunt	emprunt+Nom+Mas+Sg
+
+ne	+?
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+avaient	avoir+Ind+Imp+PP3P
+
+pas	pas+Nom+Mas+Sg
+
+choisis	choisir+Ver+Ind+PSim+PP2S
+choisis	choisir+Ver+Ind+PSim+PP1S
+choisis	choisir+Ver+Ind+Pre+PP2S
+choisis	choisir+Ver+Ind+Pre+PP1S
+choisis	choisir+Ver+Impr+Pre+PP2S
+
+eux-mêmes	+?
+
+le	le+DefArt+Mas+Sg
+
+jour	jour+Nom+Mas+Sg
+
+où	+?
+
+,	,
+
+par	par+Nom+Mas+Sg
+
+caprice	caprice+Nom+Mas+Sg
+
+,	,
+
+par	par+Nom+Mas+Sg
+
+mécontentement	mécontent+Adv+Fem+Sg
+mécontentement	mécontentement+Nom+Mas+Sg
+
+ou	+?
+
+par	par+Nom+Mas+Sg
+
+défaut	défaut+Nom+Mas+Sg
+
+de	+?
+
+fortune	fortune+Nom+Fem+Sg
+
+,	,
+
+ils	+?
+
+avaient	avoir+Ind+Imp+PP3P
+
+endossé	endosser+Ver+PPas
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+simple	simple+Nom+Mas+Sg
+simple	simple+Adj+Mas+Sg
+
+casaque	casaque+Nom+Fem+Sg
+
+de	+?
+
+mousquetaire	mousquetaire+Nom+Mas+Sg
+
+.	.
+
+Dès	+?
+
+lors	+?
+
+nous	nous+Nom+Mas+Sg
+
+n'	+?
+
+eûmes	+?
+
+plus	plus+Nom+Mas+Sg
+
+de	+?
+
+repos	repos+Nom+Mas+Sg
+
+que	+?
+
+nous	nous+Nom+Mas+Sg
+
+n'	+?
+
+eussions	+?
+
+retrouvé	retrouver+Ver+PPas
+
+,	,
+
+dans	dan+Nom+Mas+Pl
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+ouvrages	ouvrage+Nom+Mas+Pl
+
+contemporains	contemporain+Adj+Mas+Pl
+
+,	,
+
+une	une+Nom+Fem+Sg
+une	un+IndefArt+Fem+Sg
+
+trace	tracer+Ver+Sub+Pre+PP3S
+trace	tracer+Ver+Sub+Pre+PP1S
+trace	tracer+Ver+Ind+Pre+PP3S
+trace	tracer+Ver+Ind+Pre+PP1S
+trace	tracer+Ver+Impr+Pre+PP2S
+trace	trace+Nom+Fem+Sg
+
+quelconque	quelconque+Adj+Mas+Sg
+
+de	+?
+
+ces	ce+DemDet+Mas+Pl
+ces	ce+DemDet+Fem+Pl
+
+noms	nom+Nom+Mas+Pl
+
+extraordinaires	extraordinaire+Adj+Mas+Pl
+
+qui	+?
+
+avaient	avoir+Ind+Imp+PP3P
+
+fort	fort+Adj+Mas+Sg
+
+éveillé	éveiller+Ver+PPas
+éveillé	éveillé+Adj+Mas+Sg
+
+notre	notre+PossDet+PP1P+Mas+Sg
+notre	notre+PossDet+PP1P+Fem+Sg
+
+curiosité	curiosité+Nom+Fem+Sg
+
+.	.
+
+Le	+?
+
+seul	seul+Adj+Mas+Sg
+
+catalogue	cataloguer+Ver+Sub+Pre+PP3S
+catalogue	cataloguer+Ver+Sub+Pre+PP1S
+catalogue	cataloguer+Ver+Ind+Pre+PP3S
+catalogue	cataloguer+Ver+Ind+Pre+PP1S
+catalogue	cataloguer+Ver+Impr+Pre+PP2S
+catalogue	catalogue+Nom+Mas+Sg
+
+des	du+PartArt+Mas+Pl
+des	du+PartArt+Fem+Pl
+des	un+IndefArt+Mas+Pl
+des	un+IndefArt+Fem+Pl
+
+livres	livrer+Ver+Sub+Pre+PP2S
+livres	livrer+Ver+Ind+Pre+PP2S
+livres	livre+Nom+Mas+Pl
+livres	livre+Nom+Fem+Pl
+
+que	+?
+
+nous	nous+Nom+Mas+Sg
+
+lûmes	lire+Ver+Ind+PSim+PP1P
+
+pour	+?
+
+arriver	arriver+Ver+Inf
+
+à	+?
+
+ce	ce+DemDet+Mas+Sg
+
+but	but+Nom+Mas+Sg
+
+remplirait	remplir+Ver+Con+Pre+PP3S
+
+un	un+Nom+Mas+Sg
+un	un+IndefArt+Mas+Sg
+
+feuilleton	feuilleton+Nom+Mas+Sg
+
+tout	tout+Adj+Mas+Sg
+
+entier	entier+Nom+Mas+Sg
+entier	entier+Adj+Mas+Sg
+
+,	,
+
+ce	ce+DemDet+Mas+Sg
+
+qui	+?
+
+serait	+?
+
+peut-être	+?
+
+fort	fort+Adj+Mas+Sg
+
+instructif	instructif+Nom+Mas+Sg
+instructif	instructif+Adj+Mas+Sg
+
+,	,
+
+mais	mai+Nom+Mas+Pl
+
+à	+?
+
+coups	coup+Nom+Mas+Pl
+
+sûr	sûr+Adj+Mas+Sg
+
+peu	peu+Nom+Mas+Sg
+
+amusant	amusant+Adj+Mas+Sg
+
+pour	+?
+
+nos	notre+PossDet+PP1P+Mas+Pl
+nos	notre+PossDet+PP1P+Fem+Pl
+
+lecteurs	lecteur+Nom+Mas+Pl
+
+.	.
+
+Nous	+?
+
+nous	nous+Nom+Mas+Sg
+
+contenterons	contenter+Ver+Ind+Fut+PP1P
+
+donc	+?
+
+de	+?
+
+leur	leur+PossDet+PP3P+Mas+Sg
+leur	leur+PossDet+PP3P+Fem+Sg
+
+dire	dire+Ver+Inf
+dire	dire+Nom+Mas+Sg
+
+qu'	+?
+
+au	+?
+
+moment	moment+Nom+Mas+Sg
+
+où	+?
+
+,	,
+
+découragé	décourager+Ver+PPas
+
+de	+?
+
+tant	+?
+
+d'	+?
+
+investigations	+?
+
+infructueuses	+?
+
+,	,
+
+nous	nous+Nom+Mas+Sg
+
+allions	allier+Ver+Ind+Pre+PP1P
+
+abandonner	abandonner+Ver+Inf
+
+notre	notre+PossDet+PP1P+Mas+Sg
+notre	notre+PossDet+PP1P+Fem+Sg
+
+recherche	rechercher+Ver+Sub+Pre+PP3S
+recherche	rechercher+Ver+Sub+Pre+PP1S
+recherche	rechercher+Ver+Ind+Pre+PP3S
+recherche	rechercher+Ver+Ind+Pre+PP1S
+recherche	rechercher+Ver+Impr+Pre+PP2S
+recherche	recherche+Nom+Fem+Sg
+
+,	,
+
+nous	nous+Nom+Mas+Sg
+
+trouvâmes	+?
+
+enfin	+?
+
+,	,
+
+guidé	guider+Ver+PPas
+
+par	par+Nom+Mas+Sg
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+conseils	conseil+Nom+Mas+Pl
+
+de	+?
+
+notre	notre+PossDet+PP1P+Mas+Sg
+notre	notre+PossDet+PP1P+Fem+Sg
+
+illustre	illustrer+Ver+Sub+Pre+PP3S
+illustre	illustrer+Ver+Sub+Pre+PP1S
+illustre	illustrer+Ver+Ind+Pre+PP3S
+illustre	illustrer+Ver+Ind+Pre+PP1S
+illustre	illustrer+Ver+Impr+Pre+PP2S
+illustre	illustre+Adj+Mas+Sg
+
+et	+?
+
+savant	savant+Nom+Mas+Sg
+savant	savant+Adj+Mas+Sg
+
+ami	ami+Nom+Mas+Sg
+
+Paulin	+?
+
+Paris	+?
+
+,	,
+
+un	un+Nom+Mas+Sg
+un	un+IndefArt+Mas+Sg
+
+manuscrit	manuscrit+Nom+Mas+Sg
+manuscrit	manuscrit+Adj+Mas+Sg
+
+in-folio	+?
+
+,	,
+
+coté	coter+Ver+PPas
+
+le	le+DefArt+Mas+Sg
+
+no	+?
+
+4772	+?
+
+ou	+?
+
+4773	+?
+
+,	,
+
+nous	nous+Nom+Mas+Sg
+
+ne	+?
+
+nous	nous+Nom+Mas+Sg
+
+le	le+DefArt+Mas+Sg
+
+rappelons	rappeler+Ver+Ind+Pre+PP1P
+
+plus	plus+Nom+Mas+Sg
+
+bien	bien+Nom+Mas+Sg
+
+,	,
+
+ayant	ayant+Nom+Mas+Sg
+ayant	avoir+PPre
+
+pour	+?
+
+titre	titrer+Ver+Sub+Pre+PP3S
+titre	titrer+Ver+Sub+Pre+PP1S
+titre	titrer+Ver+Ind+Pre+PP3S
+titre	titrer+Ver+Ind+Pre+PP1S
+titre	titrer+Ver+Impr+Pre+PP2S
+titre	titre+Nom+Mas+Sg
+
+:	:
+
+"	"
+
+Mémoires	+?
+
+de	+?
+
+M	+?
+
+.	.
+
+le	le+DefArt+Mas+Sg
+
+comte	comte+Nom+Mas+Sg
+
+de	+?
+
+La	+?
+
+Fère	+?
+
+,	,
+
+concernant	+?
+
+quelques-uns	+?
+
+des	du+PartArt+Mas+Pl
+des	du+PartArt+Fem+Pl
+des	un+IndefArt+Mas+Pl
+des	un+IndefArt+Fem+Pl
+
+événements	événement+Nom+Mas+Pl
+
+qui	+?
+
+se	+?
+
+passèrent	passer+Ver+Ind+PSim+PP3P
+
+en	+?
+
+France	+?
+
+vers	ver+Nom+Mas+Pl
+vers	vers+Nom+Mas+Sg
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+fin	fin+Nom+Fem+Sg
+fin	fin+Adj+Mas+Sg
+
+du	du+PartArt+Mas+Sg
+
+règne	règne+Nom+Mas+Sg
+
+du	du+PartArt+Mas+Sg
+
+roi	roi+Nom+Mas+Sg
+
+Louis	+?
+
+XIII	+?
+
+et	+?
+
+le	le+DefArt+Mas+Sg
+
+commencement	commencement+Nom+Mas+Sg
+
+du	du+PartArt+Mas+Sg
+
+règne	règne+Nom+Mas+Sg
+
+du	du+PartArt+Mas+Sg
+
+roi	roi+Nom+Mas+Sg
+
+Louis	+?
+
+XIV	+?
+
+.	.
+
+"	"
+
+On	+?
+
+devine	deviner+Ver+Sub+Pre+PP3S
+devine	deviner+Ver+Sub+Pre+PP1S
+devine	deviner+Ver+Ind+Pre+PP3S
+devine	deviner+Ver+Ind+Pre+PP1S
+devine	deviner+Ver+Impr+Pre+PP2S
+
+si	si+Nom+Mas+Sg
+
+notre	notre+PossDet+PP1P+Mas+Sg
+notre	notre+PossDet+PP1P+Fem+Sg
+
+joie	joie+Nom+Fem+Sg
+
+fut	+?
+
+grande	grand+Adj+Fem+Sg
+
+,	,
+
+lorsqu'	+?
+
+en	+?
+
+feuilletant	+?
+
+ce	ce+DemDet+Mas+Sg
+
+manuscrit	manuscrit+Nom+Mas+Sg
+manuscrit	manuscrit+Adj+Mas+Sg
+
+,	,
+
+notre	notre+PossDet+PP1P+Mas+Sg
+notre	notre+PossDet+PP1P+Fem+Sg
+
+dernier	dernier+Adj+Mas+Sg
+
+espoir	espoir+Nom+Mas+Sg
+
+,	,
+
+nous	nous+Nom+Mas+Sg
+
+trouvâmes	+?
+
+à	+?
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+vingtième	vingtième+Nom+Mas+Sg
+vingtième	vingtième+Nom+Fem+Sg
+vingtième	vingtième+Adj+Mas+Sg
+
+page	page+Nom+Mas+Sg
+page	page+Nom+Fem+Sg
+
+le	le+DefArt+Mas+Sg
+
+nom	nom+Nom+Mas+Sg
+
+d'	+?
+
+Athos	+?
+
+,	,
+
+à	+?
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+vingt	vingt+Nom+Mas+Sg
+
+septième	septième+Nom+Mas+Sg
+septième	septième+Nom+Fem+Sg
+septième	septième+Adj+Mas+Sg
+
+le	le+DefArt+Mas+Sg
+
+nom	nom+Nom+Mas+Sg
+
+de	+?
+
+Porthos	+?
+
+,	,
+
+et	+?
+
+à	+?
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+trente	trente+Nom+Mas+Sg
+
+et	+?
+
+unième	+?
+
+le	le+DefArt+Mas+Sg
+
+nom	nom+Nom+Mas+Sg
+
+d'	+?
+
+Aramis	+?
+
+.	.
+
+La	+?
+
+découverte	découvert+Adj+Fem+Sg
+découverte	découverte+Nom+Fem+Sg
+
+d'	+?
+
+un	un+Nom+Mas+Sg
+un	un+IndefArt+Mas+Sg
+
+manuscrit	manuscrit+Nom+Mas+Sg
+manuscrit	manuscrit+Adj+Mas+Sg
+
+complètement	complètement+Nom+Mas+Sg
+
+inconnu	inconnu+Nom+Mas+Sg
+inconnu	inconnu+Adj+Mas+Sg
+
+,	,
+
+dans	dan+Nom+Mas+Pl
+
+une	une+Nom+Fem+Sg
+une	un+IndefArt+Fem+Sg
+
+époque	époque+Nom+Fem+Sg
+
+où	+?
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+science	science+Nom+Fem+Sg
+
+historique	historique+Nom+Mas+Sg
+historique	historique+Adj+Mas+Sg
+
+est	est+Nom+Mas+Sg
+est	est+Adj+Mas+Sg
+
+poussée	poussée+Nom+Fem+Sg
+
+à	+?
+
+un	un+Nom+Mas+Sg
+un	un+IndefArt+Mas+Sg
+
+si	si+Nom+Mas+Sg
+
+haut	haut+Nom+Mas+Sg
+haut	haut+Adj+Mas+Sg
+
+degré	degré+Nom+Mas+Sg
+
+,	,
+
+nous	nous+Nom+Mas+Sg
+
+parut	paraître+Ver+Ind+PSim+PP3S
+
+presque	+?
+
+miraculeuse	+?
+
+.	.
+
+Aussi	+?
+
+nous	nous+Nom+Mas+Sg
+
+hâtâmes-nous	+?
+
+de	+?
+
+solliciter	solliciter+Ver+Inf
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+permission	+?
+
+de	+?
+
+le	le+DefArt+Mas+Sg
+
+faite	fait+Adj+Fem+Sg
+
+imprimer	imprimer+Ver+Inf
+
+,	,
+
+dans	dan+Nom+Mas+Pl
+
+le	le+DefArt+Mas+Sg
+
+but	but+Nom+Mas+Sg
+
+de	+?
+
+nous	nous+Nom+Mas+Sg
+
+présenter	présenter+Ver+Inf
+
+un	un+Nom+Mas+Sg
+un	un+IndefArt+Mas+Sg
+
+jour	jour+Nom+Mas+Sg
+
+avec	+?
+
+le	le+DefArt+Mas+Sg
+
+bagage	bagage+Nom+Mas+Sg
+
+des	du+PartArt+Mas+Pl
+des	du+PartArt+Fem+Pl
+des	un+IndefArt+Mas+Pl
+des	un+IndefArt+Fem+Pl
+
+autres	autre+Adj+Mas+Pl
+
+à	+?
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+
+Académie	+?
+
+des	du+PartArt+Mas+Pl
+des	du+PartArt+Fem+Pl
+des	un+IndefArt+Mas+Pl
+des	un+IndefArt+Fem+Pl
+
+inscriptions	inscription+Nom+Fem+Pl
+
+et	+?
+
+belles-lettres	+?
+
+,	,
+
+si	si+Nom+Mas+Sg
+
+nous	nous+Nom+Mas+Sg
+
+n'	+?
+
+arrivions	arriver+Ver+Sub+Pre+PP1P
+arrivions	arriver+Ver+Ind+Imp+PP1P
+
+,	,
+
+chose	chose+Nom+Fem+Sg
+
+fort	fort+Adj+Mas+Sg
+
+probable	probable+Adj+Mas+Sg
+
+,	,
+
+à	+?
+
+entrée	entrée+Nom+Fem+Sg
+
+à	+?
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+
+Académie	+?
+
+française	français+Adj+Fem+Sg
+
+avec	+?
+
+notre	notre+PossDet+PP1P+Mas+Sg
+notre	notre+PossDet+PP1P+Fem+Sg
+
+propre	propre+Adj+Mas+Sg
+
+bagage	bagage+Nom+Mas+Sg
+
+.	.
+
+Cette	+?
+
+permission	+?
+
+,	,
+
+nous	nous+Nom+Mas+Sg
+
+devons	devoir+Imp+Pre+PP1P
+
+le	le+DefArt+Mas+Sg
+
+dire	dire+Ver+Inf
+dire	dire+Nom+Mas+Sg
+
+,	,
+
+nous	nous+Nom+Mas+Sg
+
+fut	+?
+
+gracieusement	+?
+
+accordée	accordé+Adj+Fem+Sg
+
+;	;
+
+ce	ce+DemDet+Mas+Sg
+
+que	+?
+
+nous	nous+Nom+Mas+Sg
+
+consignons	consigner+Ver+Ind+Pre+PP1P
+
+ici	+?
+
+pour	+?
+
+donner	donner+Ver+Inf
+
+un	un+Nom+Mas+Sg
+un	un+IndefArt+Mas+Sg
+
+démenti	démentir+Ver+PPas
+démenti	démenti+Nom+Mas+Sg
+
+public	public+Nom+Mas+Sg
+public	public+Adj+Mas+Sg
+
+aux	+?
+
+malveillants	malveillant+Adj+Mas+Pl
+
+qui	+?
+
+prétendent	prétendre+Ver+Sub+Pre+PP3P
+prétendent	prétendre+Ver+Ind+Pre+PP3P
+
+que	+?
+
+nous	nous+Nom+Mas+Sg
+
+vivons	vivre+Ver+Ind+Pre+PP1P
+vivons	vivre+Ver+Impr+Pre+PP1P
+
+sous	sou+Nom+Mas+Pl
+
+un	un+Nom+Mas+Sg
+un	un+IndefArt+Mas+Sg
+
+gouvernement	gouvernement+Nom+Mas+Sg
+
+assez	+?
+
+médiocrement	médiocre+Adv+Mas+Sg
+
+disposé	disposer+Ver+PPas
+disposé	disposé+Adj+Mas+Sg
+
+à	+?
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+
+endroit	endroit+Nom+Mas+Sg
+
+des	du+PartArt+Mas+Pl
+des	du+PartArt+Fem+Pl
+des	un+IndefArt+Mas+Pl
+des	un+IndefArt+Fem+Pl
+
+gens	gens+Nom+Mas+Sg
+
+de	+?
+
+lettres	lettrer+Ver+Sub+Pre+PP2S
+lettres	lettrer+Ver+Ind+Pre+PP2S
+lettres	lettre+Nom+Fem+Pl
+
+.	.
+
+Or	+?
+
+,	,
+
+c'	+?
+
+est	est+Nom+Mas+Sg
+est	est+Adj+Mas+Sg
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+première	première+Nom+Fem+Sg
+
+partie	partie+Nom+Fem+Sg
+
+de	+?
+
+ce	ce+DemDet+Mas+Sg
+
+précieux	précieux+Adj+Mas+Sg
+
+manuscrit	manuscrit+Nom+Mas+Sg
+manuscrit	manuscrit+Adj+Mas+Sg
+
+que	+?
+
+nous	nous+Nom+Mas+Sg
+
+offrons	offrir+Ver+Ind+Pre+PP1P
+offrons	offrir+Ver+Impr+Pre+PP1P
+
+aujourd'	+?
+
+hui	+?
+
+à	+?
+
+nos	notre+PossDet+PP1P+Mas+Pl
+nos	notre+PossDet+PP1P+Fem+Pl
+
+lecteurs	lecteur+Nom+Mas+Pl
+
+,	,
+
+en	+?
+
+lui	+?
+
+restituant	+?
+
+le	le+DefArt+Mas+Sg
+
+titre	titrer+Ver+Sub+Pre+PP3S
+titre	titrer+Ver+Sub+Pre+PP1S
+titre	titrer+Ver+Ind+Pre+PP3S
+titre	titrer+Ver+Ind+Pre+PP1S
+titre	titrer+Ver+Impr+Pre+PP2S
+titre	titre+Nom+Mas+Sg
+
+qui	+?
+
+lui	+?
+
+convient	convier+Ver+Sub+Pre+PP3P
+convient	convier+Ver+Ind+Pre+PP3P
+
+,	,
+
+prenant	prendre+Ver+PPre
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+
+engagement	engagement+Nom+Mas+Sg
+
+,	,
+
+si	si+Nom+Mas+Sg
+
+,	,
+
+comme	+?
+
+nous	nous+Nom+Mas+Sg
+
+n'	+?
+
+en	+?
+
+doutons	douter+Ver+Ind+Pre+PP1P
+
+pas	pas+Nom+Mas+Sg
+
+,	,
+
+cette	ce+DemDet+Fem+Sg
+
+première	première+Nom+Fem+Sg
+
+partie	partie+Nom+Fem+Sg
+
+obtient	+?
+
+le	le+DefArt+Mas+Sg
+
+succès	succès+Nom+Mas+Sg
+
+qu'	+?
+
+elle	+?
+
+mérite	mériter+Ver+Sub+Pre+PP3S
+mérite	mériter+Ver+Sub+Pre+PP1S
+mérite	mériter+Ver+Ind+Pre+PP3S
+mérite	mériter+Ver+Ind+Pre+PP1S
+mérite	mériter+Ver+Impr+Pre+PP2S
+mérite	mérite+Nom+Mas+Sg
+
+,	,
+
+de	+?
+
+publier	publier+Ver+Inf
+
+incessamment	+?
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+seconde	seconder+Ver+Sub+Pre+PP3S
+seconde	seconder+Ver+Sub+Pre+PP1S
+seconde	seconder+Ver+Ind+Pre+PP3S
+seconde	seconder+Ver+Ind+Pre+PP1S
+seconde	seconder+Ver+Impr+Pre+PP2S
+seconde	second+Adj+Fem+Sg
+seconde	seconde+Nom+Fem+Sg
+
+.	.
+
+En	+?
+
+attendant	attendre+Ver+PPre
+
+,	,
+
+comme	+?
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+parrain	parrain+Nom+Mas+Sg
+
+est	est+Nom+Mas+Sg
+est	est+Adj+Mas+Sg
+
+un	un+Nom+Mas+Sg
+un	un+IndefArt+Mas+Sg
+
+second	second+Nom+Mas+Sg
+second	second+Adj+Mas+Sg
+
+père	père+Nom+Mas+Sg
+
+,	,
+
+nous	nous+Nom+Mas+Sg
+
+invitons	inviter+Ver+Ind+Pre+PP1P
+
+le	le+DefArt+Mas+Sg
+
+lecteur	lecteur+Nom+Mas+Sg
+
+à	+?
+
+s'	+?
+
+en	+?
+
+prendre	prendre+Ver+Inf
+
+à	+?
+
+nous	nous+Nom+Mas+Sg
+
+,	,
+
+et	+?
+
+non	+?
+
+au	+?
+
+comte	comte+Nom+Mas+Sg
+
+de	+?
+
+La	+?
+
+Fère	+?
+
+,	,
+
+de	+?
+
+son	son+Nom+Mas+Sg
+son	son+PossDet+PP3S+Mas+Sg
+
+plaisir	plaisir+Nom+Mas+Sg
+
+ou	+?
+
+de	+?
+
+son	son+Nom+Mas+Sg
+son	son+PossDet+PP3S+Mas+Sg
+
+ennui	ennui+Nom+Mas+Sg
+
+.	.
+
+Cela	+?
+
+posé	poser+Ver+PPas
+
+,	,
+
+passons	passer+Ver+Ind+Pre+PP1P
+
+à	+?
+
+notre	notre+PossDet+PP1P+Mas+Sg
+notre	notre+PossDet+PP1P+Fem+Sg
+
+histoire	histoire+Nom+Fem+Sg
+
+.	.
+
+Chapitre	+?
+
+I	+?
+
+LES	+?
+
+TROIS	+?
+
+PRESENTS	+?
+
+DE	+?
+
+M	+?
+
+.	.
+
+D'	+?
+
+ARTAGNAN	+?
+
+PERE	+?
+
+.	.
+
+Le	+?
+
+premier	premier+Nom+Mas+Sg
+premier	premier+Adj+Mas+Sg
+
+lundi	lundi+Nom+Mas+Sg
+
+du	du+PartArt+Mas+Sg
+
+mois	moi+Nom+Mas+Pl
+mois	mois+Nom+Mas+Sg
+
+d'	+?
+
+avril	avril+Nom+Mas+Sg
+
+1625	+?
+
+,	,
+
+le	le+DefArt+Mas+Sg
+
+bourg	bourg+Nom+Mas+Sg
+
+de	+?
+
+Meung	+?
+
+,	,
+
+où	+?
+
+naquit	+?
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+
+auteur	auteur+Nom+Mas+Sg
+
+du	du+PartArt+Mas+Sg
+
+_	_
+
+Roman	+?
+
+de	+?
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+Rose	+?
+
+_	_
+
+,	,
+
+semblait	+?
+
+être	être+Nom+Mas+Sg
+être	être+Inf
+
+dans	dan+Nom+Mas+Pl
+
+une	une+Nom+Fem+Sg
+une	un+IndefArt+Fem+Sg
+
+révolution	révolution+Nom+Fem+Sg
+
+aussi	+?
+
+entière	+?
+
+que	+?
+
+si	si+Nom+Mas+Sg
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+huguenots	huguenot+Nom+Mas+Pl
+huguenots	huguenot+Adj+Mas+Pl
+
+en	+?
+
+fussent	être+Sub+Imp+PP3P
+
+venus	+?
+
+faire	faire+Ver+Inf
+
+une	une+Nom+Fem+Sg
+une	un+IndefArt+Fem+Sg
+
+seconde	seconder+Ver+Sub+Pre+PP3S
+seconde	seconder+Ver+Sub+Pre+PP1S
+seconde	seconder+Ver+Ind+Pre+PP3S
+seconde	seconder+Ver+Ind+Pre+PP1S
+seconde	seconder+Ver+Impr+Pre+PP2S
+seconde	second+Adj+Fem+Sg
+seconde	seconde+Nom+Fem+Sg
+
+Rochelle	+?
+
+.	.
+
+Plusieurs	+?
+
+bourgeois	bourgeois+Nom+Mas+Sg
+bourgeois	bourgeois+Adj+Mas+Sg
+
+,	,
+
+voyant	voyant+Nom+Mas+Sg
+voyant	voyant+Adj+Mas+Sg
+voyant	voir+PPre
+
+s'	+?
+
+enfuir	+?
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+femmes	femme+Nom+Fem+Pl
+
+du	du+PartArt+Mas+Sg
+
+côté	côté+Nom+Mas+Sg
+
+de	+?
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+Grande-Rue	+?
+
+,	,
+
+entendant	entendre+Ver+PPre
+entendant	entendant+Nom+Mas+Sg
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+enfants	enfant+Nom+Mas+Pl
+enfants	enfant+Nom+Fem+Pl
+
+crier	crier+Ver+Inf
+
+sur	sur+Adj+Mas+Sg
+
+le	le+DefArt+Mas+Sg
+
+seuil	seuil+Nom+Mas+Sg
+
+des	du+PartArt+Mas+Pl
+des	du+PartArt+Fem+Pl
+des	un+IndefArt+Mas+Pl
+des	un+IndefArt+Fem+Pl
+
+portes	porter+Ver+Sub+Pre+PP2S
+portes	porter+Ver+Ind+Pre+PP2S
+portes	porte+Nom+Fem+Pl
+
+,	,
+
+se	+?
+
+hâtaient	+?
+
+d'	+?
+
+endosser	endosser+Ver+Inf
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+cuirasse	cuirasser+Ver+Sub+Pre+PP3S
+cuirasse	cuirasser+Ver+Sub+Pre+PP1S
+cuirasse	cuirasser+Ver+Ind+Pre+PP3S
+cuirasse	cuirasser+Ver+Ind+Pre+PP1S
+cuirasse	cuirasser+Ver+Impr+Pre+PP2S
+cuirasse	cuirasse+Nom+Fem+Sg
+
+et	+?
+
+,	,
+
+appuyant	+?
+
+leur	leur+PossDet+PP3P+Mas+Sg
+leur	leur+PossDet+PP3P+Fem+Sg
+
+contenance	contenance+Nom+Fem+Sg
+
+quelque	+?
+
+peu	peu+Nom+Mas+Sg
+
+incertaine	incertain+Adj+Fem+Sg
+
+d'	+?
+
+un	un+Nom+Mas+Sg
+un	un+IndefArt+Mas+Sg
+
+mousquet	mousquet+Nom+Mas+Sg
+
+ou	+?
+
+d'	+?
+
+une	une+Nom+Fem+Sg
+une	un+IndefArt+Fem+Sg
+
+pertuisane	pertuisane+Nom+Fem+Sg
+
+,	,
+
+se	+?
+
+dirigeaient	diriger+Ver+Ind+Imp+PP3P
+
+vers	ver+Nom+Mas+Pl
+vers	vers+Nom+Mas+Sg
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+
+hôtellerie	hôtellerie+Nom+Fem+Sg
+
+du	du+PartArt+Mas+Sg
+
+_	_
+
+Franc	Franc+Nom+Mas+Sg
+
+Meunier	+?
+
+_	_
+
+,	,
+
+devant	devant+Nom+Mas+Sg
+devant	devoir+PPre
+
+laquelle	+?
+
+s'	+?
+
+empressait	+?
+
+,	,
+
+en	+?
+
+grossissant	grossir+Ver+PPre
+grossissant	grossissant+Adj+Mas+Sg
+
+de	+?
+
+minute	minuter+Ver+Sub+Pre+PP3S
+minute	minuter+Ver+Sub+Pre+PP1S
+minute	minuter+Ver+Ind+Pre+PP3S
+minute	minuter+Ver+Ind+Pre+PP1S
+minute	minuter+Ver+Impr+Pre+PP2S
+minute	minute+Nom+Fem+Sg
+
+en	+?
+
+minute	minuter+Ver+Sub+Pre+PP3S
+minute	minuter+Ver+Sub+Pre+PP1S
+minute	minuter+Ver+Ind+Pre+PP3S
+minute	minuter+Ver+Ind+Pre+PP1S
+minute	minuter+Ver+Impr+Pre+PP2S
+minute	minute+Nom+Fem+Sg
+
+,	,
+
+un	un+Nom+Mas+Sg
+un	un+IndefArt+Mas+Sg
+
+groupe	grouper+Ver+Sub+Pre+PP3S
+groupe	grouper+Ver+Sub+Pre+PP1S
+groupe	grouper+Ver+Ind+Pre+PP3S
+groupe	grouper+Ver+Ind+Pre+PP1S
+groupe	grouper+Ver+Impr+Pre+PP2S
+groupe	groupe+Nom+Mas+Sg
+
+compact	compact+Nom+Mas+Sg
+compact	compact+Adj+Mas+Sg
+
+,	,
+
+bruyant	bruyant+Adj+Mas+Sg
+
+et	+?
+
+plein	plein+Adj+Mas+Sg
+
+de	+?
+
+curiosité	curiosité+Nom+Fem+Sg
+
+.	.
+
+En	+?
+
+ce	ce+DemDet+Mas+Sg
+
+temps-là	+?
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+paniques	paniquer+Ver+Sub+Pre+PP2S
+paniques	paniquer+Ver+Ind+Pre+PP2S
+paniques	panique+Nom+Fem+Pl
+paniques	panique+Adj+Mas+Pl
+
+étaient	être+Ind+Imp+PP3P
+
+fréquentes	fréquenter+Ver+Sub+Pre+PP2S
+fréquentes	fréquenter+Ver+Ind+Pre+PP2S
+fréquentes	fréquent+Adj+Mas+Pl
+
+,	,
+
+et	+?
+
+peu	peu+Nom+Mas+Sg
+
+de	+?
+
+jours	jour+Nom+Mas+Pl
+
+se	+?
+
+passaient	+?
+
+sans	san+Nom+Mas+Pl
+
+qu'	+?
+
+une	une+Nom+Fem+Sg
+une	un+IndefArt+Fem+Sg
+
+ville	ville+Nom+Fem+Sg
+
+ou	+?
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+
+autre	autre+Adj+Mas+Sg
+
+enregistrât	+?
+
+sur	sur+Adj+Mas+Sg
+
+ses	son+PossDet+PP3S+Mas+Pl
+ses	son+PossDet+PP3S+Fem+Pl
+
+archives	archiver+Ver+Sub+Pre+PP2S
+archives	archiver+Ver+Ind+Pre+PP2S
+archives	archive+Nom+Fem+Pl
+
+quelque	+?
+
+événement	événement+Nom+Mas+Sg
+
+de	+?
+
+ce	ce+DemDet+Mas+Sg
+
+genre	genre+Nom+Mas+Sg
+
+.	.
+
+Il	+?
+
+y	+?
+
+avait	+?
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+seigneurs	seigneur+Nom+Mas+Pl
+
+qui	+?
+
+guerroyaient	+?
+
+entre	entrer+Ver+Sub+Pre+PP3S
+entre	entrer+Ver+Sub+Pre+PP1S
+entre	entrer+Ver+Ind+Pre+PP3S
+entre	entrer+Ver+Ind+Pre+PP1S
+entre	entrer+Ver+Impr+Pre+PP2S
+
+eux	+?
+
+;	;
+
+il	+?
+
+y	+?
+
+avait	+?
+
+le	le+DefArt+Mas+Sg
+
+roi	roi+Nom+Mas+Sg
+
+qui	+?
+
+faisait	faire+Ver+Ind+Imp+PP3S
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+guerre	guerre+Nom+Fem+Sg
+
+au	+?
+
+cardinal	cardinal+Nom+Mas+Sg
+cardinal	cardinal+Adj+Mas+Sg
+
+;	;
+
+il	+?
+
+y	+?
+
+avait	+?
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+
+Espagnol	Espagnol+Nom+Mas+Sg
+
+qui	+?
+
+faisait	faire+Ver+Ind+Imp+PP3S
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+guerre	guerre+Nom+Fem+Sg
+
+au	+?
+
+roi	roi+Nom+Mas+Sg
+
+.	.
+
+Puis	+?
+
+,	,
+
+outre	outrer+Ver+Sub+Pre+PP3S
+outre	outrer+Ver+Sub+Pre+PP1S
+outre	outrer+Ver+Ind+Pre+PP3S
+outre	outrer+Ver+Ind+Pre+PP1S
+outre	outrer+Ver+Impr+Pre+PP2S
+outre	outre+Nom+Fem+Sg
+
+ces	ce+DemDet+Mas+Pl
+ces	ce+DemDet+Fem+Pl
+
+guerres	guerre+Nom+Fem+Pl
+
+sourdes	sourd+Adj+Mas+Pl
+
+ou	+?
+
+publiques	+?
+
+,	,
+
+secrètes	+?
+
+ou	+?
+
+patentes	+?
+
+,	,
+
+il	+?
+
+y	+?
+
+avait	+?
+
+encore	+?
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+voleurs	voleur+Nom+Mas+Pl
+
+,	,
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+mendiants	mendiant+Nom+Mas+Pl
+
+,	,
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+huguenots	huguenot+Nom+Mas+Pl
+huguenots	huguenot+Adj+Mas+Pl
+
+,	,
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+loups	loup+Nom+Mas+Pl
+
+et	+?
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+laquais	laquais+Nom+Mas+Sg
+
+,	,
+
+qui	+?
+
+faisaient	faire+Ver+Ind+Imp+PP3P
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+guerre	guerre+Nom+Fem+Sg
+
+à	+?
+
+tout	tout+Adj+Mas+Sg
+
+le	le+DefArt+Mas+Sg
+
+monde	monder+Ver+Sub+Pre+PP3S
+monde	monder+Ver+Sub+Pre+PP1S
+monde	monder+Ver+Ind+Pre+PP3S
+monde	monder+Ver+Ind+Pre+PP1S
+monde	monder+Ver+Impr+Pre+PP2S
+monde	monde+Nom+Mas+Sg
+monde	monde+Adj+Mas+Sg
+
+.	.
+
+Les	+?
+
+bourgeois	bourgeois+Nom+Mas+Sg
+bourgeois	bourgeois+Adj+Mas+Sg
+
+s'	+?
+
+armaient	+?
+
+toujours	+?
+
+contre	contrer+Ver+Sub+Pre+PP3S
+contre	contrer+Ver+Sub+Pre+PP1S
+contre	contrer+Ver+Ind+Pre+PP3S
+contre	contrer+Ver+Ind+Pre+PP1S
+contre	contrer+Ver+Impr+Pre+PP2S
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+voleurs	voleur+Nom+Mas+Pl
+
+,	,
+
+contre	contrer+Ver+Sub+Pre+PP3S
+contre	contrer+Ver+Sub+Pre+PP1S
+contre	contrer+Ver+Ind+Pre+PP3S
+contre	contrer+Ver+Ind+Pre+PP1S
+contre	contrer+Ver+Impr+Pre+PP2S
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+loups	loup+Nom+Mas+Pl
+
+,	,
+
+contre	contrer+Ver+Sub+Pre+PP3S
+contre	contrer+Ver+Sub+Pre+PP1S
+contre	contrer+Ver+Ind+Pre+PP3S
+contre	contrer+Ver+Ind+Pre+PP1S
+contre	contrer+Ver+Impr+Pre+PP2S
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+laquais	laquais+Nom+Mas+Sg
+
+,	,
+
+-	-
+
+souvent	+?
+
+contre	contrer+Ver+Sub+Pre+PP3S
+contre	contrer+Ver+Sub+Pre+PP1S
+contre	contrer+Ver+Ind+Pre+PP3S
+contre	contrer+Ver+Ind+Pre+PP1S
+contre	contrer+Ver+Impr+Pre+PP2S
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+seigneurs	seigneur+Nom+Mas+Pl
+
+et	+?
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+huguenots	huguenot+Nom+Mas+Pl
+huguenots	huguenot+Adj+Mas+Pl
+
+,	,
+
+-	-
+
+quelquefois	+?
+
+contre	contrer+Ver+Sub+Pre+PP3S
+contre	contrer+Ver+Sub+Pre+PP1S
+contre	contrer+Ver+Ind+Pre+PP3S
+contre	contrer+Ver+Ind+Pre+PP1S
+contre	contrer+Ver+Impr+Pre+PP2S
+
+le	le+DefArt+Mas+Sg
+
+roi	roi+Nom+Mas+Sg
+
+,	,
+
+-	-
+
+mais	mai+Nom+Mas+Pl
+
+jamais	+?
+
+contre	contrer+Ver+Sub+Pre+PP3S
+contre	contrer+Ver+Sub+Pre+PP1S
+contre	contrer+Ver+Ind+Pre+PP3S
+contre	contrer+Ver+Ind+Pre+PP1S
+contre	contrer+Ver+Impr+Pre+PP2S
+
+le	le+DefArt+Mas+Sg
+
+cardinal	cardinal+Nom+Mas+Sg
+cardinal	cardinal+Adj+Mas+Sg
+
+et	+?
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+
+Espagnol	Espagnol+Nom+Mas+Sg
+
+.	.
+
+Il	+?
+
+résulta	+?
+
+donc	+?
+
+de	+?
+
+cette	ce+DemDet+Fem+Sg
+
+habitude	habitude+Nom+Fem+Sg
+
+prise	priser+Ver+Sub+Pre+PP3S
+prise	priser+Ver+Sub+Pre+PP1S
+prise	priser+Ver+Ind+Pre+PP3S
+prise	priser+Ver+Ind+Pre+PP1S
+prise	priser+Ver+Impr+Pre+PP2S
+prise	prise+Nom+Fem+Sg
+
+,	,
+
+que	+?
+
+,	,
+
+ce	ce+DemDet+Mas+Sg
+
+susdit	susdit+Adj+Mas+Sg
+
+premier	premier+Nom+Mas+Sg
+premier	premier+Adj+Mas+Sg
+
+lundi	lundi+Nom+Mas+Sg
+
+du	du+PartArt+Mas+Sg
+
+mois	moi+Nom+Mas+Pl
+mois	mois+Nom+Mas+Sg
+
+d'	+?
+
+avril	avril+Nom+Mas+Sg
+
+1625	+?
+
+,	,
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+
+bourgeois	bourgeois+Nom+Mas+Sg
+bourgeois	bourgeois+Adj+Mas+Sg
+
+,	,
+
+entendant	entendre+Ver+PPre
+entendant	entendant+Nom+Mas+Sg
+
+du	du+PartArt+Mas+Sg
+
+bruit	bruit+Nom+Mas+Sg
+bruit	bruire+Ind+Pre+PP3S
+
+,	,
+
+et	+?
+
+ne	+?
+
+voyant	voyant+Nom+Mas+Sg
+voyant	voyant+Adj+Mas+Sg
+voyant	voir+PPre
+
+ni	+?
+
+le	le+DefArt+Mas+Sg
+
+guidon	guidon+Nom+Mas+Sg
+
+jaune	jaune+Nom+Mas+Sg
+jaune	jaune+Adj+Mas+Sg
+
+et	+?
+
+rouge	rouge+Nom+Mas+Sg
+rouge	rouge+Adj+Mas+Sg
+
+,	,
+
+ni	+?
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+
+livrée	+?
+
+du	du+PartArt+Mas+Sg
+
+duc	duc+Nom+Mas+Sg
+
+de	+?
+
+Richelieu	Richelieu+Nom+Mas+Sg
+
+,	,
+
+se	+?
+
+précipitèrent	précipiter+Ver+Ind+PSim+PP3P
+
+du	du+PartArt+Mas+Sg
+
+côté	côté+Nom+Mas+Sg
+
+de	+?
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+
+hôtel	hôtel+Nom+Mas+Sg
+
+du	du+PartArt+Mas+Sg
+
+_	_
+
+Franc	Franc+Nom+Mas+Sg
+
+Meunier	+?
+
+_	_
+
+.	.
+
