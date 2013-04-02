@@ -33,6 +33,7 @@ leur+PossDet+PP3P+Mas+Pl:leurs	#;
 leur+PossDet+PP3P+Fem+Pl:leurs	#;
 
 ce+DemDet+Mas+Sg:ce		#;
+ce+DemDet+Mas+Sg:c'		#;
 ce+DemDet+Mas+Sg:cet	#;
 ce+DemDet+Fem+Sg:cette	#;
 ce+DemDet+Mas+Pl:ces	#;

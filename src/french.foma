@@ -42,12 +42,17 @@ read lexc determiners/determiners.lexc
 define	Determiners;
 # determiners ================
 
+# prepositions ================
+read lexc prepositions/prepositions.lexc
+define	Prepositions;
+# prepositions ================
+
 # not considered ================
 read lexc notconsidered/notconsidered.lexc
 define	NotConsidered;
 # not considered ================
 
-regex	Verbs | Nouns | Adjectives | Articles | Determiners | NotConsidered;
+regex	Verbs | Nouns | Adjectives | Articles | Determiners | Prepositions | NotConsidered;
 define	Grammar;
 
 define	Cleanup "^" -> 0;

@@ -16,3 +16,4 @@ data/
 *.bin
 temp/
 src/runflookup.sh
+report.synctex.gz
