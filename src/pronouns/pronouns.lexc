@@ -1,0 +1,110 @@
+Multichar_Symbols +Pron +Person +Poss +Intero +Demo +Subj +Refl +DirObj +IndirObj +Disj +PP1S +PP2S +PP3S +PP1P +PP2P +PP3P +Mas +Fem +Sg +Pl
+
+LEXICON Root
+je+Pron+Person+Subj+PP1S+Sg:je	#;
+je+Pron+Person+Refl+PP1S+Sg:me	#;
+je+Pron+Person+DirObj+PP1S+Sg:me	#;
+je+Pron+Person+IndirObj+PP1S+Sg:me	#;
+je+Pron+Person+Disj+PP1S+Sg:moi	#;
+
+tu+Pron+Person+Subj+PP2S+Sg:tu	#;
+tu+Pron+Person+Refl+PP2S+Sg:te	#;
+tu+Pron+Person+DirObj+PP2S+Sg:te	#;
+tu+Pron+Person+IndirObj+PP2S+Sg:te	#;
+tu+Pron+Person+Disj+PP2S+Sg:toi	#;
+
+il+Pron+Person+Subj+PP3S+Sg:il	#;
+il+Pron+Person+Refl+PP3S+Sg:se	#;
+il+Pron+Person+DirObj+PP3S+Sg:le	#;
+il+Pron+Person+DirObj+PP3S+Sg:en	#;
+il+Pron+Person+IndirObj+PP3S+Sg:lui	#;
+il+Pron+Person+IndirObj+PP3S+Sg:y	#;
+il+Pron+Person+Disj+PP3S+Sg:lui	#;
+
+elle+Pron+Person+Subj+PP3S+Sg:elle	#;
+elle+Pron+Person+Refl+PP3S+Sg:se	#;
+elle+Pron+Person+DirObj+PP3S+Sg:la	#;
+elle+Pron+Person+DirObj+PP3S+Sg:en	#;
+elle+Pron+Person+IndirObj+PP3S+Sg:lui	#;
+elle+Pron+Person+IndirObj+PP3S+Sg:y	#;
+elle+Pron+Person+Disj+PP3S+Sg:elle	#;
+
+on+Pron+Person+Subj+PP3S+Sg:on	#;
+on+Pron+Person+Refl+PP3S+Sg:se	#;
+on+Pron+Person+Disj+PP3S+Sg:soi	#;
+
+nous+Pron+Person+Subj+PP1P+Pl:nous	#;
+nous+Pron+Person+Refl+PP1P+Pl:nous	#;
+nous+Pron+Person+DirObj+PP1P+Pl:nous	#;
+nous+Pron+Person+IndirObj+PP1P+Pl:nous	#;
+nous+Pron+Person+Disj+PP1P+Pl:nous	#;
+
+vous+Pron+Person+Subj+PP2P+Pl:vous	#;
+vous+Pron+Person+Refl+PP2P+Pl:vous	#;
+vous+Pron+Person+DirObj+PP2P+Pl:vous	#;
+vous+Pron+Person+IndirObj+PP2P+Pl:vous	#;
+vous+Pron+Person+Disj+PP2P+Pl:vous	#;
+
+ils+Pron+Person+Subj+PP3P+Pl:ils	#;
+ils+Pron+Person+Refl+PP3P+Pl:se	#;
+ils+Pron+Person+DirObj+PP3P+Pl:les	#;
+ils+Pron+Person+DirObj+PP3P+Pl:en	#;
+ils+Pron+Person+IndirObj+PP3P+Pl:leur	#;
+ils+Pron+Person+IndirObj+PP3P+Pl:y	#;
+ils+Pron+Person+Disj+PP3P+Pl:eux	#;
+
+elles+Pron+Person+Subj+PP3P+Pl:elles	#;
+elles+Pron+Person+Refl+PP3P+Pl:se	#;
+elles+Pron+Person+DirObj+PP3P+Pl:les	#;
+elles+Pron+Person+DirObj+PP3P+Pl:en	#;
+elles+Pron+Person+IndirObj+PP3P+Pl:leur	#;
+elles+Pron+Person+IndirObj+PP3P+Pl:y	#;
+elles+Pron+Person+Disj+PP3P+Pl:elles	#;
+
+mien+Pron+Poss+PP1S+Mas+Sg:mien	#;
+mien+Pron+Poss+PP1S+Fem+Sg:mienne	#;
+mien+Pron+Poss+PP1S+Mas+Pl:miens	#;
+mien+Pron+Poss+PP1S+Fem+Pl:miennes	#;
+
+nôtre+Pron+Poss+PP1P+Mas+Sg:nôtre	#;
+nôtre+Pron+Poss+PP1P+Fem+Sg:nôtre	#;
+nôtre+Pron+Poss+PP1P+Mas+Pl:nôtres	#;
+nôtre+Pron+Poss+PP1P+Fem+Pl:nôtres	#;
+
+tien+Pron+Poss+PP2S+Mas+Sg:tien	#;
+tien+Pron+Poss+PP2S+Fem+Sg:tienne	#;
+tien+Pron+Poss+PP2S+Mas+Pl:tiens	#;
+tien+Pron+Poss+PP2S+Fem+Pl:tiennes	#;
+
+vôtre+Pron+Poss+PP2P+Mas+Sg:vôtre	#;
+vôtre+Pron+Poss+PP2P+Fem+Sg:vôtre	#;
+vôtre+Pron+Poss+PP2P+Mas+Pl:vôtres	#;
+vôtre+Pron+Poss+PP2P+Fem+Pl:vôtres	#;
+
+sien+Pron+Poss+PP3S+Mas+Sg:sien	#;
+sien+Pron+Poss+PP3S+Fem+Sg:sienne	#;
+sien+Pron+Poss+PP3S+Mas+Pl:siens	#;
+sien+Pron+Poss+PP3S+Fem+Pl:siennes	#;
+
+leur+Pron+Poss+PP3P+Mas+Sg:leur	#;
+leur+Pron+Poss+PP3P+Fem+Sg:leur	#;
+leur+Pron+Poss+PP3P+Mas+Pl:leurs	#;
+leur+Pron+Poss+PP3P+Fem+Pl:leurs	#;
+
+que+Pron+Intero:que	#;
+que+Pron+Intero:qu'	#;
+quoi+Pron+Intero:quoi	#;
+qui+Pron+Intero:qui	#;
+lequel+Pron+Intero+Mas+Sg:lequel	#;
+lequel+Pron+Intero+Fem+Sg:laquelle	#;
+lequel+Pron+Intero+Mas+Pl:lesquels	#;
+lequel+Pron+Intero+Fem+Pl:lesquelles	#;
+
+ceci+Pron+Demo:ceci	#;
+cela+Pron+Demo:cela	#;
+ça+Pron+Demo:ça	#;
+
+celui+Pron+Demo+Mas+Sg:celui	#;
+celui+Pron+Demo+Fem+Sg:celle	#;
+celui+Pron+Demo+Mas+Pl:ceux	#;
+celui+Pron+Demo+Fem+Pl:celles	#;
