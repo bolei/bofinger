@@ -52,13 +52,13 @@
 \begin{document}
 \maketitle
 \begin{abstract}
-This paper is the report for CMU 11-712 NLP-lab. Bofinger is a French morphological analyzer that is going to be developed in this course.
+This paper is the report for CMU 11-712 NLP-lab. Bofinger is a French morphological analyser that is going to be developed in this course.
 \end{abstract}
 
 
 \section{Basic Information about French}
 
-Frech is a Romance language. It is one of the most popular language over the world and is majorly spoken by French people. The other areas where French is spoken as a First language are: Belgium, Quebec, Swizerland and Cote d'Ivore etc.\\
+Frech is a Romance language. It is one of the most popular language over the world and is majority spoken by French people. The other areas where French is spoken as a First language are: Belgium, Quebec, Swizerland and Cote d'Ivore etc.\\
 \\
 There are many types of morphology in French words. For example, the morphology of French verbs can be divided into 3 groups:\\
 
@@ -70,17 +70,17 @@ Each of the verb is subject to change according to the tense (present, past etc)
 \\
 French nouns have gender (masculin ou feminin) and number. This is indicated by the determinant. \\
 \\
-Adjactives and adverbs also change their number and sex according to the noun that they decorate.
+Adjectives and adverbs also change their number and sex according to the noun that they decorate.
 \\
 There are rules for each kind of inflection. However exceptions also exist in each case.
 
 
 \section{Past Work on the Morphology of French}
-Many works have been done on French Morphology. For instance, Xerox Morphological Analysis is a comercial NLP tool that supports the anayssis of multiple languages including French. It is a mature application and of high accuracy.\\
+Many works have been done on French Morphology. For instance, Xerox Morphological Analysis is a commercial NLP tool that supports the analysis of multiple languages including French. It is a mature application and of high accuracy.\\
 \\
 The Lefff\footnote{http://www.labri.fr/perso/clement/lefff/} is a freely available and large-coverage morphological and syntactic lexicon for French developed by Benoˆıt Sagot. \\
 \\
-In addition, Morphalou\footnote{http://cnrtl.fr/lexiques/morphalou/} is also a Lexical Markup Framework based modle for morphological lexicon, developed by Centre National de Ressources Textuelles et Lexicales. 
+In addition, Morphalou\footnote{http://cnrtl.fr/lexiques/morphalou/} is also a Lexical Markup Framework based model for morphological lexicon, developed by Centre National de Ressources Textuelles et Lexicales. 
 
 \section{Available Resources}
 
@@ -88,10 +88,10 @@ Wikipedia:\\
 \indent Wikipedia is a great place for the French language grammar reference. It contains a set of articles describing the complete French word inflection rules\footnote{https://en.wikipedia.org/wiki/French\_verbs} .\\
 \\
 La Bibliothèque Universelle (ABU)\footnote{http://abu.cnam.fr/}:\\
-\indent ABU comprises a greate reference for French words morphology and text corpora. It contains the morphology of than 300,000 common used words\footnote{http://abu.cnam.fr/DICO/}. In addition, it also holds 288 texts from 101 authors. To ensure that the corpora are of the same quality (e.g word use, grammar, misspelling) and formalism, I'll choose corpora from Alexandre Dumas's novel Les Trois Mousquetaires (The Three Musketeers). Corpus A will be the first 1000 words, corpus B will be the following 1000 word and Corpus C will be the following 10,000 words.\\
+\indent ABU comprises a great reference for French words morphology and text corpora. It contains the morphology of than 300,000 common used words\footnote{http://abu.cnam.fr/DICO/}. In addition, it also holds 288 texts from 101 authors. To ensure that the corpora are of the same quality (e.g word use, grammar, misspelling) and formalism, I'll choose corpora from Alexandre Dumas's novel Les Trois Mousquetaires (The Three Musketeers). Corpus A will be the first 1000 words, corpus B will be the following 1000 word and Corpus C will be the following 10,000 words.\\
 \\
 Morphalou:\\
-\indent Mentioned above, Morphalou contains a LMF defined lexicon that is almost available for being used as the fundalment of our software.\\
+\indent Mentioned above, Morphalou contains a LMF defined lexicon that is almost available for being used as the fundamental of our software.\\
 
 \section{Survey of Phenomena in French}
 French verbs:\\
@@ -99,13 +99,13 @@ Similar to English, French verbs are conjugated according to the sentence inform
 \\
 Following sentence information may affect how a verb is conjugated:\\
 \\
-\indent Mood: There are almost seven different moods in French. However some of them are almost not used in comtemporary French. For the first round development, I'll focus only on the four most important moods: indicative, subjunctive, conditional and imperative.\\
+\indent Mood: There are almost seven different moods in French. However some of them are almost not used in contemporary French. For the first round development, I'll focus only on the four most important moods: indicative, subjunctive, conditional and imperative.\\
 \\
 \indent Tense: Depending on the mood, verbs are conjugated by the tense of the sentence. For indicative, there are eight tenses: present, present perfect, imperfect, pluperfect, simple past, past perfect, simple future and future perfect. For subjunctive, there are four tenses: present, past, imperfect and pluperfect. For imperative, two kinds of tenses exist: present and past. Conditional is special, it has only one type of conjugation regardless the tense.\\
 \\
-\indent Person: Based on the person, verbs adops different forms in many cases.\\
+\indent Person: Based on the person, verbs adopts different forms in many cases.\\
 \\
-French verbs are categarized into three groups. Each group has a different spelling rule. Here lists the spelling rule for each of the group:\\
+French verbs are categorized into three groups. Each group has a different spelling rule. Here lists the spelling rule for each of the group:\\
 \\
 \indent The first group verbs ends with "er". The spelling rule is defined by replacing "er" with the following letters:\\
 \indent past participle: -\'e
@@ -148,27 +148,27 @@ French verbs are categarized into three groups. Each group has a different spell
 \indent The theird group verbs are special cases which do not have a common spelling rule. Fortunately there are not many verbs falling into this group. We can treat them case by case.\\
 \\
 French nouns:\\
-Each french noun has a gender (masculin or feminine). Most of the time, different genders of a same word are of differnt spelling. Most of the feminine forms of a nouns adds a "e" at the end of its masculin form. Like English, some French nouns are countable and some are uncountable. Generally, the plural form of a countable noun adds a "s" at the end. But sometimes "x", "eux" may be added. There are also irregular plural forms such as "yeux" as the plural form of "\oe il" (the word "eye" in English).\\
+Each french noun has a gender (masculine or feminine). Most of the time, different genders of a same word are of different spelling. Most of the feminine forms of a nouns adds a "e" at the end of its masculine form. Like English, some French nouns are countable and some are uncountable. Generally, the plural form of a countable noun adds a "s" at the end. But sometimes "x", "eux" may be added. There are also irregular plural forms such as "yeux" as the plural form of "\oe il" (the word "eye" in English).\\
 \\
 French adjectives:\\
-Adjectives in French also need to comform the gender of the sentence.\\
+Adjectives in French also need to conform the gender of the sentence.\\
 \\
 French articles and determiners:\\
 \indent definite article:\\
-\indent\indent Sigular: le (masculin), la (feminine)\\
+\indent\indent Singular: le (masculine), la (feminine)\\
 \indent\indent plural: les\\
 \indent indefinite article:\\
-\indent\indent Sigular: un (masculin), une (feminine)\\
+\indent\indent Singular: un (masculine), une (feminine)\\
 \indent\indent plural: des\\
 \indent partitive article:\\
-\indent\indent Sigular: du (masculin), de la (feminine)\\
+\indent\indent Singular: du (masculin), de la (feminine)\\
 \indent\indent plural: des\\
 \\
 There are also types of words in French such as Pronoun, adverbs, Prepositions, Negation words which do not have complex spelling rules. Our program will treat them in a lower priority.
 
 \section{Initial Design}
 The system can be divided into the following modules:\\
-\indent Lexicon: This will be the module that defines all the original form of the French words and thir regular inflection. It includes\\
+\indent Lexicon: This will be the module that defines all the original form of the French words and third regular inflection. It includes\\
 \indent\indent Verbs\\
 \indent\indent\indent First group verbs\\
 \indent\indent\indent Second group verbs\\
@@ -176,22 +176,53 @@ The system can be divided into the following modules:\\
 \indent\indent\indent Past particle\\
 \indent\indent\indent Present particle\\
 \indent\indent Nouns\\
-\indent\indent\indent Masculin\\
+\indent\indent\indent Masculine\\
 \indent\indent\indent Feminine\\
 \indent\indent\indent Plural\\
-\indent\indent Ajectives \& Adverbs\\
+\indent\indent Adjectives \& Adverbs\\
 \indent\indent Pronouns\\
 
-\indent Irregular forms: All the execeptions of the regular conjugations are handled in this module.\\
-
-
-
-
-
+\indent Irregular forms: All the exceptions of the regular conjugations are handled in this module.\\
 \section{System Analysis on Corpus A}
+\\
+At this point, I have implemented a part of word categories in French. They are:\\
+\indent Nouns\\
+\indent Verbs\\
+\indent Adjectives\\
+\indent Adverbs\\
+\indent Articles\\
+\indent Determiners\\
+\\
+Except for 3rd group verbs, Only regular inflections were implemented.\\
+\\
+This is a pilot version and its purpose is only to check if the system is able to analyse something. As a result, the main evaluation criterion is its recognition rate, namely the percentage of the words that it is able to recognize and give some parse.\\
+\\
+So the program is run on Corpus A, the first 1000 words from Les Trois Mousquetaires. Then a python script is used to do the evaluation on the result.
+\\
+\begin{verbatim}
+word type count:
+497
+recognition rate:
+0.64185110664
+\end{verbatim}
 
 \section{Lessons Learned and Revised Design}
-
+\\
+In this round of development, the most important thing I learned is how to use Foma to implement a FST based morphological analyser. \\
+\\
+At the beginning I didn't know how to separate different kinds of words so I put everything into one big file. As I get more familiar with Foma, I was able to divide the lexicons according to their category. The separation does not only makes sense in terms of system architecture, but also makes it easier to debug because each module can become a standalone FST.\\
+\\
+Some tricks are used. For example, French regular verbs (1st and 2nd groups) end with a certain suffix. So it is easier for the lexicon file to keep track of the stem and the suffix separately.\\
+\\
+In the next step, I plan to finish adding all kinds of French vocabularies:\\
+\\
+\begin{verbatim}
+Prepositions
+Pronouns
+Negation
+\end{verbatim}
+\\
+Also, the system should be case insensitive.\\
 \section{System Analysis on Corpus B}
 
 \section{Final Revisions}
