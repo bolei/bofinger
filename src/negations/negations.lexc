@@ -1,0 +1,21 @@
+Multichar_Symbols +Neg +Adv +Pron +Det +Mas +Fem
+
+LEXICON Root
+ne+Neg:ne	#;
+ne+Neg:n'	#;
+
+pas+Neg+Adv:pas	#;
+!pas% du% tout+Neg+Adv:pas% du% tout	#;
+jamais+Neg+Adv:jamais	#;
+!nulle% part+Neg+Adv:nulle% part	#;
+guère+Neg+Adv:guère	#;
+point+Neg+Adv:point	#;
+aucunement+Neg+Adv:aucunement	#;
+nullement+Neg+Adv:nullement	#;
+
+rien+Neg+Pron:rien	#;
+personne+Neg+Pron:personne	#;
+
+aucun+Neg+Det+Mas:aucun	#;
+aucun+Neg+Det+Fem:aucune	#;
+
