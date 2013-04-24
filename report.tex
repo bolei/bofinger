@@ -137,7 +137,7 @@ French verbs are categorized into three groups. Each group has a different spell
 \\
 \indent - subjunctive\\
 \indent\indent present: -e, -es, -e, -ions, -iez, -ent\\
-\indent\indent imperfect: -isse, -isses, -ît, -issions, -issiez, -issent\\
+\indent\indent imperfect: -isse, -isses, -\^it, -issions, -issiez, -issent\\
 \\
 \indent - imperative\\
 \indent\indent present: N/A, -is, -isse, -issons, -issez, -issent\\
@@ -231,16 +231,12 @@ recognition rate:
 \end{verbatim} 
 After examining the unrecognised words, There are two major reasons that the analyser doesn't recognize words:\\
 \begin{itemize}
-\item Many common words such as près, et, où etc. are not recognized. This is because obviously some important words are either not included in the lexicon or wrongly spelled.
+\item Many common words such as pr\`es, et, o\`u etc. are not recognized. This is because obviously some important words are either not included in the lexicon or wrongly spelled.
 \item Tokens that contain capitalized alphabets are not recognized. This is because so far the analyser is case sensitive. It would be good to make it case insensitive. Because the analyser is supposed to treat tokens in the same way regardless its case.
 \end{itemize}
 \section{Final Revisions}
 
 \section{Future Work}
-
-
-
-
 
 \bibliographystyle{plainnat}
 \bibliography{refs}

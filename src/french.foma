@@ -57,12 +57,17 @@ read lexc negations/negations.lexc
 define	Negations;
 # pronouns ================
 
+# conjunctions ================
+read lexc conjunctions/conjunctions.lexc
+define	Conjunctions;
+# conjunctions ================
+
 # not considered ================
 read lexc notconsidered/notconsidered.lexc
 define	NotConsidered;
 # not considered ================
 
-regex	Verbs | Nouns | Adjectives | Articles | Determiners | Prepositions | Pronouns | Negations | NotConsidered;
+regex	Verbs | Nouns | Adjectives | Articles | Determiners | Prepositions | Pronouns | Conjunctions | Negations | NotConsidered;
 define	Grammar;
 
 define	Cleanup "^" -> 0;
