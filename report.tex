@@ -184,7 +184,6 @@ The system can be divided into the following modules:\\
 
 \indent Irregular forms: All the exceptions of the regular conjugations are handled in this module.\\
 \section{System Analysis on Corpus A}
-\\
 At this point, I have implemented a part of word categories in French. They are:\\
 \indent Nouns\\
 \indent Verbs\\
@@ -207,7 +206,6 @@ recognition rate:
 \end{verbatim}
 
 \section{Lessons Learned and Revised Design}
-\\
 In this round of development, the most important thing I learned is how to use Foma to implement a FST based morphological analyser. \\
 \\
 At the beginning I didn't know how to separate different kinds of words so I put everything into one big file. As I get more familiar with Foma, I was able to divide the lexicons according to their category. The separation does not only makes sense in terms of system architecture, but also makes it easier to debug because each module can become a standalone FST.\\
@@ -221,10 +219,21 @@ Prepositions
 Pronouns
 Negation
 \end{verbatim}
-\\
 Also, the system should be case insensitive.\\
 \section{System Analysis on Corpus B}
+In the second round of development, Prepositions, Pronouns and Negation are added into the analyser. By far, almost all french word types has been covered. Again, the recognition rate is calculated.\\
 
+\begin{verbatim}
+word type count:
+471
+recognition rate:
+0.717622080679
+\end{verbatim} 
+After examining the unrecognised words, There are two major reasons that the analyser doesn't recognize words:\\
+\begin{itemize}
+\item Many common words such as près, et, où etc. are not recognized. This is because obviously some important words are either not included in the lexicon or wrongly spelled.
+\item Tokens that contain capitalized alphabets are not recognized. This is because so far the analyser is case sensitive. It would be good to make it case insensitive. Because the analyser is supposed to treat tokens in the same way regardless its case.
+\end{itemize}
 \section{Final Revisions}
 
 \section{Future Work}
