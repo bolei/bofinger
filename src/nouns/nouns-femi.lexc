@@ -9985,5 +9985,5 @@ zymotechnie	FemiNomInf;
 œsophagite	FemiNomInf;
 
 LEXICON FemiNomInf
-+Nom+Fem+Sg:0   #;
-+Nom+Fem+Pl:^s  #;
++Nom+Fem+Sg:0	#;
++Nom+Fem+Pl:^s	#;

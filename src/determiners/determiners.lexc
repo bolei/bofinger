@@ -32,14 +32,14 @@ leur+PossDet+PP3P+Fem+Sg:leur	#;
 leur+PossDet+PP3P+Mas+Pl:leurs	#;
 leur+PossDet+PP3P+Fem+Pl:leurs	#;
 
-ce+DemDet+Mas+Sg:ce		#;
-ce+DemDet+Mas+Sg:c'		#;
+ce+DemDet+Mas+Sg:ce	#;
+ce+DemDet+Mas+Sg:c'	#;
 ce+DemDet+Mas+Sg:cet	#;
 ce+DemDet+Fem+Sg:cette	#;
 ce+DemDet+Mas+Pl:ces	#;
 ce+DemDet+Fem+Pl:ces	#;
 
-quel+InterrDet+Mas+Sg:quel		#;
+quel+InterrDet+Mas+Sg:quel	#;
 quel+InterrDet+Fem+Sg:quelle	#;
-quel+InterrDet+Mas+Pl:quels		#;
+quel+InterrDet+Mas+Pl:quels	#;
 quel+InterrDet+Fem+Pl:quelles	#;

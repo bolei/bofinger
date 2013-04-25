@@ -1,6 +1,3 @@
-define C [b|c|d|f|g|h|j|k|l|m|n|p|q|r|s|t|v|w|x|z];
-define V [a|e|i|o|u|y];
-
 # verbs ================
 read lexc verbs/group-1-verbs.lexc
 define	Group1Verbs;
@@ -80,6 +77,34 @@ define	Lexicon;
 
 define	Cleanup "^" -> 0;
 
-define	Grammar Lexicon .o. Cleanup;
+define IgnoreCase	a (->) A ,, 
+					b (->) B ,, 
+					c (->) C ,, 
+					d (->) D ,, 
+					e (->) E ,, 
+					f (->) F ,, 
+					g (->) G ,, 
+					h (->) H ,, 
+					i (->) I ,, 
+					j (->) J ,, 
+					k (->) K ,, 
+					l (->) L ,, 
+					m (->) M ,, 
+					n (->) N ,, 
+					o (->) O ,, 
+					p (->) P ,, 
+					q (->) Q ,, 
+					r (->) R ,, 
+					s (->) S ,, 
+					t (->) T ,, 
+					u (->) U ,, 
+					v (->) V ,, 
+					w (->) W ,, 
+					x (->) X ,, 
+					y (->) Y ,, 
+					z (->) Z;
+
+define	Grammar Lexicon .o. Cleanup .o. IgnoreCase;
+#define	Grammar Lexicon .o. Cleanup;
 
 regex Grammar;

@@ -13968,5 +13968,5 @@ zython	MascNomInf;
 îlotier	MascNomInf;
 
 LEXICON MascNomInf
-+Nom+Mas+Sg:0   #;
-+Nom+Mas+Pl:^s  #;
++Nom+Mas+Sg:0	#;
++Nom+Mas+Pl:^s	#;

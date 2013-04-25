@@ -1,12 +1,12 @@
 Multichar_Symbols +DefArt +IndefArt +PartArt +Mas +Fem +Sg +Pl
 
 LEXICON Root
-le+DefArt+Mas+Sg:le		#;
-le+DefArt+Fem+Sg:la		#;
+le+DefArt+Mas+Sg:le	#;
+le+DefArt+Fem+Sg:la	#;
 le+DefArt+Mas+Pl:les	#;
 le+DefArt+Fem+Pl:les	#;
-le+DefArt+Mas+Sg:l'		#;
-le+DefArt+Fem+Sg:l'		#;
+le+DefArt+Mas+Sg:l'	#;
+le+DefArt+Fem+Sg:l'	#;
 
 un+IndefArt+Mas+Sg:un	#;
 un+IndefArt+Fem+Sg:une	#;
