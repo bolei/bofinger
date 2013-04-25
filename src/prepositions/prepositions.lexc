@@ -1,4 +1,4 @@
-Multichar_Symbols +Prep
+Multichar_Symbols +Prep +DefArt +Sg +Pl
 
 LEXICON Root
 à+Prep:à	#;
@@ -59,3 +59,5 @@ vers+Prep:vers	#;
 via+Prep:via	#;
 voici+Prep:voici	#;
 vs+Prep:vs	#;
+à+Prep% le+DefArt+Pl:aux	#;
+à+Prep% le+DefArt+Sg:au	#;
