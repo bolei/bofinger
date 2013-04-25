@@ -6,7 +6,7 @@ ignorelist = ('!', '-', '_', '(', ')', ',', '.', ':', ';', '"', '\'', '?')
 
 def displayword(w):
 	if w != "":
-		print w
+		print w.lower()
 
 def handletail(w):
 #	print w
@@ -19,6 +19,9 @@ def handletail(w):
 		displayword(w[0:len(w)])
 
 def handleword(w):
+	if(w[0] in ignorelist):
+		displayword(w[0])
+		w = w[1:len(w)]
 	pos = w.find('\'')
 	if(pos >= 0):
 		displayword(w[0:pos+1])
