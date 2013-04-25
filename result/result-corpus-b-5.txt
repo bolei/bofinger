@@ -1,0 +1,3205 @@
+un	un+Nom+Mas+Sg
+un	un+Num+Nom+Mas
+un	un+Num+Adj+Mas
+un	un+IndefArt+Mas+Sg
+
+jeune	jeuner+Ver+Impr+Pre+PP2S
+jeune	jeuner+Ver+Sub+Pre+PP3S
+jeune	jeuner+Ver+Sub+Pre+PP1S
+jeune	jeuner+Ver+Ind+Pre+PP3S
+jeune	jeuner+Ver+Ind+Pre+PP1S
+jeune	jeune+Nom+Mas+Sg
+jeune	jeune+Nom+Fem+Sg
+jeune	jeune+Adj+Mas+Sg
+
+homme	homme+Nom+Mas+Sg
+
+.	.
+
+.	.
+
+.	.
+
+-	-
+
+traçons	+?
+
+son	son+Nom+Mas+Sg
+son	son+PossDet+PP3S+Mas+Sg
+
+portrait	portrait+Nom+Mas+Sg
+
+d'	d'+Prep
+
+un	un+Nom+Mas+Sg
+un	un+Num+Nom+Mas
+un	un+Num+Adj+Mas
+un	un+IndefArt+Mas+Sg
+
+seul	seul+Adj+Mas+Sg
+
+trait	trait+Nom+Mas+Sg
+
+de	de+Prep
+
+plume	plumer+Ver+Impr+Pre+PP2S
+plume	plumer+Ver+Sub+Pre+PP3S
+plume	plumer+Ver+Sub+Pre+PP1S
+plume	plumer+Ver+Ind+Pre+PP3S
+plume	plumer+Ver+Ind+Pre+PP1S
+plume	plume+Nom+Fem+Sg
+
+:	:
+
+figurez-vous	+?
+
+don	don+Nom+Mas+Sg
+
+quichotte	+?
+
+à	à+Prep
+
+dix-huit	+?
+
+ans	an+Nom+Mas+Pl
+
+,	,
+
+don	don+Nom+Mas+Sg
+
+quichotte	+?
+
+décorcelé	+?
+
+,	,
+
+sans	san+Nom+Mas+Pl
+sans	sans+Prep
+
+haubert	haubert+Nom+Mas+Sg
+
+et	et+Conjun
+
+sans	san+Nom+Mas+Pl
+sans	sans+Prep
+
+cuissards	cuissard+Nom+Mas+Pl
+
+,	,
+
+don	don+Nom+Mas+Sg
+
+quichotte	+?
+
+revêtu	revêtu+Adj+Mas+Sg
+revêtu	revêtir+PPas
+
+d'	d'+Prep
+
+un	un+Nom+Mas+Sg
+un	un+Num+Nom+Mas
+un	un+Num+Adj+Mas
+un	un+IndefArt+Mas+Sg
+
+pourpoint	pourpoint+Nom+Mas+Sg
+
+de	de+Prep
+
+laine	laine+Nom+Fem+Sg
+
+dont	dont+Pron+Intero+Fem+Pl
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+la	elle+Pron+Person+DirObj+PP3S+Sg
+
+couleur	couleur+Nom+Fem+Sg
+
+bleue	bleu+Adj+Fem+Sg
+
+s'	s'+Conjun
+s'	elles+Pron+Person+Refl+PP3P+Pl
+s'	on+Pron+Person+Refl+PP3S+Sg
+s'	il+Pron+Person+Refl+PP3S+Sg
+s'	ils+Pron+Person+Refl+PP3P+Pl
+
+était	être+Ind+Imp+PP3S
+
+transformée	+?
+
+en	en+Prep
+en	elle+Pron+Person+DirObj+PP3S+Sg
+en	elles+Pron+Person+DirObj+PP3P+Pl
+en	il+Pron+Person+DirObj+PP3S+Sg
+en	ils+Pron+Person+DirObj+PP3P+Pl
+
+une	une+Nom+Fem+Sg
+une	un+Num+Nom+Fem
+une	un+Num+Adj+Fem
+une	un+IndefArt+Fem+Sg
+
+nuance	nuancer+Ver+Impr+Pre+PP2S
+nuance	nuancer+Ver+Sub+Pre+PP3S
+nuance	nuancer+Ver+Sub+Pre+PP1S
+nuance	nuancer+Ver+Ind+Pre+PP3S
+nuance	nuancer+Ver+Ind+Pre+PP1S
+nuance	nuance+Nom+Fem+Sg
+
+insaisissable	insaisissable+Adj+Mas+Sg
+
+de	de+Prep
+
+lie-de-vin	lie-de-vin+Adj+Mas+Sg
+
+et	et+Conjun
+
+d'	d'+Prep
+
+azur	azur+Nom+Mas+Sg
+
+céleste	céleste+Adj+Mas+Sg
+
+.	.
+
+visage	visage+Nom+Mas+Sg
+
+long	long+Adj+Mas+Sg
+
+et	et+Conjun
+
+brun	brun+Nom+Mas+Sg
+brun	brun+Adj+Mas+Sg
+
+;	;
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+la	elle+Pron+Person+DirObj+PP3S+Sg
+
+pommette	pommette+Nom+Fem+Sg
+
+des	du+PartArt+Mas+Pl
+des	du+PartArt+Fem+Pl
+des	un+IndefArt+Mas+Pl
+des	un+IndefArt+Fem+Pl
+
+joues	jouer+Ver+Sub+Pre+PP2S
+joues	jouer+Ver+Ind+Pre+PP2S
+joues	joue+Nom+Fem+Pl
+
+saillante	saillant+Adj+Fem+Sg
+
+,	,
+
+signe	signer+Ver+Impr+Pre+PP2S
+signe	signer+Ver+Sub+Pre+PP3S
+signe	signer+Ver+Sub+Pre+PP1S
+signe	signer+Ver+Ind+Pre+PP3S
+signe	signer+Ver+Ind+Pre+PP1S
+signe	signe+Nom+Mas+Sg
+
+d'	d'+Prep
+
+astuce	astuce+Nom+Fem+Sg
+
+;	;
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+les	elles+Pron+Person+DirObj+PP3P+Pl
+les	ils+Pron+Person+DirObj+PP3P+Pl
+
+muscles	muscler+Ver+Sub+Pre+PP2S
+muscles	muscler+Ver+Ind+Pre+PP2S
+muscles	muscle+Nom+Mas+Pl
+
+maxillaires	maxillaire+Nom+Mas+Pl
+maxillaires	maxillaire+Adj+Mas+Pl
+
+énormément	+?
+
+développés	développé+Adj+Mas+Pl
+
+,	,
+
+indice	indice+Nom+Mas+Sg
+
+infaillible	infaillible+Adj+Mas+Sg
+
+auquel	+?
+
+on	on+Pron+Person+Subj+PP3S+Sg
+
+reconnaît	+?
+
+le	le+DefArt+Mas+Sg
+le	il+Pron+Person+DirObj+PP3S+Sg
+
+gascon	gascon+Nom+Mas+Sg
+gascon	gascon+Adj+Mas+Sg
+
+,	,
+
+même	même+Adj+Mas+Sg
+même	même+Adv
+
+sans	san+Nom+Mas+Pl
+sans	sans+Prep
+
+béret	béret+Nom+Mas+Sg
+
+,	,
+
+et	et+Conjun
+
+notre	notre+PossDet+PP1P+Mas+Sg
+notre	notre+PossDet+PP1P+Fem+Sg
+
+jeune	jeuner+Ver+Impr+Pre+PP2S
+jeune	jeuner+Ver+Sub+Pre+PP3S
+jeune	jeuner+Ver+Sub+Pre+PP1S
+jeune	jeuner+Ver+Ind+Pre+PP3S
+jeune	jeuner+Ver+Ind+Pre+PP1S
+jeune	jeune+Nom+Mas+Sg
+jeune	jeune+Nom+Fem+Sg
+jeune	jeune+Adj+Mas+Sg
+
+homme	homme+Nom+Mas+Sg
+
+portait	porter+Ver+Ind+Imp+PP3S
+
+un	un+Nom+Mas+Sg
+un	un+Num+Nom+Mas
+un	un+Num+Adj+Mas
+un	un+IndefArt+Mas+Sg
+
+béret	béret+Nom+Mas+Sg
+
+orné	orner+Ver+PPas
+
+d'	d'+Prep
+
+une	une+Nom+Fem+Sg
+une	un+Num+Nom+Fem
+une	un+Num+Adj+Fem
+une	un+IndefArt+Fem+Sg
+
+espèce	espèce+Nom+Fem+Sg
+
+de	de+Prep
+
+plume	plumer+Ver+Impr+Pre+PP2S
+plume	plumer+Ver+Sub+Pre+PP3S
+plume	plumer+Ver+Sub+Pre+PP1S
+plume	plumer+Ver+Ind+Pre+PP3S
+plume	plumer+Ver+Ind+Pre+PP1S
+plume	plume+Nom+Fem+Sg
+
+,	,
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+l'	il+Pron+Person+DirObj+PP3S+Sg
+
+oeil	oeil+Nom+Mas+Sg
+
+ouvert	ouvrir+Ver+PPas
+ouvert	ouvert+Adj+Mas+Sg
+
+et	et+Conjun
+
+intelligent	intelligent+Adj+Mas+Sg
+
+;	;
+
+le	le+DefArt+Mas+Sg
+le	il+Pron+Person+DirObj+PP3S+Sg
+
+nez	nez+Nom+Mas+Sg
+
+crochu	crochu+Adj+Mas+Sg
+
+,	,
+
+mais	mai+Nom+Mas+Pl
+mais	mais+Conjun
+
+finement	fin+Adv+Fem+Sg
+
+dessiné	dessiner+Ver+PPas
+
+;	;
+
+trop	trop+Adv
+
+grand	grand+Adj+Mas+Sg
+
+pour	pour+Prep
+
+un	un+Nom+Mas+Sg
+un	un+Num+Nom+Mas
+un	un+Num+Adj+Mas
+un	un+IndefArt+Mas+Sg
+
+adolescent	adolescent+Nom+Mas+Sg
+adolescent	adolescent+Adj+Mas+Sg
+
+,	,
+
+trop	trop+Adv
+
+petit	petit+Nom+Mas+Sg
+petit	petit+Adj+Mas+Sg
+
+pour	pour+Prep
+
+un	un+Nom+Mas+Sg
+un	un+Num+Nom+Mas
+un	un+Num+Adj+Mas
+un	un+IndefArt+Mas+Sg
+
+homme	homme+Nom+Mas+Sg
+
+fait	faire+Ver+Ind+Pre+PP3S
+fait	faire+Ver+PPas
+fait	fait+Nom+Mas+Sg
+fait	fait+Adj+Mas+Sg
+
+,	,
+
+et	et+Conjun
+
+qu'	qu'+Conjun
+qu'	que+Pron+Intero
+
+un	un+Nom+Mas+Sg
+un	un+Num+Nom+Mas
+un	un+Num+Adj+Mas
+un	un+IndefArt+Mas+Sg
+
+oeil	oeil+Nom+Mas+Sg
+
+peu	peu+Nom+Mas+Sg
+peu	peu+Adv
+
+exercé	exercer+Ver+PPas
+
+eût	avoir+Sub+Imp+PP3S
+
+pris	prendre+Ver+Ind+PSim+PP2S
+pris	prendre+Ver+Ind+PSim+PP1S
+pris	prendre+Ver+PPas
+
+pour	pour+Prep
+
+un	un+Nom+Mas+Sg
+un	un+Num+Nom+Mas
+un	un+Num+Adj+Mas
+un	un+IndefArt+Mas+Sg
+
+fils	fil+Nom+Mas+Pl
+fils	fils+Nom+Mas+Sg
+
+de	de+Prep
+
+fermier	fermier+Nom+Mas+Sg
+fermier	fermier+Adj+Mas+Sg
+
+en	en+Prep
+en	elle+Pron+Person+DirObj+PP3S+Sg
+en	elles+Pron+Person+DirObj+PP3P+Pl
+en	il+Pron+Person+DirObj+PP3S+Sg
+en	ils+Pron+Person+DirObj+PP3P+Pl
+
+voyage	voyager+Ver+Impr+Pre+PP2S
+voyage	voyager+Ver+Sub+Pre+PP3S
+voyage	voyager+Ver+Sub+Pre+PP1S
+voyage	voyager+Ver+Ind+Pre+PP3S
+voyage	voyager+Ver+Ind+Pre+PP1S
+voyage	voyage+Nom+Mas+Sg
+
+,	,
+
+sans	san+Nom+Mas+Pl
+sans	sans+Prep
+
+sa	son+PossDet+PP3S+Fem+Sg
+
+longue	+?
+
+épée	épée+Nom+Fem+Sg
+
+qui	qui+Pron+Intero
+
+,	,
+
+pendue	+?
+
+à	à+Prep
+
+un	un+Nom+Mas+Sg
+un	un+Num+Nom+Mas
+un	un+Num+Adj+Mas
+un	un+IndefArt+Mas+Sg
+
+baudrier	baudrier+Nom+Mas+Sg
+
+de	de+Prep
+
+peau	peau+Nom+Fem+Sg
+
+,	,
+
+battait	battre+Ver+Ind+Imp+PP3S
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+les	elles+Pron+Person+DirObj+PP3P+Pl
+les	ils+Pron+Person+DirObj+PP3P+Pl
+
+mollets	mollet+Nom+Mas+Pl
+
+de	de+Prep
+
+son	son+Nom+Mas+Sg
+son	son+PossDet+PP3S+Mas+Sg
+
+propriétaire	propriétaire+Nom+Mas+Sg
+propriétaire	propriétaire+Nom+Fem+Sg
+
+quand	quand+Adv
+quand	quand+Conjun
+
+il	il+Pron+Person+Subj+PP3S+Sg
+
+était	être+Ind+Imp+PP3S
+
+à	à+Prep
+
+pied	pied+Nom+Mas+Sg
+
+,	,
+
+et	et+Conjun
+
+le	le+DefArt+Mas+Sg
+le	il+Pron+Person+DirObj+PP3S+Sg
+
+poil	poil+Nom+Mas+Sg
+
+hérissé	hérisser+Ver+PPas
+
+de	de+Prep
+
+sa	son+PossDet+PP3S+Fem+Sg
+
+monture	monture+Nom+Fem+Sg
+
+quand	quand+Adv
+quand	quand+Conjun
+
+il	il+Pron+Person+Subj+PP3S+Sg
+
+était	être+Ind+Imp+PP3S
+
+à	à+Prep
+
+cheval	cheval+Nom+Mas+Sg
+
+.	.
+
+car	car+Nom+Mas+Sg
+car	car+Conjun
+
+notre	notre+PossDet+PP1P+Mas+Sg
+notre	notre+PossDet+PP1P+Fem+Sg
+
+jeune	jeuner+Ver+Impr+Pre+PP2S
+jeune	jeuner+Ver+Sub+Pre+PP3S
+jeune	jeuner+Ver+Sub+Pre+PP1S
+jeune	jeuner+Ver+Ind+Pre+PP3S
+jeune	jeuner+Ver+Ind+Pre+PP1S
+jeune	jeune+Nom+Mas+Sg
+jeune	jeune+Nom+Fem+Sg
+jeune	jeune+Adj+Mas+Sg
+
+homme	homme+Nom+Mas+Sg
+
+avait	avoir+Ind+Imp+PP3S
+
+une	une+Nom+Fem+Sg
+une	un+Num+Nom+Fem
+une	un+Num+Adj+Fem
+une	un+IndefArt+Fem+Sg
+
+monture	monture+Nom+Fem+Sg
+
+,	,
+
+et	et+Conjun
+
+cette	ce+DemDet+Fem+Sg
+
+monture	monture+Nom+Fem+Sg
+
+était	être+Ind+Imp+PP3S
+
+même	même+Adj+Mas+Sg
+même	même+Adv
+
+si	si+Nom+Mas+Sg
+si	si+Adv
+si	si+Conjun
+
+remarquable	remarquable+Adj+Mas+Sg
+
+,	,
+
+qu'	qu'+Conjun
+qu'	que+Pron+Intero
+
+elle	elle+Pron+Person+Disj+PP3S+Sg
+elle	elle+Pron+Person+Subj+PP3S+Sg
+
+fut	être+Ind+PSim+PP3S
+
+remarquée	+?
+
+:	:
+
+c'	ce+DemDet+Mas+Sg
+
+était	être+Ind+Imp+PP3S
+
+un	un+Nom+Mas+Sg
+un	un+Num+Nom+Mas
+un	un+Num+Adj+Mas
+un	un+IndefArt+Mas+Sg
+
+bidet	bidet+Nom+Mas+Sg
+
+du	du+PartArt+Mas+Sg
+
+béarn	+?
+
+,	,
+
+âgé	âgé+Adj+Mas+Sg
+
+de	de+Prep
+
+douze	douze+Num+Nom
+douze	douze+Num+Adj
+
+ou	ou+Conjun
+
+quatorze	quatorze+Num+Nom
+quatorze	quatorze+Num+Adj
+
+ans	an+Nom+Mas+Pl
+
+,	,
+
+jaune	jaune+Nom+Mas+Sg
+jaune	jaune+Adj+Mas+Sg
+
+de	de+Prep
+
+robe	rober+Ver+Impr+Pre+PP2S
+robe	rober+Ver+Sub+Pre+PP3S
+robe	rober+Ver+Sub+Pre+PP1S
+robe	rober+Ver+Ind+Pre+PP3S
+robe	rober+Ver+Ind+Pre+PP1S
+robe	robe+Nom+Fem+Sg
+
+,	,
+
+sans	san+Nom+Mas+Pl
+sans	sans+Prep
+
+crins	crin+Nom+Mas+Pl
+
+à	à+Prep
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+la	elle+Pron+Person+DirObj+PP3S+Sg
+
+queue	queue+Nom+Fem+Sg
+
+,	,
+
+mais	mai+Nom+Mas+Pl
+mais	mais+Conjun
+
+non	non+Adv
+non	non+Conjun
+
+pas	pas+Nom+Mas+Sg
+pas	pas+Adv
+pas	pas+Neg+Adv
+
+sans	san+Nom+Mas+Pl
+sans	sans+Prep
+
+javarts	+?
+
+aux	à+Prep le+DefArt+Pl
+
+jambes	jambe+Nom+Fem+Pl
+
+,	,
+
+et	et+Conjun
+
+qui	qui+Pron+Intero
+
+,	,
+
+tout	tout+Adj+Mas+Sg
+tout	tout+Adv
+
+en	en+Prep
+en	elle+Pron+Person+DirObj+PP3S+Sg
+en	elles+Pron+Person+DirObj+PP3P+Pl
+en	il+Pron+Person+DirObj+PP3S+Sg
+en	ils+Pron+Person+DirObj+PP3P+Pl
+
+marchant	marchant+Adj+Mas+Sg
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+la	elle+Pron+Person+DirObj+PP3S+Sg
+
+tête	tête+Nom+Fem+Sg
+
+plus	plus+Nom+Mas+Sg
+plus	plus+Adv
+
+bas	bas+Nom+Mas+Sg
+bas	bas+Adj+Mas+Sg
+bas	bas+Adv
+
+que	que+Pron+Intero
+que	que+Conjun
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+les	elles+Pron+Person+DirObj+PP3P+Pl
+les	ils+Pron+Person+DirObj+PP3P+Pl
+
+genoux	+?
+
+,	,
+
+ce	ce+DemDet+Mas+Sg
+
+qui	qui+Pron+Intero
+
+rendait	rendre+Ver+Ind+Imp+PP3S
+
+inutile	inutile+Adj+Mas+Sg
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+l'	il+Pron+Person+DirObj+PP3S+Sg
+
+application	+?
+
+de	de+Prep
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+la	elle+Pron+Person+DirObj+PP3S+Sg
+
+martingale	+?
+
+,	,
+
+faisait	faire+Ver+Ind+Imp+PP3S
+
+encore	encore+Adv
+
+également	égal+Adv+Fem+Sg
+
+ses	son+PossDet+PP3S+Mas+Pl
+ses	son+PossDet+PP3S+Fem+Pl
+
+huit	huit+Num+Nom
+huit	huit+Num+Adj
+
+lieues	lieue+Nom+Fem+Pl
+
+par	par+Nom+Mas+Sg
+par	par+Prep
+
+jour	jour+Nom+Mas+Sg
+
+.	.
+
+malheureusement	+?
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+les	elles+Pron+Person+DirObj+PP3P+Pl
+les	ils+Pron+Person+DirObj+PP3P+Pl
+
+qualités	qualité+Nom+Fem+Pl
+
+de	de+Prep
+
+ce	ce+DemDet+Mas+Sg
+
+cheval	cheval+Nom+Mas+Sg
+
+étaient	être+Ind+Imp+PP3P
+
+si	si+Nom+Mas+Sg
+si	si+Adv
+si	si+Conjun
+
+bien	bien+Nom+Mas+Sg
+bien	bien+Adv
+
+cachées	caché+Adj+Mas+Pl
+
+sous	sou+Nom+Mas+Pl
+sous	sous+Prep
+
+son	son+Nom+Mas+Sg
+son	son+PossDet+PP3S+Mas+Sg
+
+poil	poil+Nom+Mas+Sg
+
+étrange	étrange+Adj+Mas+Sg
+
+et	et+Conjun
+
+son	son+Nom+Mas+Sg
+son	son+PossDet+PP3S+Mas+Sg
+
+allure	allure+Nom+Fem+Sg
+
+incongrue	incongru+Adj+Fem+Sg
+
+,	,
+
+que	que+Pron+Intero
+que	que+Conjun
+
+dans	dan+Nom+Mas+Pl
+dans	dans+Prep
+
+un	un+Nom+Mas+Sg
+un	un+Num+Nom+Mas
+un	un+Num+Adj+Mas
+un	un+IndefArt+Mas+Sg
+
+temps	temps+Nom+Mas+Sg
+
+où	où+Adv
+
+tout	tout+Adj+Mas+Sg
+tout	tout+Adv
+
+le	le+DefArt+Mas+Sg
+le	il+Pron+Person+DirObj+PP3S+Sg
+
+monde	monder+Ver+Impr+Pre+PP2S
+monde	monder+Ver+Sub+Pre+PP3S
+monde	monder+Ver+Sub+Pre+PP1S
+monde	monder+Ver+Ind+Pre+PP3S
+monde	monder+Ver+Ind+Pre+PP1S
+monde	monde+Nom+Mas+Sg
+monde	monde+Adj+Mas+Sg
+
+se	elle+Pron+Person+Refl+PP3S+Sg
+se	elles+Pron+Person+Refl+PP3P+Pl
+se	on+Pron+Person+Refl+PP3S+Sg
+se	il+Pron+Person+Refl+PP3S+Sg
+se	ils+Pron+Person+Refl+PP3P+Pl
+
+connaissait	connaître+Ver+Ind+Imp+PP3S
+
+en	en+Prep
+en	elle+Pron+Person+DirObj+PP3S+Sg
+en	elles+Pron+Person+DirObj+PP3P+Pl
+en	il+Pron+Person+DirObj+PP3S+Sg
+en	ils+Pron+Person+DirObj+PP3P+Pl
+
+chevaux	+?
+
+,	,
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+l'	il+Pron+Person+DirObj+PP3S+Sg
+
+apparition	apparition+Nom+Fem+Sg
+
+du	du+PartArt+Mas+Sg
+
+susdit	susdit+Adj+Mas+Sg
+
+bidet	bidet+Nom+Mas+Sg
+
+à	à+Prep
+
+meung	+?
+
+,	,
+
+où	où+Adv
+
+il	il+Pron+Person+Subj+PP3S+Sg
+
+était	être+Ind+Imp+PP3S
+
+entré	entrer+Ver+PPas
+
+il	il+Pron+Person+Subj+PP3S+Sg
+
+y	il+Pron+Person+IndirObj+PP3S+Sg
+y	ils+Pron+Person+IndirObj+PP3P+Pl
+y	elle+Pron+Person+IndirObj+PP3S+Sg
+y	elles+Pron+Person+IndirObj+PP3P+Pl
+
+avait	avoir+Ind+Imp+PP3S
+
+un	un+Nom+Mas+Sg
+un	un+Num+Nom+Mas
+un	un+Num+Adj+Mas
+un	un+IndefArt+Mas+Sg
+
+quart	quart+Nom+Mas+Sg
+
+d'	d'+Prep
+
+heure	heure+Nom+Fem+Sg
+
+à	à+Prep
+
+peu	peu+Nom+Mas+Sg
+peu	peu+Adv
+
+près	près+Adv
+
+par	par+Nom+Mas+Sg
+par	par+Prep
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+la	elle+Pron+Person+DirObj+PP3S+Sg
+
+porte	porter+Ver+Impr+Pre+PP2S
+porte	porter+Ver+Sub+Pre+PP3S
+porte	porter+Ver+Sub+Pre+PP1S
+porte	porter+Ver+Ind+Pre+PP3S
+porte	porter+Ver+Ind+Pre+PP1S
+porte	porte+Nom+Fem+Sg
+
+de	de+Prep
+
+beaugency	+?
+
+,	,
+
+produisit	produire+Ver+Ind+PSim+PP3S
+
+une	une+Nom+Fem+Sg
+une	un+Num+Nom+Fem
+une	un+Num+Adj+Fem
+une	un+IndefArt+Fem+Sg
+
+sensation	sensation+Nom+Fem+Sg
+
+dont	dont+Pron+Intero+Fem+Pl
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+la	elle+Pron+Person+DirObj+PP3S+Sg
+
+défaveur	défaveur+Nom+Fem+Sg
+
+rejaillit	rejaillir+Ver+Ind+Pre+PP3S
+rejaillit	rejaillir+Ver+Ind+PSim+PP3S
+
+jusqu'	jusque+Prep
+
+à	à+Prep
+
+son	son+Nom+Mas+Sg
+son	son+PossDet+PP3S+Mas+Sg
+
+cavalier	cavalier+Nom+Mas+Sg
+cavalier	cavalier+Adj+Mas+Sg
+
+.	.
+
+et	et+Conjun
+
+cette	ce+DemDet+Fem+Sg
+
+sensation	sensation+Nom+Fem+Sg
+
+avait	avoir+Ind+Imp+PP3S
+
+été	été+Nom+Mas+Sg
+été	être+PPas
+
+d'	d'+Prep
+
+autant	autant+Adv
+
+plus	plus+Nom+Mas+Sg
+plus	plus+Adv
+
+pénible	pénible+Adj+Mas+Sg
+
+au	au+Prep
+au	à+Prep le+DefArt+Sg
+
+jeune	jeuner+Ver+Impr+Pre+PP2S
+jeune	jeuner+Ver+Sub+Pre+PP3S
+jeune	jeuner+Ver+Sub+Pre+PP1S
+jeune	jeuner+Ver+Ind+Pre+PP3S
+jeune	jeuner+Ver+Ind+Pre+PP1S
+jeune	jeune+Nom+Mas+Sg
+jeune	jeune+Nom+Fem+Sg
+jeune	jeune+Adj+Mas+Sg
+
+d'	d'+Prep
+
+artagnan	+?
+
+(	(
+
+ainsi	ainsi+Adv
+
+s'	s'+Conjun
+s'	elles+Pron+Person+Refl+PP3P+Pl
+s'	on+Pron+Person+Refl+PP3S+Sg
+s'	il+Pron+Person+Refl+PP3S+Sg
+s'	ils+Pron+Person+Refl+PP3P+Pl
+
+appelait	appeler+Ver+Ind+Imp+PP3S
+
+le	le+DefArt+Mas+Sg
+le	il+Pron+Person+DirObj+PP3S+Sg
+
+don	don+Nom+Mas+Sg
+
+quichotte	+?
+
+de	de+Prep
+
+cette	ce+DemDet+Fem+Sg
+
+autre	autre+Adj+Mas+Sg
+
+rossinante	+?
+
+)	)
+
+,	,
+
+qu'	qu'+Conjun
+qu'	que+Pron+Intero
+
+il	il+Pron+Person+Subj+PP3S+Sg
+
+ne	ne+Neg
+
+se	elle+Pron+Person+Refl+PP3S+Sg
+se	elles+Pron+Person+Refl+PP3P+Pl
+se	on+Pron+Person+Refl+PP3S+Sg
+se	il+Pron+Person+Refl+PP3S+Sg
+se	ils+Pron+Person+Refl+PP3P+Pl
+
+cachait	cacher+Ver+Ind+Imp+PP3S
+
+pas	pas+Nom+Mas+Sg
+pas	pas+Adv
+pas	pas+Neg+Adv
+
+le	le+DefArt+Mas+Sg
+le	il+Pron+Person+DirObj+PP3S+Sg
+
+côté	côté+Nom+Mas+Sg
+
+ridicule	ridicule+Adj+Mas+Sg
+
+que	que+Pron+Intero
+que	que+Conjun
+
+lui	elle+Pron+Person+IndirObj+PP3S+Sg
+lui	il+Pron+Person+IndirObj+PP3S+Sg
+lui	il+Pron+Person+Disj+PP3S+Sg
+
+donnait	donner+Ver+Ind+Imp+PP3S
+
+,	,
+
+si	si+Nom+Mas+Sg
+si	si+Adv
+si	si+Conjun
+
+bon	bon+Adj+Mas+Sg
+
+cavalier	cavalier+Nom+Mas+Sg
+cavalier	cavalier+Adj+Mas+Sg
+
+qu'	qu'+Conjun
+qu'	que+Pron+Intero
+
+il	il+Pron+Person+Subj+PP3S+Sg
+
+fût	fût+Nom+Mas+Sg
+fût	être+Sub+Imp+PP3S
+
+,	,
+
+une	une+Nom+Fem+Sg
+une	un+Num+Nom+Fem
+une	un+Num+Adj+Fem
+une	un+IndefArt+Fem+Sg
+
+pareille	+?
+
+monture	monture+Nom+Fem+Sg
+
+;	;
+
+aussi	aussi+Adv
+aussi	aussi+Conjun
+
+avait-il	+?
+
+fort	fort+Adj+Mas+Sg
+fort	fort+Adv
+
+soupiré	soupirer+Ver+PPas
+
+en	en+Prep
+en	elle+Pron+Person+DirObj+PP3S+Sg
+en	elles+Pron+Person+DirObj+PP3P+Pl
+en	il+Pron+Person+DirObj+PP3S+Sg
+en	ils+Pron+Person+DirObj+PP3P+Pl
+
+acceptant	+?
+
+le	le+DefArt+Mas+Sg
+le	il+Pron+Person+DirObj+PP3S+Sg
+
+don	don+Nom+Mas+Sg
+
+que	que+Pron+Intero
+que	que+Conjun
+
+lui	elle+Pron+Person+IndirObj+PP3S+Sg
+lui	il+Pron+Person+IndirObj+PP3S+Sg
+lui	il+Pron+Person+Disj+PP3S+Sg
+
+en	en+Prep
+en	elle+Pron+Person+DirObj+PP3S+Sg
+en	elles+Pron+Person+DirObj+PP3P+Pl
+en	il+Pron+Person+DirObj+PP3S+Sg
+en	ils+Pron+Person+DirObj+PP3P+Pl
+
+avait	avoir+Ind+Imp+PP3S
+
+fait	faire+Ver+Ind+Pre+PP3S
+fait	faire+Ver+PPas
+fait	fait+Nom+Mas+Sg
+fait	fait+Adj+Mas+Sg
+
+m	+?
+
+.	.
+
+d'	d'+Prep
+
+artagnan	+?
+
+père	père+Nom+Mas+Sg
+
+.	.
+
+il	il+Pron+Person+Subj+PP3S+Sg
+
+n'	ne+Neg
+
+ignorait	ignorer+Ver+Ind+Imp+PP3S
+
+pas	pas+Nom+Mas+Sg
+pas	pas+Adv
+pas	pas+Neg+Adv
+
+qu'	qu'+Conjun
+qu'	que+Pron+Intero
+
+une	une+Nom+Fem+Sg
+une	un+Num+Nom+Fem
+une	un+Num+Adj+Fem
+une	un+IndefArt+Fem+Sg
+
+pareille	+?
+
+bête	bête+Nom+Fem+Sg
+bête	bête+Adj+Mas+Sg
+
+valait	valoir+Ind+Imp+PP3S
+
+au	au+Prep
+au	à+Prep le+DefArt+Sg
+
+moins	moins+Nom+Mas+Sg
+moins	moins+Prep
+moins	moins+Adv
+
+vingt	vingt+Nom+Mas+Sg
+vingt	vingt+Num+Nom
+vingt	vingt+Num+Adj
+
+livres	livrer+Ver+Sub+Pre+PP2S
+livres	livrer+Ver+Ind+Pre+PP2S
+livres	livre+Nom+Mas+Pl
+livres	livre+Nom+Fem+Pl
+
+;	;
+
+il	il+Pron+Person+Subj+PP3S+Sg
+
+est	est+Nom+Mas+Sg
+est	est+Adj+Mas+Sg
+est	être+Ind+Pre+PP3S
+
+vrai	vrai+Nom+Mas+Sg
+vrai	vrai+Adj+Mas+Sg
+vrai	vrai+Adv
+
+que	que+Pron+Intero
+que	que+Conjun
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+les	elles+Pron+Person+DirObj+PP3P+Pl
+les	ils+Pron+Person+DirObj+PP3P+Pl
+
+paroles	parole+Nom+Fem+Pl
+
+dont	dont+Pron+Intero+Fem+Pl
+
+le	le+DefArt+Mas+Sg
+le	il+Pron+Person+DirObj+PP3S+Sg
+
+présent	présent+Nom+Mas+Sg
+présent	présent+Adj+Mas+Sg
+
+avait	avoir+Ind+Imp+PP3S
+
+été	été+Nom+Mas+Sg
+été	être+PPas
+
+accompagné	accompagner+Ver+PPas
+
+n'	ne+Neg
+
+avaient	avoir+Ind+Imp+PP3P
+
+pas	pas+Nom+Mas+Sg
+pas	pas+Adv
+pas	pas+Neg+Adv
+
+de	de+Prep
+
+prix	prix+Nom+Mas+Sg
+
+.	.
+
+"	"
+
+mon	mon+Nom+Mas+Sg
+mon	mon+PossDet+PP1S+Mas+Sg
+
+fils	fil+Nom+Mas+Pl
+fils	fils+Nom+Mas+Sg
+
+,	,
+
+avait	avoir+Ind+Imp+PP3S
+
+dit	dire+Ver+Ind+Pre+PP3S
+dit	dire+Ver+Ind+PSim+PP3S
+dit	dire+Ver+PPas
+
+le	le+DefArt+Mas+Sg
+le	il+Pron+Person+DirObj+PP3S+Sg
+
+gentilhomme	gentilhomme+Nom+Mas+Sg
+
+gascon	gascon+Nom+Mas+Sg
+gascon	gascon+Adj+Mas+Sg
+
+-	-
+
+dans	dan+Nom+Mas+Pl
+dans	dans+Prep
+
+ce	ce+DemDet+Mas+Sg
+
+pur	pur+Adj+Mas+Sg
+
+patois	patois+Nom+Mas+Sg
+
+de	de+Prep
+
+béarn	+?
+
+dont	dont+Pron+Intero+Fem+Pl
+
+henri	+?
+
+iv	+?
+
+n'	ne+Neg
+
+avait	avoir+Ind+Imp+PP3S
+
+jamais	jamais+Adv
+jamais	jamais+Neg+Adv
+
+pu	pouvoir+PPas
+
+parvenir	parvenir+Ver+Inf
+
+à	à+Prep
+
+se	elle+Pron+Person+Refl+PP3S+Sg
+se	elles+Pron+Person+Refl+PP3P+Pl
+se	on+Pron+Person+Refl+PP3S+Sg
+se	il+Pron+Person+Refl+PP3S+Sg
+se	ils+Pron+Person+Refl+PP3P+Pl
+
+défaire	défaire+Ver+Inf
+
+-	-
+
+,	,
+
+mon	mon+Nom+Mas+Sg
+mon	mon+PossDet+PP1S+Mas+Sg
+
+fils	fil+Nom+Mas+Pl
+fils	fils+Nom+Mas+Sg
+
+,	,
+
+ce	ce+DemDet+Mas+Sg
+
+cheval	cheval+Nom+Mas+Sg
+
+est	est+Nom+Mas+Sg
+est	est+Adj+Mas+Sg
+est	être+Ind+Pre+PP3S
+
+né	naître+PPas
+
+dans	dan+Nom+Mas+Pl
+dans	dans+Prep
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+la	elle+Pron+Person+DirObj+PP3S+Sg
+
+maison	maison+Nom+Fem+Sg
+
+de	de+Prep
+
+votre	votre+PossDet+PP2P+Mas+Sg
+votre	votre+PossDet+PP2P+Fem+Sg
+
+père	père+Nom+Mas+Sg
+
+,	,
+
+il	il+Pron+Person+Subj+PP3S+Sg
+
+y	il+Pron+Person+IndirObj+PP3S+Sg
+y	ils+Pron+Person+IndirObj+PP3P+Pl
+y	elle+Pron+Person+IndirObj+PP3S+Sg
+y	elles+Pron+Person+IndirObj+PP3P+Pl
+
+a	avoir+Ind+Pre+PP3S
+
+tantôt	tantôt+Adv
+
+treize	treize+Num+Nom
+treize	treize+Num+Adj
+
+ans	an+Nom+Mas+Pl
+
+,	,
+
+et	et+Conjun
+
+y	il+Pron+Person+IndirObj+PP3S+Sg
+y	ils+Pron+Person+IndirObj+PP3P+Pl
+y	elle+Pron+Person+IndirObj+PP3S+Sg
+y	elles+Pron+Person+IndirObj+PP3P+Pl
+
+est	est+Nom+Mas+Sg
+est	est+Adj+Mas+Sg
+est	être+Ind+Pre+PP3S
+
+resté	rester+Ver+PPas
+
+depuis	depuis+Prep
+
+ce	ce+DemDet+Mas+Sg
+
+temps-là	+?
+
+,	,
+
+ce	ce+DemDet+Mas+Sg
+
+qui	qui+Pron+Intero
+
+doit	devoir+Ind+Pre+PP3S
+
+vous	vous+Pron+Person+IndirObj+PP2P+Pl
+vous	vous+Pron+Person+DirObj+PP2P+Pl
+vous	vous+Pron+Person+Refl+PP2P+Pl
+vous	vous+Pron+Person+Disj+PP2P+Pl
+vous	vous+Pron+Person+Subj+PP2P+Pl
+
+porter	porter+Ver+Inf
+porter	porter+Nom+Mas+Sg
+
+à	à+Prep
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+l'	il+Pron+Person+DirObj+PP3S+Sg
+
+aimer	aimer+Ver+Inf
+
+.	.
+
+ne	ne+Neg
+
+le	le+DefArt+Mas+Sg
+le	il+Pron+Person+DirObj+PP3S+Sg
+
+vendez	vendre+Ver+Impr+Pre+PP2P
+vendez	vendre+Ver+Ind+Pre+PP2P
+
+jamais	jamais+Adv
+jamais	jamais+Neg+Adv
+
+,	,
+
+laissez-le	+?
+
+mourir	mourir+Inf
+
+tranquillement	tranquille+Adv+Mas+Sg
+
+et	et+Conjun
+
+honorablement	honorable+Adv+Mas+Sg
+
+de	de+Prep
+
+vieillesse	vieillesse+Nom+Fem+Sg
+
+,	,
+
+et	et+Conjun
+
+si	si+Nom+Mas+Sg
+si	si+Adv
+si	si+Conjun
+
+vous	vous+Pron+Person+IndirObj+PP2P+Pl
+vous	vous+Pron+Person+DirObj+PP2P+Pl
+vous	vous+Pron+Person+Refl+PP2P+Pl
+vous	vous+Pron+Person+Disj+PP2P+Pl
+vous	vous+Pron+Person+Subj+PP2P+Pl
+
+faites	faire+Ver+Impr+Pre+PP2P
+faites	faire+Ver+Ind+Pre+PP2P
+faites	fait+Adj+Mas+Pl
+
+campagne	campagne+Nom+Fem+Sg
+
+avec	avec+Prep
+
+lui	elle+Pron+Person+IndirObj+PP3S+Sg
+lui	il+Pron+Person+IndirObj+PP3S+Sg
+lui	il+Pron+Person+Disj+PP3S+Sg
+
+,	,
+
+ménagez-le	+?
+
+comme	comme+Conjun
+
+vous	vous+Pron+Person+IndirObj+PP2P+Pl
+vous	vous+Pron+Person+DirObj+PP2P+Pl
+vous	vous+Pron+Person+Refl+PP2P+Pl
+vous	vous+Pron+Person+Disj+PP2P+Pl
+vous	vous+Pron+Person+Subj+PP2P+Pl
+
+ménageriez	ménager+Ver+Con+Pre+PP2P
+
+un	un+Nom+Mas+Sg
+un	un+Num+Nom+Mas
+un	un+Num+Adj+Mas
+un	un+IndefArt+Mas+Sg
+
+vieux	vieux+Nom+Mas+Sg
+vieux	vieux+Adj+Mas+Sg
+
+serviteur	serviteur+Nom+Mas+Sg
+
+.	.
+
+a	avoir+Ind+Pre+PP3S
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+la	elle+Pron+Person+DirObj+PP3S+Sg
+
+cour	cour+Nom+Fem+Sg
+
+,	,
+
+continua	continuer+Ver+Ind+PSim+PP3S
+
+m	+?
+
+.	.
+
+d'	d'+Prep
+
+artagnan	+?
+
+père	père+Nom+Mas+Sg
+
+,	,
+
+si	si+Nom+Mas+Sg
+si	si+Adv
+si	si+Conjun
+
+toutefois	toutefois+Adv
+
+vous	vous+Pron+Person+IndirObj+PP2P+Pl
+vous	vous+Pron+Person+DirObj+PP2P+Pl
+vous	vous+Pron+Person+Refl+PP2P+Pl
+vous	vous+Pron+Person+Disj+PP2P+Pl
+vous	vous+Pron+Person+Subj+PP2P+Pl
+
+avez	avoir+Ind+Pre+PP2P
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+l'	il+Pron+Person+DirObj+PP3S+Sg
+
+honneur	honneur+Nom+Mas+Sg
+
+d'	d'+Prep
+
+y	il+Pron+Person+IndirObj+PP3S+Sg
+y	ils+Pron+Person+IndirObj+PP3P+Pl
+y	elle+Pron+Person+IndirObj+PP3S+Sg
+y	elles+Pron+Person+IndirObj+PP3P+Pl
+
+aller	aller+Nom+Mas+Sg
+aller	aller+Inf
+
+,	,
+
+honneur	honneur+Nom+Mas+Sg
+
+auquel	+?
+
+,	,
+
+du	du+PartArt+Mas+Sg
+
+reste	rester+Ver+Impr+Pre+PP2S
+reste	rester+Ver+Sub+Pre+PP3S
+reste	rester+Ver+Sub+Pre+PP1S
+reste	rester+Ver+Ind+Pre+PP3S
+reste	rester+Ver+Ind+Pre+PP1S
+reste	reste+Nom+Mas+Sg
+
+,	,
+
+votre	votre+PossDet+PP2P+Mas+Sg
+votre	votre+PossDet+PP2P+Fem+Sg
+
+vieille	+?
+
+noblesse	noblesse+Nom+Fem+Sg
+
+vous	vous+Pron+Person+IndirObj+PP2P+Pl
+vous	vous+Pron+Person+DirObj+PP2P+Pl
+vous	vous+Pron+Person+Refl+PP2P+Pl
+vous	vous+Pron+Person+Disj+PP2P+Pl
+vous	vous+Pron+Person+Subj+PP2P+Pl
+
+donne	donner+Ver+Impr+Pre+PP2S
+donne	donner+Ver+Sub+Pre+PP3S
+donne	donner+Ver+Sub+Pre+PP1S
+donne	donner+Ver+Ind+Pre+PP3S
+donne	donner+Ver+Ind+Pre+PP1S
+donne	donne+Nom+Fem+Sg
+
+des	du+PartArt+Mas+Pl
+des	du+PartArt+Fem+Pl
+des	un+IndefArt+Mas+Pl
+des	un+IndefArt+Fem+Pl
+
+droits	droit+Nom+Mas+Pl
+droits	droit+Adj+Mas+Pl
+
+,	,
+
+soutenez	soutenir+Ver+Impr+Pre+PP2P
+soutenez	soutenir+Ver+Ind+Pre+PP2P
+
+dignement	digne+Adv+Mas+Sg
+
+votre	votre+PossDet+PP2P+Mas+Sg
+votre	votre+PossDet+PP2P+Fem+Sg
+
+nom	nom+Nom+Mas+Sg
+
+de	de+Prep
+
+gentilhomme	gentilhomme+Nom+Mas+Sg
+
+,	,
+
+qui	qui+Pron+Intero
+
+a	avoir+Ind+Pre+PP3S
+
+été	été+Nom+Mas+Sg
+été	être+PPas
+
+porté	porter+Ver+PPas
+
+dignement	digne+Adv+Mas+Sg
+
+par	par+Nom+Mas+Sg
+par	par+Prep
+
+vos	votre+PossDet+PP2P+Mas+Pl
+vos	votre+PossDet+PP2P+Fem+Pl
+
+ancêtres	ancêtre+Nom+Mas+Pl
+ancêtres	ancêtre+Nom+Fem+Pl
+
+depuis	depuis+Prep
+
+plus	plus+Nom+Mas+Sg
+plus	plus+Adv
+
+de	de+Prep
+
+cinq	cinq+Num+Nom
+cinq	cinq+Num+Adj
+
+cents	cent+Nom+Mas+Pl
+
+ans	an+Nom+Mas+Pl
+
+.	.
+
+pour	pour+Prep
+
+vous	vous+Pron+Person+IndirObj+PP2P+Pl
+vous	vous+Pron+Person+DirObj+PP2P+Pl
+vous	vous+Pron+Person+Refl+PP2P+Pl
+vous	vous+Pron+Person+Disj+PP2P+Pl
+vous	vous+Pron+Person+Subj+PP2P+Pl
+
+et	et+Conjun
+
+pour	pour+Prep
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+les	elles+Pron+Person+DirObj+PP3P+Pl
+les	ils+Pron+Person+DirObj+PP3P+Pl
+
+vôtres	vôtre+Adj+Mas+Pl
+vôtres	vôtre+Pron+Poss+PP2P+Mas+Pl
+vôtres	vôtre+Pron+Poss+PP2P+Fem+Pl
+
+-	-
+
+par	par+Nom+Mas+Sg
+par	par+Prep
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+les	elles+Pron+Person+DirObj+PP3P+Pl
+les	ils+Pron+Person+DirObj+PP3P+Pl
+
+vôtres	vôtre+Adj+Mas+Pl
+vôtres	vôtre+Pron+Poss+PP2P+Mas+Pl
+vôtres	vôtre+Pron+Poss+PP2P+Fem+Pl
+
+,	,
+
+j'	je+Pron+Person+Subj+PP1S+Sg
+
+entends	entendre+Ver+Impr+Pre+PP2S
+entends	entendre+Ver+Ind+Pre+PP2S
+entends	entendre+Ver+Ind+Pre+PP1S
+
+vos	votre+PossDet+PP2P+Mas+Pl
+vos	votre+PossDet+PP2P+Fem+Pl
+
+parents	parent+Nom+Mas+Pl
+
+et	et+Conjun
+
+vos	votre+PossDet+PP2P+Mas+Pl
+vos	votre+PossDet+PP2P+Fem+Pl
+
+amis	ami+Nom+Mas+Pl
+
+-	-
+
+,	,
+
+ne	ne+Neg
+
+supportez	supporter+Ver+Impr+Pre+PP2P
+supportez	supporter+Ver+Ind+Pre+PP2P
+
+jamais	jamais+Adv
+jamais	jamais+Neg+Adv
+
+rien	rien+Neg+Pron
+
+que	que+Pron+Intero
+que	que+Conjun
+
+de	de+Prep
+
+m	+?
+
+.	.
+
+le	le+DefArt+Mas+Sg
+le	il+Pron+Person+DirObj+PP3S+Sg
+
+cardinal	cardinal+Nom+Mas+Sg
+cardinal	cardinal+Adj+Mas+Sg
+
+et	et+Conjun
+
+du	du+PartArt+Mas+Sg
+
+roi	roi+Nom+Mas+Sg
+
+.	.
+
+c'	ce+DemDet+Mas+Sg
+
+est	est+Nom+Mas+Sg
+est	est+Adj+Mas+Sg
+est	être+Ind+Pre+PP3S
+
+par	par+Nom+Mas+Sg
+par	par+Prep
+
+son	son+Nom+Mas+Sg
+son	son+PossDet+PP3S+Mas+Sg
+
+courage	courage+Nom+Mas+Sg
+
+,	,
+
+entendez-vous	+?
+
+bien	bien+Nom+Mas+Sg
+bien	bien+Adv
+
+,	,
+
+par	par+Nom+Mas+Sg
+par	par+Prep
+
+son	son+Nom+Mas+Sg
+son	son+PossDet+PP3S+Mas+Sg
+
+courage	courage+Nom+Mas+Sg
+
+seul	seul+Adj+Mas+Sg
+
+,	,
+
+qu'	qu'+Conjun
+qu'	que+Pron+Intero
+
+un	un+Nom+Mas+Sg
+un	un+Num+Nom+Mas
+un	un+Num+Adj+Mas
+un	un+IndefArt+Mas+Sg
+
+gentilhomme	gentilhomme+Nom+Mas+Sg
+
+fait	faire+Ver+Ind+Pre+PP3S
+fait	faire+Ver+PPas
+fait	fait+Nom+Mas+Sg
+fait	fait+Adj+Mas+Sg
+
+son	son+Nom+Mas+Sg
+son	son+PossDet+PP3S+Mas+Sg
+
+chemin	chemin+Nom+Mas+Sg
+
+aujourd'	+?
+
+hui	hui+Adv
+
+.	.
+
+quiconque	+?
+
+tremble	trembler+Ver+Impr+Pre+PP2S
+tremble	trembler+Ver+Sub+Pre+PP3S
+tremble	trembler+Ver+Sub+Pre+PP1S
+tremble	trembler+Ver+Ind+Pre+PP3S
+tremble	trembler+Ver+Ind+Pre+PP1S
+tremble	tremble+Nom+Mas+Sg
+
+une	une+Nom+Fem+Sg
+une	un+Num+Nom+Fem
+une	un+Num+Adj+Fem
+une	un+IndefArt+Fem+Sg
+
+seconde	seconder+Ver+Impr+Pre+PP2S
+seconde	seconder+Ver+Sub+Pre+PP3S
+seconde	seconder+Ver+Sub+Pre+PP1S
+seconde	seconder+Ver+Ind+Pre+PP3S
+seconde	seconder+Ver+Ind+Pre+PP1S
+seconde	second+Adj+Fem+Sg
+seconde	seconde+Nom+Fem+Sg
+
+laisse	laisser+Ver+Impr+Pre+PP2S
+laisse	laisser+Ver+Sub+Pre+PP3S
+laisse	laisser+Ver+Sub+Pre+PP1S
+laisse	laisser+Ver+Ind+Pre+PP3S
+laisse	laisser+Ver+Ind+Pre+PP1S
+laisse	laisse+Nom+Fem+Sg
+
+peut-être	peut-être+Adv
+
+échapper	échapper+Ver+Inf
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+l'	il+Pron+Person+DirObj+PP3S+Sg
+
+appât	appât+Nom+Mas+Sg
+
+que	que+Pron+Intero
+que	que+Conjun
+
+,	,
+
+pendant	pendre+Ver+PPre
+pendant	pendant+Nom+Mas+Sg
+pendant	pendant+Prep
+pendant	pendant+Adj+Mas+Sg
+
+cette	ce+DemDet+Fem+Sg
+
+seconde	seconder+Ver+Impr+Pre+PP2S
+seconde	seconder+Ver+Sub+Pre+PP3S
+seconde	seconder+Ver+Sub+Pre+PP1S
+seconde	seconder+Ver+Ind+Pre+PP3S
+seconde	seconder+Ver+Ind+Pre+PP1S
+seconde	second+Adj+Fem+Sg
+seconde	seconde+Nom+Fem+Sg
+
+justement	juste+Adv+Mas+Sg
+
+,	,
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+la	elle+Pron+Person+DirObj+PP3S+Sg
+
+fortune	fortune+Nom+Fem+Sg
+
+lui	elle+Pron+Person+IndirObj+PP3S+Sg
+lui	il+Pron+Person+IndirObj+PP3S+Sg
+lui	il+Pron+Person+Disj+PP3S+Sg
+
+tendait	tendre+Ver+Ind+Imp+PP3S
+
+.	.
+
+vous	vous+Pron+Person+IndirObj+PP2P+Pl
+vous	vous+Pron+Person+DirObj+PP2P+Pl
+vous	vous+Pron+Person+Refl+PP2P+Pl
+vous	vous+Pron+Person+Disj+PP2P+Pl
+vous	vous+Pron+Person+Subj+PP2P+Pl
+
+êtes	être+Ind+Pre+PP2P
+
+jeune	jeuner+Ver+Impr+Pre+PP2S
+jeune	jeuner+Ver+Sub+Pre+PP3S
+jeune	jeuner+Ver+Sub+Pre+PP1S
+jeune	jeuner+Ver+Ind+Pre+PP3S
+jeune	jeuner+Ver+Ind+Pre+PP1S
+jeune	jeune+Nom+Mas+Sg
+jeune	jeune+Nom+Fem+Sg
+jeune	jeune+Adj+Mas+Sg
+
+,	,
+
+vous	vous+Pron+Person+IndirObj+PP2P+Pl
+vous	vous+Pron+Person+DirObj+PP2P+Pl
+vous	vous+Pron+Person+Refl+PP2P+Pl
+vous	vous+Pron+Person+Disj+PP2P+Pl
+vous	vous+Pron+Person+Subj+PP2P+Pl
+
+devez	devoir+Ind+Pre+PP2P
+devez	devoir+Imp+Pre+PP2P
+
+être	être+Nom+Mas+Sg
+être	être+Inf
+
+brave	braver+Ver+Impr+Pre+PP2S
+brave	braver+Ver+Sub+Pre+PP3S
+brave	braver+Ver+Sub+Pre+PP1S
+brave	braver+Ver+Ind+Pre+PP3S
+brave	braver+Ver+Ind+Pre+PP1S
+brave	brave+Nom+Mas+Sg
+brave	brave+Adj+Mas+Sg
+
+par	par+Nom+Mas+Sg
+par	par+Prep
+
+deux	deux+Nom+Mas+Sg
+deux	deux+Num+Nom
+deux	deux+Num+Adj
+
+raisons	raison+Nom+Fem+Pl
+
+:	:
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+la	elle+Pron+Person+DirObj+PP3S+Sg
+
+première	première+Nom+Fem+Sg
+
+,	,
+
+c'	ce+DemDet+Mas+Sg
+
+est	est+Nom+Mas+Sg
+est	est+Adj+Mas+Sg
+est	être+Ind+Pre+PP3S
+
+que	que+Pron+Intero
+que	que+Conjun
+
+vous	vous+Pron+Person+IndirObj+PP2P+Pl
+vous	vous+Pron+Person+DirObj+PP2P+Pl
+vous	vous+Pron+Person+Refl+PP2P+Pl
+vous	vous+Pron+Person+Disj+PP2P+Pl
+vous	vous+Pron+Person+Subj+PP2P+Pl
+
+êtes	être+Ind+Pre+PP2P
+
+gascon	gascon+Nom+Mas+Sg
+gascon	gascon+Adj+Mas+Sg
+
+,	,
+
+et	et+Conjun
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+la	elle+Pron+Person+DirObj+PP3S+Sg
+
+seconde	seconder+Ver+Impr+Pre+PP2S
+seconde	seconder+Ver+Sub+Pre+PP3S
+seconde	seconder+Ver+Sub+Pre+PP1S
+seconde	seconder+Ver+Ind+Pre+PP3S
+seconde	seconder+Ver+Ind+Pre+PP1S
+seconde	second+Adj+Fem+Sg
+seconde	seconde+Nom+Fem+Sg
+
+,	,
+
+c'	ce+DemDet+Mas+Sg
+
+est	est+Nom+Mas+Sg
+est	est+Adj+Mas+Sg
+est	être+Ind+Pre+PP3S
+
+que	que+Pron+Intero
+que	que+Conjun
+
+vous	vous+Pron+Person+IndirObj+PP2P+Pl
+vous	vous+Pron+Person+DirObj+PP2P+Pl
+vous	vous+Pron+Person+Refl+PP2P+Pl
+vous	vous+Pron+Person+Disj+PP2P+Pl
+vous	vous+Pron+Person+Subj+PP2P+Pl
+
+êtes	être+Ind+Pre+PP2P
+
+mon	mon+Nom+Mas+Sg
+mon	mon+PossDet+PP1S+Mas+Sg
+
+fils	fil+Nom+Mas+Pl
+fils	fils+Nom+Mas+Sg
+
+.	.
+
+ne	ne+Neg
+
+craignez	craindre+Ver+Impr+Pre+PP2P
+craignez	craindre+Ver+Ind+Pre+PP2P
+
+pas	pas+Nom+Mas+Sg
+pas	pas+Adv
+pas	pas+Neg+Adv
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+les	elles+Pron+Person+DirObj+PP3P+Pl
+les	ils+Pron+Person+DirObj+PP3P+Pl
+
+occasions	occasion+Nom+Fem+Pl
+
+et	et+Conjun
+
+cherchez	chercher+Ver+Impr+Pre+PP2P
+cherchez	chercher+Ver+Ind+Pre+PP2P
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+les	elles+Pron+Person+DirObj+PP3P+Pl
+les	ils+Pron+Person+DirObj+PP3P+Pl
+
+aventures	aventurer+Ver+Sub+Pre+PP2S
+aventures	aventurer+Ver+Ind+Pre+PP2S
+aventures	aventure+Nom+Fem+Pl
+
+.	.
+
+je	je+Pron+Person+Subj+PP1S+Sg
+
+vous	vous+Pron+Person+IndirObj+PP2P+Pl
+vous	vous+Pron+Person+DirObj+PP2P+Pl
+vous	vous+Pron+Person+Refl+PP2P+Pl
+vous	vous+Pron+Person+Disj+PP2P+Pl
+vous	vous+Pron+Person+Subj+PP2P+Pl
+
+ai	avoir+Ind+Pre+PP1S
+
+fait	faire+Ver+Ind+Pre+PP3S
+fait	faire+Ver+PPas
+fait	fait+Nom+Mas+Sg
+fait	fait+Adj+Mas+Sg
+
+apprendre	apprendre+Ver+Inf
+
+à	à+Prep
+
+manier	manier+Ver+Inf
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+l'	il+Pron+Person+DirObj+PP3S+Sg
+
+épée	épée+Nom+Fem+Sg
+
+;	;
+
+vous	vous+Pron+Person+IndirObj+PP2P+Pl
+vous	vous+Pron+Person+DirObj+PP2P+Pl
+vous	vous+Pron+Person+Refl+PP2P+Pl
+vous	vous+Pron+Person+Disj+PP2P+Pl
+vous	vous+Pron+Person+Subj+PP2P+Pl
+
+avez	avoir+Ind+Pre+PP2P
+
+un	un+Nom+Mas+Sg
+un	un+Num+Nom+Mas
+un	un+Num+Adj+Mas
+un	un+IndefArt+Mas+Sg
+
+jarret	jarret+Nom+Mas+Sg
+
+de	de+Prep
+
+fer	fer+Nom+Mas+Sg
+
+,	,
+
+un	un+Nom+Mas+Sg
+un	un+Num+Nom+Mas
+un	un+Num+Adj+Mas
+un	un+IndefArt+Mas+Sg
+
+poignet	poignet+Nom+Mas+Sg
+
+d'	d'+Prep
+
+acier	acier+Nom+Mas+Sg
+
+;	;
+
+battez-vous	+?
+
+à	à+Prep
+
+tout	tout+Adj+Mas+Sg
+tout	tout+Adv
+
+propos	propos+Nom+Mas+Sg
+
+;	;
+
+battez-vous	+?
+
+d'	d'+Prep
+
+autant	autant+Adv
+
+plus	plus+Nom+Mas+Sg
+plus	plus+Adv
+
+que	que+Pron+Intero
+que	que+Conjun
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+les	elles+Pron+Person+DirObj+PP3P+Pl
+les	ils+Pron+Person+DirObj+PP3P+Pl
+
+duels	duel+Nom+Mas+Pl
+duels	duel+Adj+Mas+Pl
+
+sont	être+Ind+Pre+PP3P
+
+défendus	+?
+
+,	,
+
+et	et+Conjun
+
+que	que+Pron+Intero
+que	que+Conjun
+
+,	,
+
+par	par+Nom+Mas+Sg
+par	par+Prep
+
+conséquent	conséquent+Nom+Mas+Sg
+conséquent	conséquent+Adj+Mas+Sg
+
+,	,
+
+il	il+Pron+Person+Subj+PP3S+Sg
+
+y	il+Pron+Person+IndirObj+PP3S+Sg
+y	ils+Pron+Person+IndirObj+PP3P+Pl
+y	elle+Pron+Person+IndirObj+PP3S+Sg
+y	elles+Pron+Person+IndirObj+PP3P+Pl
+
+a	avoir+Ind+Pre+PP3S
+
+deux	deux+Nom+Mas+Sg
+deux	deux+Num+Nom
+deux	deux+Num+Adj
+
+fois	foi+Nom+Fem+Pl
+fois	fois+Nom+Fem+Sg
+
+du	du+PartArt+Mas+Sg
+
+courage	courage+Nom+Mas+Sg
+
+à	à+Prep
+
+se	elle+Pron+Person+Refl+PP3S+Sg
+se	elles+Pron+Person+Refl+PP3P+Pl
+se	on+Pron+Person+Refl+PP3S+Sg
+se	il+Pron+Person+Refl+PP3S+Sg
+se	ils+Pron+Person+Refl+PP3P+Pl
+
+battre	battre+Ver+Inf
+
+.	.
+
+je	je+Pron+Person+Subj+PP1S+Sg
+
+n'	ne+Neg
+
+ai	avoir+Ind+Pre+PP1S
+
+,	,
+
+mon	mon+Nom+Mas+Sg
+mon	mon+PossDet+PP1S+Mas+Sg
+
+fils	fil+Nom+Mas+Pl
+fils	fils+Nom+Mas+Sg
+
+,	,
+
+à	à+Prep
+
+vous	vous+Pron+Person+IndirObj+PP2P+Pl
+vous	vous+Pron+Person+DirObj+PP2P+Pl
+vous	vous+Pron+Person+Refl+PP2P+Pl
+vous	vous+Pron+Person+Disj+PP2P+Pl
+vous	vous+Pron+Person+Subj+PP2P+Pl
+
+donner	donner+Ver+Inf
+
+que	que+Pron+Intero
+que	que+Conjun
+
+quinze	quinze+Num+Nom
+quinze	quinze+Num+Adj
+
+écus	écu+Nom+Mas+Pl
+
+,	,
+
+mon	mon+Nom+Mas+Sg
+mon	mon+PossDet+PP1S+Mas+Sg
+
+cheval	cheval+Nom+Mas+Sg
+
+et	et+Conjun
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+les	elles+Pron+Person+DirObj+PP3P+Pl
+les	ils+Pron+Person+DirObj+PP3P+Pl
+
+conseils	conseil+Nom+Mas+Pl
+
+que	que+Pron+Intero
+que	que+Conjun
+
+vous	vous+Pron+Person+IndirObj+PP2P+Pl
+vous	vous+Pron+Person+DirObj+PP2P+Pl
+vous	vous+Pron+Person+Refl+PP2P+Pl
+vous	vous+Pron+Person+Disj+PP2P+Pl
+vous	vous+Pron+Person+Subj+PP2P+Pl
+
+venez	venir+Ver+Impr+Pre+PP2P
+venez	venir+Ver+Ind+Pre+PP2P
+
+d'	d'+Prep
+
+entendre	entendre+Ver+Inf
+
+.	.
+
+votre	votre+PossDet+PP2P+Mas+Sg
+votre	votre+PossDet+PP2P+Fem+Sg
+
+mère	mère+Nom+Fem+Sg
+
+y	il+Pron+Person+IndirObj+PP3S+Sg
+y	ils+Pron+Person+IndirObj+PP3P+Pl
+y	elle+Pron+Person+IndirObj+PP3S+Sg
+y	elles+Pron+Person+IndirObj+PP3P+Pl
+
+ajoutera	ajouter+Ver+Ind+Fut+PP3S
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+la	elle+Pron+Person+DirObj+PP3S+Sg
+
+recette	recette+Nom+Fem+Sg
+
+d'	d'+Prep
+
+un	un+Nom+Mas+Sg
+un	un+Num+Nom+Mas
+un	un+Num+Adj+Mas
+un	un+IndefArt+Mas+Sg
+
+certain	certain+Nom+Mas+Sg
+certain	certain+Adj+Mas+Sg
+
+baume	baume+Nom+Mas+Sg
+
+qu'	qu'+Conjun
+qu'	que+Pron+Intero
+
+elle	elle+Pron+Person+Disj+PP3S+Sg
+elle	elle+Pron+Person+Subj+PP3S+Sg
+
+tient	+?
+
+d'	d'+Prep
+
+une	une+Nom+Fem+Sg
+une	un+Num+Nom+Fem
+une	un+Num+Adj+Fem
+une	un+IndefArt+Fem+Sg
+
+bohémienne	bohémienne+Nom+Fem+Sg
+
+,	,
+
+et	et+Conjun
+
+qui	qui+Pron+Intero
+
+a	avoir+Ind+Pre+PP3S
+
+une	une+Nom+Fem+Sg
+une	un+Num+Nom+Fem
+une	un+Num+Adj+Fem
+une	un+IndefArt+Fem+Sg
+
+vertu	vertu+Nom+Fem+Sg
+
+miraculeuse	+?
+
+pour	pour+Prep
+
+guérir	guérir+Ver+Inf
+
+toute	tout+Adj+Fem+Sg
+
+blessure	blessure+Nom+Fem+Sg
+
+qui	qui+Pron+Intero
+
+n'	ne+Neg
+
+atteint	atteindre+Ver+Ind+Pre+PP3S
+atteint	atteindre+Ver+PPas
+
+pas	pas+Nom+Mas+Sg
+pas	pas+Adv
+pas	pas+Neg+Adv
+
+le	le+DefArt+Mas+Sg
+le	il+Pron+Person+DirObj+PP3S+Sg
+
+coeur	coeur+Nom+Mas+Sg
+
+.	.
+
+faites	faire+Ver+Impr+Pre+PP2P
+faites	faire+Ver+Ind+Pre+PP2P
+faites	fait+Adj+Mas+Pl
+
+votre	votre+PossDet+PP2P+Mas+Sg
+votre	votre+PossDet+PP2P+Fem+Sg
+
+profit	profit+Nom+Mas+Sg
+
+du	du+PartArt+Mas+Sg
+
+tout	tout+Adj+Mas+Sg
+tout	tout+Adv
+
+,	,
+
+et	et+Conjun
+
+vivez	vivre+Ver+Impr+Pre+PP2P
+vivez	vivre+Ver+Ind+Pre+PP2P
+
+heureusement	+?
+
+et	et+Conjun
+
+longtemps	longtemps+Adv
+
+.	.
+
+-	-
+
+je	je+Pron+Person+Subj+PP1S+Sg
+
+n'	ne+Neg
+
+ai	avoir+Ind+Pre+PP1S
+
+plus	plus+Nom+Mas+Sg
+plus	plus+Adv
+
+qu'	qu'+Conjun
+qu'	que+Pron+Intero
+
+un	un+Nom+Mas+Sg
+un	un+Num+Nom+Mas
+un	un+Num+Adj+Mas
+un	un+IndefArt+Mas+Sg
+
+mot	mot+Nom+Mas+Sg
+
+à	à+Prep
+
+ajouter	ajouter+Ver+Inf
+
+,	,
+
+et	et+Conjun
+
+c'	ce+DemDet+Mas+Sg
+
+est	est+Nom+Mas+Sg
+est	est+Adj+Mas+Sg
+est	être+Ind+Pre+PP3S
+
+un	un+Nom+Mas+Sg
+un	un+Num+Nom+Mas
+un	un+Num+Adj+Mas
+un	un+IndefArt+Mas+Sg
+
+exemple	exemple+Nom+Mas+Sg
+
+que	que+Pron+Intero
+que	que+Conjun
+
+je	je+Pron+Person+Subj+PP1S+Sg
+
+vous	vous+Pron+Person+IndirObj+PP2P+Pl
+vous	vous+Pron+Person+DirObj+PP2P+Pl
+vous	vous+Pron+Person+Refl+PP2P+Pl
+vous	vous+Pron+Person+Disj+PP2P+Pl
+vous	vous+Pron+Person+Subj+PP2P+Pl
+
+propose	proposer+Ver+Impr+Pre+PP2S
+propose	proposer+Ver+Sub+Pre+PP3S
+propose	proposer+Ver+Sub+Pre+PP1S
+propose	proposer+Ver+Ind+Pre+PP3S
+propose	proposer+Ver+Ind+Pre+PP1S
+
+,	,
+
+non	non+Adv
+non	non+Conjun
+
+pas	pas+Nom+Mas+Sg
+pas	pas+Adv
+pas	pas+Neg+Adv
+
+le	le+DefArt+Mas+Sg
+le	il+Pron+Person+DirObj+PP3S+Sg
+
+mien	mien+Pron+Poss+PP1S+Mas+Sg
+
+,	,
+
+car	car+Nom+Mas+Sg
+car	car+Conjun
+
+je	je+Pron+Person+Subj+PP1S+Sg
+
+n'	ne+Neg
+
+ai	avoir+Ind+Pre+PP1S
+
+,	,
+
+moi	moi+Nom+Mas+Sg
+moi	je+Pron+Person+Disj+PP1S+Sg
+
+,	,
+
+jamais	jamais+Adv
+jamais	jamais+Neg+Adv
+
+paru	paraître+Ver+PPas
+
+à	à+Prep
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+la	elle+Pron+Person+DirObj+PP3S+Sg
+
+cour	cour+Nom+Fem+Sg
+
+et	et+Conjun
+
+n'	ne+Neg
+
+ai	avoir+Ind+Pre+PP1S
+
+fait	faire+Ver+Ind+Pre+PP3S
+fait	faire+Ver+PPas
+fait	fait+Nom+Mas+Sg
+fait	fait+Adj+Mas+Sg
+
+que	que+Pron+Intero
+que	que+Conjun
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+les	elles+Pron+Person+DirObj+PP3P+Pl
+les	ils+Pron+Person+DirObj+PP3P+Pl
+
+guerres	guerre+Nom+Fem+Pl
+
+de	de+Prep
+
+religion	religion+Nom+Fem+Sg
+
+en	en+Prep
+en	elle+Pron+Person+DirObj+PP3S+Sg
+en	elles+Pron+Person+DirObj+PP3P+Pl
+en	il+Pron+Person+DirObj+PP3S+Sg
+en	ils+Pron+Person+DirObj+PP3P+Pl
+
+volontaire	volontaire+Nom+Mas+Sg
+volontaire	volontaire+Nom+Fem+Sg
+volontaire	volontaire+Adj+Mas+Sg
+
+;	;
+
+je	je+Pron+Person+Subj+PP1S+Sg
+
+veux	vouloir+Impr+Pre+PP2S
+veux	vouloir+Ind+Pre+PP1S
+veux	vouloir+Ind+Pre+PP2S
+
+parler	parler+Ver+Inf
+
+de	de+Prep
+
+m	+?
+
+.	.
+
+de	de+Prep
+
+tréville	+?
+
+,	,
+
+qui	qui+Pron+Intero
+
+était	être+Ind+Imp+PP3S
+
+mon	mon+Nom+Mas+Sg
+mon	mon+PossDet+PP1S+Mas+Sg
+
+voisin	voisin+Nom+Mas+Sg
+voisin	voisin+Adj+Mas+Sg
+
+autrefois	autrefois+Adv
+
+,	,
+
+et	et+Conjun
+
+qui	qui+Pron+Intero
+
+a	avoir+Ind+Pre+PP3S
+
+eu	avoir+PPas
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+l'	il+Pron+Person+DirObj+PP3S+Sg
+
+honneur	honneur+Nom+Mas+Sg
+
+de	de+Prep
+
+jouer	jouer+Ver+Inf
+
+tout	tout+Adj+Mas+Sg
+tout	tout+Adv
+
+enfant	enfant+Nom+Mas+Sg
+enfant	enfant+Nom+Fem+Sg
+
+avec	avec+Prep
+
+notre	notre+PossDet+PP1P+Mas+Sg
+notre	notre+PossDet+PP1P+Fem+Sg
+
+roi	roi+Nom+Mas+Sg
+
+louis	louis+Nom+Mas+Sg
+
+treizième	treizième+Nom+Mas+Sg
+treizième	treizième+Nom+Fem+Sg
+treizième	treizième+Adj+Mas+Sg
+
+,	,
+
+que	que+Pron+Intero
+que	que+Conjun
+
+dieu	dieu+Nom+Mas+Sg
+
+conserve	conserver+Ver+Impr+Pre+PP2S
+conserve	conserver+Ver+Sub+Pre+PP3S
+conserve	conserver+Ver+Sub+Pre+PP1S
+conserve	conserver+Ver+Ind+Pre+PP3S
+conserve	conserver+Ver+Ind+Pre+PP1S
+conserve	conserve+Nom+Fem+Sg
+
+!	!
+
+quelquefois	quelquefois+Adv
+
+leurs	leur+Pron+Poss+PP3P+Mas+Pl
+leurs	leur+Pron+Poss+PP3P+Fem+Pl
+leurs	leur+PossDet+PP3P+Mas+Pl
+leurs	leur+PossDet+PP3P+Fem+Pl
+
+jeux	+?
+
+dégénéraient	+?
+
+en	en+Prep
+en	elle+Pron+Person+DirObj+PP3S+Sg
+en	elles+Pron+Person+DirObj+PP3P+Pl
+en	il+Pron+Person+DirObj+PP3S+Sg
+en	ils+Pron+Person+DirObj+PP3P+Pl
+
+bataille	batailler+Ver+Impr+Pre+PP2S
+bataille	batailler+Ver+Sub+Pre+PP3S
+bataille	batailler+Ver+Sub+Pre+PP1S
+bataille	batailler+Ver+Ind+Pre+PP3S
+bataille	batailler+Ver+Ind+Pre+PP1S
+bataille	bataille+Nom+Fem+Sg
+
+,	,
+
+et	et+Conjun
+
+dans	dan+Nom+Mas+Pl
+dans	dans+Prep
+
+ces	ce+DemDet+Mas+Pl
+ces	ce+DemDet+Fem+Pl
+
+batailles	batailler+Ver+Sub+Pre+PP2S
+batailles	batailler+Ver+Ind+Pre+PP2S
+batailles	bataille+Nom+Fem+Pl
+
+le	le+DefArt+Mas+Sg
+le	il+Pron+Person+DirObj+PP3S+Sg
+
+roi	roi+Nom+Mas+Sg
+
+n'	ne+Neg
+
+était	être+Ind+Imp+PP3S
+
+pas	pas+Nom+Mas+Sg
+pas	pas+Adv
+pas	pas+Neg+Adv
+
+toujours	toujours+Adv
+
+le	le+DefArt+Mas+Sg
+le	il+Pron+Person+DirObj+PP3S+Sg
+
+plus	plus+Nom+Mas+Sg
+plus	plus+Adv
+
+fort	fort+Adj+Mas+Sg
+fort	fort+Adv
+
+.	.
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+les	elles+Pron+Person+DirObj+PP3P+Pl
+les	ils+Pron+Person+DirObj+PP3P+Pl
+
+coups	coup+Nom+Mas+Pl
+
+qu'	qu'+Conjun
+qu'	que+Pron+Intero
+
+il	il+Pron+Person+Subj+PP3S+Sg
+
+en	en+Prep
+en	elle+Pron+Person+DirObj+PP3S+Sg
+en	elles+Pron+Person+DirObj+PP3P+Pl
+en	il+Pron+Person+DirObj+PP3S+Sg
+en	ils+Pron+Person+DirObj+PP3P+Pl
+
+reçut	recevoir+Ver+Ind+PSim+PP3S
+
+lui	elle+Pron+Person+IndirObj+PP3S+Sg
+lui	il+Pron+Person+IndirObj+PP3S+Sg
+lui	il+Pron+Person+Disj+PP3S+Sg
+
+donnèrent	donner+Ver+Ind+PSim+PP3P
+
+beaucoup	beaucoup+Adv
+
+d'	d'+Prep
+
+estime	estimer+Ver+Impr+Pre+PP2S
+estime	estimer+Ver+Sub+Pre+PP3S
+estime	estimer+Ver+Sub+Pre+PP1S
+estime	estimer+Ver+Ind+Pre+PP3S
+estime	estimer+Ver+Ind+Pre+PP1S
+
+et	et+Conjun
+
+d'	d'+Prep
+
+amitié	amitié+Nom+Fem+Sg
+
+pour	pour+Prep
+
+m	+?
+
+.	.
+
+de	de+Prep
+
+tréville	+?
+
+.	.
+
+plus	plus+Nom+Mas+Sg
+plus	plus+Adv
+
+tard	tard+Adv
+
+,	,
+
+m	+?
+
+.	.
+
+de	de+Prep
+
+tréville	+?
+
+se	elle+Pron+Person+Refl+PP3S+Sg
+se	elles+Pron+Person+Refl+PP3P+Pl
+se	on+Pron+Person+Refl+PP3S+Sg
+se	il+Pron+Person+Refl+PP3S+Sg
+se	ils+Pron+Person+Refl+PP3P+Pl
+
+battit	battre+Ver+Ind+PSim+PP3S
+
+contre	contrer+Ver+Impr+Pre+PP2S
+contre	contrer+Ver+Sub+Pre+PP3S
+contre	contrer+Ver+Sub+Pre+PP1S
+contre	contrer+Ver+Ind+Pre+PP3S
+contre	contrer+Ver+Ind+Pre+PP1S
+contre	contre+Prep
+
+d'	d'+Prep
+
+autres	autre+Adj+Mas+Pl
+
+dans	dan+Nom+Mas+Pl
+dans	dans+Prep
+
+son	son+Nom+Mas+Sg
+son	son+PossDet+PP3S+Mas+Sg
+
+premier	premier+Nom+Mas+Sg
+premier	premier+Adj+Mas+Sg
+premier	premier+Adv
+
+voyage	voyager+Ver+Impr+Pre+PP2S
+voyage	voyager+Ver+Sub+Pre+PP3S
+voyage	voyager+Ver+Sub+Pre+PP1S
+voyage	voyager+Ver+Ind+Pre+PP3S
+voyage	voyager+Ver+Ind+Pre+PP1S
+voyage	voyage+Nom+Mas+Sg
+
+à	à+Prep
+
+paris	pari+Nom+Mas+Pl
+
+,	,
+
+cinq	cinq+Num+Nom
+cinq	cinq+Num+Adj
+
+fois	foi+Nom+Fem+Pl
+fois	fois+Nom+Fem+Sg
+
+;	;
+
+depuis	depuis+Prep
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+la	elle+Pron+Person+DirObj+PP3S+Sg
+
+mort	mort+Nom+Mas+Sg
+mort	mort+Nom+Fem+Sg
+mort	mort+Adj+Mas+Sg
+mort	mourir+PPas
+
+du	du+PartArt+Mas+Sg
+
+feu	feu+Nom+Mas+Sg
+feu	feu+Adj+Mas+Sg
+
+roi	roi+Nom+Mas+Sg
+
+jusqu'	jusque+Prep
+
+à	à+Prep
+
+la	la+Nom+Mas+Sg
+la	le+DefArt+Fem+Sg
+la	elle+Pron+Person+DirObj+PP3S+Sg
+
+majorité	majorité+Nom+Fem+Sg
+
+du	du+PartArt+Mas+Sg
+
+jeune	jeuner+Ver+Impr+Pre+PP2S
+jeune	jeuner+Ver+Sub+Pre+PP3S
+jeune	jeuner+Ver+Sub+Pre+PP1S
+jeune	jeuner+Ver+Ind+Pre+PP3S
+jeune	jeuner+Ver+Ind+Pre+PP1S
+jeune	jeune+Nom+Mas+Sg
+jeune	jeune+Nom+Fem+Sg
+jeune	jeune+Adj+Mas+Sg
+
+sans	san+Nom+Mas+Pl
+sans	sans+Prep
+
+compter	compter+Ver+Inf
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+les	elles+Pron+Person+DirObj+PP3P+Pl
+les	ils+Pron+Person+DirObj+PP3P+Pl
+
+guerres	guerre+Nom+Fem+Pl
+
+et	et+Conjun
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+les	elles+Pron+Person+DirObj+PP3P+Pl
+les	ils+Pron+Person+DirObj+PP3P+Pl
+
+sièges	siège+Nom+Mas+Pl
+
+,	,
+
+sept	sept+Num+Nom
+sept	sept+Num+Adj
+
+fois	foi+Nom+Fem+Pl
+fois	fois+Nom+Fem+Sg
+
+;	;
+
+et	et+Conjun
+
+depuis	depuis+Prep
+
+cette	ce+DemDet+Fem+Sg
+
+majorité	majorité+Nom+Fem+Sg
+
+jusqu'	jusque+Prep
+
+aujourd'hui	+?
+
+,	,
+
+cent	cent+Nom+Mas+Sg
+cent	cent+Num+Nom
+cent	cent+Num+Adj
+
+fois	foi+Nom+Fem+Pl
+fois	fois+Nom+Fem+Sg
+
+peut-être	peut-être+Adv
+
+!	!
+
+-	-
+
+aussi	aussi+Adv
+aussi	aussi+Conjun
+
+,	,
+
+malgré	malgré+Prep
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+les	elles+Pron+Person+DirObj+PP3P+Pl
+les	ils+Pron+Person+DirObj+PP3P+Pl
+
+édits	édit+Nom+Mas+Pl
+
+,	,
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+les	elles+Pron+Person+DirObj+PP3P+Pl
+les	ils+Pron+Person+DirObj+PP3P+Pl
+
+ordonnances	ordonnancer+Ver+Sub+Pre+PP2S
+ordonnances	ordonnancer+Ver+Ind+Pre+PP2S
+ordonnances	ordonnance+Nom+Fem+Pl
+
+et	et+Conjun
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+les	elles+Pron+Person+DirObj+PP3P+Pl
+les	ils+Pron+Person+DirObj+PP3P+Pl
+
+arrêts	arrêt+Nom+Mas+Pl
+
+,	,
+
+le	le+DefArt+Mas+Sg
+le	il+Pron+Person+DirObj+PP3S+Sg
+
+voilà	+?
+
+capitaine	capitaine+Nom+Mas+Sg
+
+des	du+PartArt+Mas+Pl
+des	du+PartArt+Fem+Pl
+des	un+IndefArt+Mas+Pl
+des	un+IndefArt+Fem+Pl
+
+mousquetaires	mousquetaire+Nom+Mas+Pl
+
+,	,
+
+c'	ce+DemDet+Mas+Sg
+
+est-à	+?
+
+-	-
+
+dire	dire+Ver+Inf
+dire	dire+Nom+Mas+Sg
+
+chef	chef+Nom+Mas+Sg
+
+d'	d'+Prep
+
+une	une+Nom+Fem+Sg
+une	un+Num+Nom+Fem
+une	un+Num+Adj+Fem
+une	un+IndefArt+Fem+Sg
+
+légion	légion+Nom+Fem+Sg
+
+de	de+Prep
+
+césar	+?
+
+,	,
+
+dont	dont+Pron+Intero+Fem+Pl
+
+le	le+DefArt+Mas+Sg
+le	il+Pron+Person+DirObj+PP3S+Sg
+
+roi	roi+Nom+Mas+Sg
+
+fait	faire+Ver+Ind+Pre+PP3S
+fait	faire+Ver+PPas
+fait	fait+Nom+Mas+Sg
+fait	fait+Adj+Mas+Sg
+
+un	un+Nom+Mas+Sg
+un	un+Num+Nom+Mas
+un	un+Num+Adj+Mas
+un	un+IndefArt+Mas+Sg
+
+très	très+Adv
+
+grand	grand+Adj+Mas+Sg
+
+cas	cas+Nom+Mas+Sg
+
+,	,
+
+et	et+Conjun
+
+que	que+Pron+Intero
+que	que+Conjun
+
+m	+?
+
+.	.
+
+le	le+DefArt+Mas+Sg
+le	il+Pron+Person+DirObj+PP3S+Sg
+
+cardinal	cardinal+Nom+Mas+Sg
+cardinal	cardinal+Adj+Mas+Sg
+
+redoute	redouter+Ver+Impr+Pre+PP2S
+redoute	redouter+Ver+Sub+Pre+PP3S
+redoute	redouter+Ver+Sub+Pre+PP1S
+redoute	redouter+Ver+Ind+Pre+PP3S
+redoute	redouter+Ver+Ind+Pre+PP1S
+
+,	,
+
+lui	elle+Pron+Person+IndirObj+PP3S+Sg
+lui	il+Pron+Person+IndirObj+PP3S+Sg
+lui	il+Pron+Person+Disj+PP3S+Sg
+
+qui	qui+Pron+Intero
+
+ne	ne+Neg
+
+redoute	redouter+Ver+Impr+Pre+PP2S
+redoute	redouter+Ver+Sub+Pre+PP3S
+redoute	redouter+Ver+Sub+Pre+PP1S
+redoute	redouter+Ver+Ind+Pre+PP3S
+redoute	redouter+Ver+Ind+Pre+PP1S
+
+pas	pas+Nom+Mas+Sg
+pas	pas+Adv
+pas	pas+Neg+Adv
+
+grand-chose	+?
+
+,	,
+
+comme	comme+Conjun
+
+chacun	+?
+
+sait	savoir+Ind+Pre+PP3S
+
+.	.
+
+de	de+Prep
+
+plus	plus+Nom+Mas+Sg
+plus	plus+Adv
+
+,	,
+
+m	+?
+
+.	.
+
+de	de+Prep
+
+tréville	+?
+
+gagne	gagner+Ver+Impr+Pre+PP2S
+gagne	gagner+Ver+Sub+Pre+PP3S
+gagne	gagner+Ver+Sub+Pre+PP1S
+gagne	gagner+Ver+Ind+Pre+PP3S
+gagne	gagner+Ver+Ind+Pre+PP1S
+
+dix	dix+Num+Nom
+dix	dix+Num+Adj
+
+mille	mille+Num+Nom
+mille	mille+Num+Adj
+
+écus	écu+Nom+Mas+Pl
+
+par	par+Nom+Mas+Sg
+par	par+Prep
+
+an	an+Nom+Mas+Sg
+
+;	;
+
+c'	ce+DemDet+Mas+Sg
+
+est	est+Nom+Mas+Sg
+est	est+Adj+Mas+Sg
+est	être+Ind+Pre+PP3S
+
+donc	donc+Adv
+donc	donc+Conjun
+
+un	un+Nom+Mas+Sg
+un	un+Num+Nom+Mas
+un	un+Num+Adj+Mas
+un	un+IndefArt+Mas+Sg
+
+fort	fort+Adj+Mas+Sg
+fort	fort+Adv
+
+grand	grand+Adj+Mas+Sg
+
+seigneur	seigneur+Nom+Mas+Sg
+
+.	.
+
+-	-
+
+il	il+Pron+Person+Subj+PP3S+Sg
+
+a	avoir+Ind+Pre+PP3S
+
+commencé	commencer+Ver+PPas
+
+comme	comme+Conjun
+
+vous	vous+Pron+Person+IndirObj+PP2P+Pl
+vous	vous+Pron+Person+DirObj+PP2P+Pl
+vous	vous+Pron+Person+Refl+PP2P+Pl
+vous	vous+Pron+Person+Disj+PP2P+Pl
+vous	vous+Pron+Person+Subj+PP2P+Pl
+
+,	,
+
+allez	aller+Ind+Pre+PP2P
+allez	aller+Imp+Pre+PP2P
+
+le	le+DefArt+Mas+Sg
+le	il+Pron+Person+DirObj+PP3S+Sg
+
+voir	voir+Inf
+
+avec	avec+Prep
+
+cette	ce+DemDet+Fem+Sg
+
+lettre	lettrer+Ver+Impr+Pre+PP2S
+lettre	lettrer+Ver+Sub+Pre+PP3S
+lettre	lettrer+Ver+Sub+Pre+PP1S
+lettre	lettrer+Ver+Ind+Pre+PP3S
+lettre	lettrer+Ver+Ind+Pre+PP1S
+lettre	lettre+Nom+Fem+Sg
+
+,	,
+
+et	et+Conjun
+
+réglez-vous	+?
+
+sur	sur+Prep
+sur	sur+Adj+Mas+Sg
+
+lui	elle+Pron+Person+IndirObj+PP3S+Sg
+lui	il+Pron+Person+IndirObj+PP3S+Sg
+lui	il+Pron+Person+Disj+PP3S+Sg
+
+,	,
+
+afin	afin+Conjun
+
+de	de+Prep
+
+faire	faire+Ver+Inf
+
+comme	comme+Conjun
+
+lui	elle+Pron+Person+IndirObj+PP3S+Sg
+lui	il+Pron+Person+IndirObj+PP3S+Sg
+lui	il+Pron+Person+Disj+PP3S+Sg
+
+.	.
+
+"	"
+
+sur	sur+Prep
+sur	sur+Adj+Mas+Sg
+
+quoi	quoi+Pron+Intero
+quoi	quoi+Adv
+
+,	,
+
+m	+?
+
+.	.
+
+d'	d'+Prep
+
+artagnan	+?
+
+père	père+Nom+Mas+Sg
+
+ceignit	ceindre+Ver+Ind+PSim+PP3S
+
+à	à+Prep
+
+son	son+Nom+Mas+Sg
+son	son+PossDet+PP3S+Mas+Sg
+
+fils	fil+Nom+Mas+Pl
+fils	fils+Nom+Mas+Sg
+
+sa	son+PossDet+PP3S+Fem+Sg
+
+propre	propre+Adj+Mas+Sg
+
+épée	épée+Nom+Fem+Sg
+
+,	,
+
+l'	le+DefArt+Mas+Sg
+l'	le+DefArt+Fem+Sg
+l'	il+Pron+Person+DirObj+PP3S+Sg
+
+embrassa	embrasser+Ver+Ind+PSim+PP3S
+
+tendrement	tendre+Adv+Mas+Sg
+
+sur	sur+Prep
+sur	sur+Adj+Mas+Sg
+
+les	le+DefArt+Mas+Pl
+les	le+DefArt+Fem+Pl
+les	elles+Pron+Person+DirObj+PP3P+Pl
+les	ils+Pron+Person+DirObj+PP3P+Pl
+
+deux	deux+Nom+Mas+Sg
+deux	deux+Num+Nom
+deux	deux+Num+Adj
+
+joues	jouer+Ver+Sub+Pre+PP2S
+joues	jouer+Ver+Ind+Pre+PP2S
+joues	joue+Nom+Fem+Pl
+
+et	et+Conjun
+
+lui	elle+Pron+Person+IndirObj+PP3S+Sg
+lui	il+Pron+Person+IndirObj+PP3S+Sg
+lui	il+Pron+Person+Disj+PP3S+Sg
+
+donna	donner+Ver+Ind+PSim+PP3S
+
+sa	son+PossDet+PP3S+Fem+Sg
+
+bénédiction	bénédiction+Nom+Fem+Sg
+
+.	.
+
