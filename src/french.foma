@@ -33,11 +33,12 @@ define	RegAdjectives;
 read lexc adjectives/irreg-adverbs.lexc
 define	IregAdverbs;
 
-regex RegAdjectives | IregAdverbs;
+read lexc adjectives/numbers.lexc
+define	Numbers;
+
+regex RegAdjectives | IregAdverbs | Numbers;
 define Adjectives
-
 # adjectives ================
-
 
 # articles ================
 read lexc articles/articles.lexc

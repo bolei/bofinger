@@ -111,6 +111,7 @@ lequel+Pron+Intero+Mas+Sg:lequel	#;
 lequel+Pron+Intero+Fem+Sg:laquelle	#;
 lequel+Pron+Intero+Mas+Pl:lesquels	#;
 lequel+Pron+Intero+Fem+Pl:lesquelles	#;
+dont+Pron+Intero+Fem+Pl:dont	#;
 
 ceci+Pron+Demo:ceci	#;
 cela+Pron+Demo:cela	#;

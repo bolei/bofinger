@@ -4577,12 +4577,12 @@ LEXICON Group1_Indicative
 +Pre+PP3P:^ent				#;
 
 ! Imparfait
-+Imp+PP1S:^eais			#;
-+Imp+PP2S:^eais			#;
-+Imp+PP3S:^eait			#;
++Imp+PP1S:^ais			#;
++Imp+PP2S:^ais			#;
++Imp+PP3S:^ait			#;
 +Imp+PP1P:^ions			#;
 +Imp+PP2P:^iez				#;
-+Imp+PP3P:^eaient			#;
++Imp+PP3P:^aient			#;
 
 ! Passé Simple
 +PSim+PP1S:^ai			#;
@@ -4610,12 +4610,12 @@ LEXICON Group1_Subjunctive
 +Pre+PP3P:^ent				#;
 
 ! Imparfait
-+Imp+PP1S:^easse			#;
-+Imp+PP2S:^easses			#;
-+Imp+PP3S:^eât				#;
-+Imp+PP1P:^eassions		#;
-+Imp+PP2P:^eassiez			#;
-+Imp+PP3P:^eassent			#;
++Imp+PP1S:^asse			#;
++Imp+PP2S:^asses			#;
++Imp+PP3S:^ât				#;
++Imp+PP1P:^assions		#;
++Imp+PP2P:^assiez			#;
++Imp+PP3P:^assent			#;
 
 LEXICON Group1_Conditional
 ! Présent
@@ -4629,5 +4629,5 @@ LEXICON Group1_Conditional
 LEXICON Group1_Imperative
 ! Présent
 +Pre+PP2S:^e				#;
-+Pre+PP1P:^eons			#;
++Pre+PP1P:^ons			#;
 +Pre+PP2P:^ez				#;
