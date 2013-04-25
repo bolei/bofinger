@@ -201,8 +201,13 @@ So the program is run on Corpus A, the first 1000 words from Les Trois Mousqueta
 \begin{verbatim}
 word type count:
 497
-recognition rate:
+word type recognition rate:
 0.64185110664
+============
+word token count:
+1224
+word token recognition rate:
+0.646241830065
 \end{verbatim}
 
 \section{Lessons Learned and Revised Design}
@@ -226,8 +231,13 @@ In the second round of development, Prepositions, Pronouns and Negation are adde
 \begin{verbatim}
 word type count:
 471
-recognition rate:
+word type recognition rate:
 0.717622080679
+============
+word token count:
+1163
+word token recognition rate:
+0.798796216681
 \end{verbatim} 
 After examining the unrecognised words, There are two major reasons that the analyser doesn't recognize words:\\
 \begin{itemize}
@@ -235,7 +245,18 @@ After examining the unrecognised words, There are two major reasons that the ana
 \item Tokens that contain capitalized alphabets are not recognized. This is because so far the analyser is case sensitive. It would be good to make it case insensitive. Because the analyser is supposed to treat tokens in the same way regardless its case.
 \end{itemize}
 \section{Final Revisions}
-
+Corpus C is the chapter 11 to 13 in Les Trois Mousquetaires  .\\
+\begin{verbatim}
+word type count:
+2639
+word type recognition rate:
+0.857521788556
+============
+word token count:
+15668
+word token recognition rate:
+0.938026550932
+\end{verbatim} 
 \section{Future Work}
 
 \bibliographystyle{plainnat}

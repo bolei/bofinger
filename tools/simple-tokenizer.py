@@ -6,7 +6,8 @@ ignorelist = ('!', '-', '_', '(', ')', ',', '.', ':', ';', '"', '\'', '?')
 
 def displayword(w):
 	if w != "":
-		print w.lower()
+		print w
+#		print w.lower()
 
 def handletail(w):
 #	print w
