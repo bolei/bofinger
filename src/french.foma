@@ -28,7 +28,14 @@ define	Nouns;
 
 # adjectives ================
 read lexc adjectives/adjectives.lexc
-define	Adjectives;
+define	RegAdjectives;
+
+read lexc adjectives/irreg-adverbs.lexc
+define	IregAdverbs;
+
+regex RegAdjectives | IregAdverbs;
+define Adjectives
+
 # adjectives ================
 
 
@@ -68,8 +75,10 @@ define	NotConsidered;
 # not considered ================
 
 regex	Verbs | Nouns | Adjectives | Articles | Determiners | Prepositions | Pronouns | Conjunctions | Negations | NotConsidered;
-define	Grammar;
+define	Lexicon;
 
 define	Cleanup "^" -> 0;
 
-regex	Grammar .o. Cleanup;
+define	Grammar Lexicon .o. Cleanup;
+
+regex Grammar;

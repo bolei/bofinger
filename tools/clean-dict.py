@@ -8,11 +8,10 @@ def contains_digits(d):
     return bool(_digits.search(d))
 
 def main():
-	wordToAppend="AjectivesInf"
-	for line in fileinput.input('!'):
+	for line in fileinput.input():
 		word = line.strip()
 		if word != "" and len(word) > 1 and len(word.split()) == 1 and (word.isalpha() or word.find('.') == -1) and contains_digits(word) == False:
-			print word + "\t"+wordToAppend+";"
+			print word + "+Adv:" + word + "\t#;"
 
 if __name__ == "__main__":
 

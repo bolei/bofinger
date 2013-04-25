@@ -2,20 +2,29 @@ Multichar_Symbols +Pron +Person +Poss +Intero +Demo +Subj +Refl +DirObj +IndirOb
 
 LEXICON Root
 je+Pron+Person+Subj+PP1S+Sg:je	#;
+je+Pron+Person+Subj+PP1S+Sg:j'	#;
 je+Pron+Person+Refl+PP1S+Sg:me	#;
+je+Pron+Person+Refl+PP1S+Sg:m'	#;
 je+Pron+Person+DirObj+PP1S+Sg:me	#;
+je+Pron+Person+DirObj+PP1S+Sg:m'	#;
 je+Pron+Person+IndirObj+PP1S+Sg:me	#;
+je+Pron+Person+IndirObj+PP1S+Sg:m'	#;
 je+Pron+Person+Disj+PP1S+Sg:moi	#;
 
 tu+Pron+Person+Subj+PP2S+Sg:tu	#;
 tu+Pron+Person+Refl+PP2S+Sg:te	#;
+tu+Pron+Person+Refl+PP2S+Sg:t'	#;
 tu+Pron+Person+DirObj+PP2S+Sg:te	#;
+tu+Pron+Person+DirObj+PP2S+Sg:t'	#;
 tu+Pron+Person+IndirObj+PP2S+Sg:te	#;
+tu+Pron+Person+IndirObj+PP2S+Sg:t'	#;
 tu+Pron+Person+Disj+PP2S+Sg:toi	#;
 
 il+Pron+Person+Subj+PP3S+Sg:il	#;
 il+Pron+Person+Refl+PP3S+Sg:se	#;
+il+Pron+Person+Refl+PP3S+Sg:s'	#;
 il+Pron+Person+DirObj+PP3S+Sg:le	#;
+il+Pron+Person+DirObj+PP3S+Sg:l'	#;
 il+Pron+Person+DirObj+PP3S+Sg:en	#;
 il+Pron+Person+IndirObj+PP3S+Sg:lui	#;
 il+Pron+Person+IndirObj+PP3S+Sg:y	#;
@@ -31,6 +40,7 @@ elle+Pron+Person+Disj+PP3S+Sg:elle	#;
 
 on+Pron+Person+Subj+PP3S+Sg:on	#;
 on+Pron+Person+Refl+PP3S+Sg:se	#;
+on+Pron+Person+Refl+PP3S+Sg:s'	#;
 on+Pron+Person+Disj+PP3S+Sg:soi	#;
 
 nous+Pron+Person+Subj+PP1P+Pl:nous	#;
@@ -47,6 +57,7 @@ vous+Pron+Person+Disj+PP2P+Pl:vous	#;
 
 ils+Pron+Person+Subj+PP3P+Pl:ils	#;
 ils+Pron+Person+Refl+PP3P+Pl:se	#;
+ils+Pron+Person+Refl+PP3P+Pl:s'	#;
 ils+Pron+Person+DirObj+PP3P+Pl:les	#;
 ils+Pron+Person+DirObj+PP3P+Pl:en	#;
 ils+Pron+Person+IndirObj+PP3P+Pl:leur	#;
@@ -55,6 +66,7 @@ ils+Pron+Person+Disj+PP3P+Pl:eux	#;
 
 elles+Pron+Person+Subj+PP3P+Pl:elles	#;
 elles+Pron+Person+Refl+PP3P+Pl:se	#;
+elles+Pron+Person+Refl+PP3P+Pl:s'	#;
 elles+Pron+Person+DirObj+PP3P+Pl:les	#;
 elles+Pron+Person+DirObj+PP3P+Pl:en	#;
 elles+Pron+Person+IndirObj+PP3P+Pl:leur	#;

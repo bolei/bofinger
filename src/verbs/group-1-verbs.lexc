@@ -4585,11 +4585,11 @@ LEXICON Group1_Indicative
 +Imp+PP3P:^eaient			#;
 
 ! Passé Simple
-+PSim+PP1S:^eai			#;
-+PSim+PP2S:^eas			#;
-+PSim+PP3S:^ea				#;
-+PSim+PP1P:^eâmes			#;
-+PSim+PP2P:^eâtes			#;
++PSim+PP1S:^ai			#;
++PSim+PP2S:^as			#;
++PSim+PP3S:^a				#;
++PSim+PP1P:^âmes			#;
++PSim+PP2P:^âtes			#;
 +PSim+PP3P:^èrent			#;
 
 ! Future Simple
