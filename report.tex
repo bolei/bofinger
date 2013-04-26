@@ -167,31 +167,42 @@ French articles and determiners:\\
 There are also types of words in French such as Pronoun, adverbs, Prepositions, Negation words which do not have complex spelling rules. Our program will treat them in a lower priority.
 
 \section{Initial Design}
-The system can be divided into the following modules:\\
+\subsection*{System architecture}
+Following is a big picture of the system.\\
+\centerline{\includegraphics[width=60mm]{img/overview.png}}\\
+The raw corpus is first tokenized by a tokenizer, then the analyser will do the morphological analysis on the tokenized corpus.\\
+
+
+The analyser can be divided by word types:\\
 \indent Lexicon: This will be the module that defines all the original form of the French words and third regular inflection. It includes\\
-\indent\indent Verbs\\
-\indent\indent\indent First group verbs\\
-\indent\indent\indent Second group verbs\\
-\indent\indent\indent Third group verbs\\
-\indent\indent\indent Past particle\\
-\indent\indent\indent Present particle\\
-\indent\indent Nouns\\
-\indent\indent\indent Masculine\\
-\indent\indent\indent Feminine\\
-\indent\indent\indent Plural\\
-\indent\indent Adjectives \& Adverbs\\
-\indent\indent Pronouns\\
+\begin{itemize}
+\item Nouns
+\item Verbs
+\item Adjectives \& Adverbs
+\item Articles
+\item Determiners
+\item Conjunctions
+\item Negations
+\item Prepositions
+\item Pronouns
+\end{itemize}
+The list of words come from Wikitionary\footnote{https://en.wiktionary.org/wiki/Index:French}.
 
 \indent Irregular forms: All the exceptions of the regular conjugations are handled in this module.\\
+
+The structure of analyser can be illustrated by the following figure.\\
+\centerline{\includegraphics[width=100mm]{img/analyser.png}}\\
+
 \section{System Analysis on Corpus A}
 At this point, I have implemented a part of word categories in French. They are:\\
-\indent Nouns\\
-\indent Verbs\\
-\indent Adjectives\\
-\indent Adverbs\\
-\indent Articles\\
-\indent Determiners\\
-\\
+\begin{itemize}
+\item Nouns
+\item Verbs
+\item Adjectives \&  Adverbs
+\item Articles
+\item Determiners
+
+\end{itemize}
 Except for 3rd group verbs, Only regular inflections were implemented.\\
 \\
 This is a pilot version and its purpose is only to check if the system is able to analyse something. As a result, the main evaluation criterion is its recognition rate, namely the percentage of the words that it is able to recognize and give some parse.\\
@@ -245,7 +256,15 @@ After examining the unrecognised words, There are two major reasons that the ana
 \item Tokens that contain capitalized alphabets are not recognized. This is because so far the analyser is case sensitive. It would be good to make it case insensitive. Because the analyser is supposed to treat tokens in the same way regardless its case.
 \end{itemize}
 \section{Final Revisions}
-Corpus C is the chapter 11 to 13 in Les Trois Mousquetaires  .\\
+Further improvement has been made in this round of development.
+\begin{itemize}
+\item Case insensitive
+The corpus always contains words with capitalized alphabets. For example all leading word of a sentence starts with a capitalized letter. Obviously they should be considered correct and the analyser is supposed to give a parse.
+\item Ignoring accents\\
+In human text, people tent to miss use accents.For example, \`a Paris (in Paris) is always written as a Paris. Even without typo, both \`a and a will become A when appear at the beginning of a sentence. Thus, it is decided that the analyser will ignore accents.
+\item improved the lexicon
+\end{itemize}
+Corpus C is contains chapter 11 to 13 in Les Trois Mousquetaires.\\
 \begin{verbatim}
 word type count:
 2639
@@ -258,7 +277,66 @@ word token recognition rate:
 0.938026550932
 \end{verbatim} 
 \section{Future Work}
-
+Up to now, most of the basic French inflections are implemented. However there are much more things left to be done.
+\begin{itemize}
+\item Fixing bugs and Improving the lexicon
+It is inevitable that the program has bugs. Some inflection rules may not be correctly defined. Also in reviewing the unrecognised words, I found that there are common used words not included in the lexicon.
+\item Handling more irregular inflections\\
+Most of the effort has been made in dealing with 3rd group verbs. There are other irregular inflections left unimplemented.
+\item Better evaluation mechanism\\
+So far the evaluation script only calculates the recognition rate on the analysis result. It is desired to evaluate the precision and recall of the analyser.
+\end{itemize}
+\section{Appendix}
+\subsection*{List of tags}
+\begin{table}
+    \begin{tabular}{ll}
+		+Adj & Adjective \\
+		+Adv & Adverb \\
+		+Con & Conditional \\
+		+Conjun & Conjunction \\
+		+DefArt & Definite article \\
+		+DemDet & Demonstrative determiners \\
+		+Demo & Demonstrative pronouns \\
+		+Det & determiners \\
+		+DirObj & Direct Object Pronouns \\
+		+Disj & Disjunctive Pronouns \\
+		+Fem & feminine \\
+		+Fut & Simple future \\
+		+Impr & Imperative \\
+		+Ind & Indicative \\
+		+IndefArt & Indefinite article \\
+		+IndirObj & Indirect-object pronouns \\
+		+Inf & infinitive \\
+		+Intero & Interrogative pronouns \\
+		+InterrDet & Interrogative determiners \\
+		+Mas & masculine \\
+		+Neg & negations \\
+		+Nom & nouns \\
+		+Num & numbers \\
+		+PartArt & partitive article \\
+		+Person & Personal Pronouns \\
+		+Pl & plural \\
+		+Poss & Possessive pronouns \\
+		+PossDet & Possessive determiners \\
+		+PP1P & First person plural \\
+		+PP1S & First person singular \\
+		+PP2P & Second person plural \\
+		+PP2S & Second person singular \\
+		+PP3P & Third person plural \\
+		+PP3S & Third person singular \\
+		+PPas & Past Partical \\
+		+PPre & Present Partical \\
+		+Pre & present \\
+		+Prep & prepositions \\
+		+Pron & pronouns \\
+		+PSim & Simple past \\
+		+Refl & Reflexive pronouns \\
+		+Sg & singular \\
+		+Sub & subjunctive \\
+		+Subj & Subject pronouns \\
+		+Ver & Verb \\
+    \end{tabular}
+\end{table}
 \bibliographystyle{plainnat}
 \bibliography{refs}
 \label{lastpage}
